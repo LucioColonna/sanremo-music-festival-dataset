@@ -19,9 +19,9 @@ It is designed as a living dataset and will be **updated annually** after each n
 
 ## <b>Dataset Structure</b>
 
-<b>`year`</b> : Year of the Sanremo Music Festival edition<br><br>
+- <b>`year`</b> : Year of the Sanremo Music Festival edition<br><br>
 
-<b>`placement`</b> : Final competition result or participation status.<br>
+- <b>`placement`</b> : Final competition result or participation status.<br>
 Possible values are:<br>
     <b>1, 2, 3, …</b> : Final ranking position in the competition<br>
     <b>F</b> : Finalist (qualified for the final stage)<br>
@@ -29,15 +29,15 @@ Possible values are:<br>
     <b>DQ</b> : Disqualified<br>
     <b>RT</b> : Retired (withdrew from the competition)<br><br>
 
-<b>`artist`</b> : Name of the performing artist or artistic unit as officially presented at the festival<br><br>
+- <b>`artist`</b> : Name of the performing artist or artistic unit as officially presented at the festival<br><br>
 
-<b>`artist_id`</b> : Unique identifier for the artist or artistic unit<br><br>
+- <b>`artist_id`</b> : Unique identifier for the artist or artistic unit<br><br>
 
-<b>`song`</b> : Song title<br><br>
+- <b>`song`</b> : Song title<br><br>
 
-<b>`song_id`</b> : Unique identifier for the song<br><br>
+- <b>`song_id`</b> : Unique identifier for the song<br><br>
 
-<b>`author`</b> : Song author(s)
+- <b>`author`</b> : Song author(s)
 
 
 -------
