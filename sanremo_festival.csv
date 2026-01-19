@@ -1,0 +1,2137 @@
+year,placement,artist,artist_id,song,song_id,author
+1951,1,Nilla Pizzi,a_00001,Grazie dei fiori,s_00001,"Gian Carlo Testoni, Mario Panzeri"
+1951,2,Nilla Pizzi e Achille Togliani,a_00002,La luna si veste d'argento,s_00002,Biri
+1951,3,Achille Togliani,a_00003,Serenata a nessuno,s_00003,Walter Colì
+1951,F,Achille Togliani e Duo Fasano,a_00004,Al mercato di Pizzighettone,s_00004,Aldo Locatelli
+1951,F,Nilla Pizzi e Achille Togliani,a_00002,Eco tra gli abeti,s_00005,Enzo Bonagura
+1951,F,Achille Togliani e Duo Fasano,a_00004,Famme durmì,s_00006,Danpa
+1951,F,Duo Fasano,a_00005,La cicogna distratta,s_00007,"Aldo Valleroni, Da Rovere"
+1951,F,Nilla Pizzi e Duo Fasano,a_00006,La margherita,s_00008,Ester B. Valdes
+1951,F,Achille Togliani,a_00003,Sedici anni,s_00009,Astro Mari
+1951,F,Duo Fasano,a_00005,Sotto il mandorlo,s_00010,"Gian Carlo Testoni, Mario Panzeri"
+1951,NF,Nilla Pizzi,a_00001,È l'alba,s_00011,Gian Carlo Testoni
+1951,NF,Nilla Pizzi,a_00001,Ho pianto una volta sola,s_00012,Pinchi
+1951,NF,Achille Togliani,a_00003,Mai più,s_00013,Filippo Rolando
+1951,NF,Achille Togliani,a_00003,Mani che si cercano,s_00014,Giovanna Colombi
+1951,NF,Nilla Pizzi,a_00001,Mia cara Napoli,s_00015,Salvatore Mazzocco
+1951,NF,Nilla Pizzi,a_00001,Notte di Sanremo,s_00016,Enzo Luigi Poletto
+1951,NF,Duo Fasano,a_00005,Oro di Napoli,s_00017,Umberto Bertini
+1951,NF,Achille Togliani e Duo Fasano,a_00004,Sei fatta per me,s_00018,Guido Quattrini
+1951,NF,Duo Fasano,a_00005,Sorrentinella,s_00019,Arrigo Giacomo Camosso
+1951,NF,Nilla Pizzi,a_00001,Tutto è finito,s_00020,Otello Odorici
+1952,1,Nilla Pizzi,a_00001,Vola colomba,s_00021,Bixio Cherubini
+1952,2,Nilla Pizzi,a_00001,Papaveri e papere,s_00022,"Nino Rastelli, Mario Panzeri"
+1952,3,Nilla Pizzi,a_00001,Una donna prega,s_00023,Pinchi
+1952,4,Oscar Carboni,a_00007,Madonna delle rose,s_00024,Giuseppe Fiorelli
+1952,5,Gino Latilla,a_00008,Un disco dall'Italia,s_00025,Nisa
+1952,6,Gino Latilla,a_00008,L'attesa,s_00026,Biri
+1952,7,Oscar Carboni,a_00007,Perché le donne belle,s_00027,Alessandro Sopranzi
+1952,8,Achille Togliani,a_00003,Vecchie mura,s_00028,Filibello
+1952,9,Achille Togliani,a_00003,Libro di novelle,s_00029,Libero Citi
+1952,10,Nilla Pizzi e Achille Togliani,a_00002,Nel regno dei sogni,s_00030,Annibale Papetti
+1952,NF,Duo Fasano,a_00005,Al ritmo della carrozzella,s_00031,Enzo Luigi Poletto
+1952,NF,Nilla Pizzi e Duo Fasano,a_00006,Buonanotte (Ai bimbi del mondo),s_00032,Ettore Minoretti
+1952,NF,Oscar Carboni,a_00007,Cantate e sorridete,s_00033,Gian Carlo Testoni
+1952,NF,Duo Fasano,a_00005,Due gattini,s_00034,T. Giacobetti
+1952,NF,Nilla Pizzi e Duo Fasano,a_00006,Il valzer di Nonna Speranza,s_00035,Gian Carlo Testoni
+1952,NF,Achille Togliani,a_00003,La collanina,s_00036,Gian Carlo Testoni
+1952,NF,Gino Latilla,a_00008,Malinconica tarantella,s_00037,Gian Carlo Testoni
+1952,NF,Nilla Pizzi,a_00001,Ninna nanna ai sogni perduti,s_00038,Gian Carlo Testoni
+1952,NF,Gino Latilla,a_00008,Pura fantasia,s_00039,Aminta
+1952,NF,Duo Fasano,a_00005,Vecchio tram,s_00040,Gian Luigi Callegari
+1953,1,Carla Boni,a_00009,Viale d'autunno,s_00041,G. D'Anzi
+1953,1,Flo Sandon's,a_00010,Viale d'autunno,s_00041,G. D'Anzi
+1953,2,Nilla Pizzi e Doppio Quintetto Vocale,a_00011,Campanaro,s_00042,"B. Cherubini, C. Concina"
+1953,2,Teddy Reno e Quartetto Stars,a_00012,Campanaro,s_00042,"B. Cherubini, C. Concina"
+1953,3,Achille Togliani,a_00003,Lasciami cantare una canzone,s_00043,"M. Cozzoli, C. A. Bixio"
+1953,3,Teddy Reno,a_00013,Lasciami cantare una canzone,s_00043,"M. Cozzoli, C. A. Bixio"
+1953,3,Gino Latilla e Doppio Quintetto Vocale,a_00014,Vecchio scarpone,s_00044,"Calibi, Pinchi, C. Donida"
+1953,3,Giorgio Consolini,a_00015,Vecchio scarpone,s_00044,"Calibi, Pinchi, C. Donida"
+1953,5,Gino Latilla,a_00008,Vecchia villa comunale,s_00045,"R. Ruocco, N. Oliviero"
+1953,5,Giorgio Consolini,a_00015,Vecchia villa comunale,s_00045,"R. Ruocco, N. Oliviero"
+1953,6,Achille Togliani,a_00003,No Pierrot,s_00046,"A. Costanzo, R. Salani"
+1953,6,Katyna Ranieri,a_00016,No Pierrot,s_00046,"A. Costanzo, R. Salani"
+1953,7,Carla Boni,a_00009,Il passerotto,s_00047,"E. Di Lazzaro, D. Valentini"
+1953,7,Quartetto Stars,a_00017,Il passerotto,s_00047,"E. Di Lazzaro, D. Valentini"
+1953,8,Nilla Pizzi e Doppio Quintetto Vocale,a_00011,Sussurrando buonanotte,s_00048,"Danpa, B. Pallesi, V. Panzuti"
+1953,8,Teddy Reno e Quartetto Stars,a_00012,Sussurrando buonanotte,s_00048,"Danpa, B. Pallesi, V. Panzuti"
+1953,9,Gino Latilla e Doppio Quintetto Vocale,a_00014,Tamburino del reggimento,s_00049,Deani
+1953,9,Giorgio Consolini,a_00015,Tamburino del reggimento,s_00049,Deani
+1953,10,Nilla Pizzi e Doppio Quintetto Vocale,a_00011,Papà Pacifico,s_00050,"N. Rastelli, A. Fragna"
+1953,10,Teddy Reno e Quartetto Stars,a_00012,Papà Pacifico,s_00050,"N. Rastelli, A. Fragna"
+1953,NF,Carla Boni,a_00009,Acque amare,s_00051,"N. Salerno, C. A. Rossi"
+1953,NF,Katyna Ranieri,a_00016,Acque amare,s_00051,"N. Salerno, C. A. Rossi"
+1953,NF,Carla Boni,a_00009,Buona sera,s_00052,"M. Evangelisti Tumminelli, C. Di Ceglie"
+1953,NF,Flo Sandon's,a_00010,Buona sera,s_00052,"M. Evangelisti Tumminelli, C. Di Ceglie"
+1953,NF,Nilla Pizzi,a_00001,Canto della solitudine,s_00053,"E. Bonagura, G. Redi"
+1953,NF,Teddy Reno,a_00013,Canto della solitudine,s_00053,"E. Bonagura, G. Redi"
+1953,NF,Katyna Ranieri,a_00016,Domandatelo,s_00054,"V. Baselice, G. Fiorelli"
+1953,NF,Achille Togliani,a_00003,Domandatelo,s_00054,"V. Baselice, G. Fiorelli"
+1953,NF,Gino Latilla,a_00008,Innamorami,s_00055,"M. Ruccione, E. Ceragioli, U. Bertini"
+1953,NF,Teddy Reno,a_00013,Innamorami,s_00055,"M. Ruccione, E. Ceragioli, U. Bertini"
+1953,NF,Achille Togliani,a_00003,La mamma che piange di più,s_00056,"G. Pisano, F. Rendine"
+1953,NF,Giorgio Consolini,a_00015,La mamma che piange di più,s_00056,"G. Pisano, F. Rendine"
+1953,NF,Achille Togliani,a_00003,La pianola stonata,s_00057,"M. Gigante, E. De Mura"
+1953,NF,Katyna Ranieri,a_00016,La pianola stonata,s_00057,"M. Gigante, E. De Mura"
+1953,NF,Nilla Pizzi,a_00001,L'altra,s_00058,"V. Mascheroni, Biri"
+1953,NF,Flo Sandon's,a_00010,L'altra,s_00058,"V. Mascheroni, Biri"
+1953,NF,Gino Latilla,a_00008,Povero amico mio,s_00059,"M. Rivi, C. Innocenzi"
+1953,NF,Giorgio Consolini,a_00015,Povero amico mio,s_00059,"M. Rivi, C. Innocenzi"
+1953,NF,Carla Boni,a_00009,Qualcuno cammina,s_00060,"N. Rastelli, N. Casiroli"
+1953,NF,Flo Sandon's,a_00010,Qualcuno cammina,s_00060,"N. Rastelli, N. Casiroli"
+1954,1,Giorgio Consolini,a_00015,Tutte le mamme,s_00061,"U. Bertini, E. Falcocchio"
+1954,1,Gino Latilla,a_00008,Tutte le mamme,s_00061,"U. Bertini, E. Falcocchio"
+1954,2,Katyna Ranieri,a_00016,Canzone da due soldi,s_00062,"Pinchi, C. Donida"
+1954,2,Achille Togliani,a_00003,Canzone da due soldi,s_00062,"Pinchi, C. Donida"
+1954,3,Gino Latilla,a_00008,...e la barca tornò sola,s_00063,M. Ruccione
+1954,3,Franco Ricci,a_00018,...e la barca tornò sola,s_00063,M. Ruccione
+1954,4,Natalino Otto,a_00019,Notturno (Per chi non ha nessuno),s_00064,F. S. Mangieri
+1954,4,Vittoria Mongardi,a_00020,Notturno (Per chi non ha nessuno),s_00064,F. S. Mangieri
+1954,5,Flo Sandon's,a_00010,Non è mai troppo tardi,s_00065,D. Olivieri
+1954,5,Carla Boni,a_00009,Non è mai troppo tardi,s_00065,D. Olivieri
+1954,6,Quartetto Cetra,a_00021,Aveva un bavero,s_00066,"M. Panzeri, V. Ripa"
+1954,6,Vittoria Mongardi e Duo Fasano,a_00022,Aveva un bavero,s_00066,"M. Panzeri, V. Ripa"
+1954,7,Gino Latilla e Duo Fasano,a_00023,Sotto l'ombrello,s_00067,N. Casiroli
+1954,7,Katyna Ranieri e Giorgio Consolini,a_00024,Sotto l'ombrello,s_00067,N. Casiroli
+1954,8,Achille Togliani,a_00003,Mogliettina,s_00068,S. Seracini
+1954,8,Natalino Otto,a_00019,Mogliettina,s_00068,S. Seracini
+1954,9,Achille Togliani,a_00003,Con te,s_00069,A. De Curtis
+1954,9,Flo Sandon's e Natalino Otto,a_00025,Con te,s_00069,A. De Curtis
+1954,10,Achille Togliani,a_00003,Donnina sola,s_00070,"S. Simoni, A. Valleroni, M. Casini"
+1954,10,Natalino Otto,a_00019,Donnina sola,s_00070,"S. Simoni, A. Valleroni, M. Casini"
+1954,NF,Vittoria Mongardi,a_00020,Angeli senza cielo,s_00071,"Pinchi, E. Valladi"
+1954,NF,Flo Sandon's,a_00010,Angeli senza cielo,s_00071,"Pinchi, E. Valladi"
+1954,NF,"Carla Boni, Gino Latilla e Duo Fasano",a_00026,Arriva il direttore,s_00072,"M. Panzeri, G. Fanciulli"
+1954,NF,Quartetto Cetra,a_00021,Arriva il direttore,s_00072,"M. Panzeri, G. Fanciulli"
+1954,NF,Carla Boni e Duo Fasano,a_00027,Berta filava,s_00073,"Pinchi, G. Wilhelm, O. Fiammenghi"
+1954,NF,Giorgio Consolini,a_00015,Berta filava,s_00073,"Pinchi, G. Wilhelm, O. Fiammenghi"
+1954,NF,Gino Latilla e Duo Fasano,a_00023,Canzoni alla sbarra,s_00074,G. D'Anzi
+1954,NF,Quartetto Cetra,a_00021,Canzoni alla sbarra,s_00074,G. D'Anzi
+1954,NF,Carla Boni e Duo Fasano,a_00027,Cirillino-Ci,s_00075,"N. Rastelli, V. Mascheroni"
+1954,NF,Quartetto Cetra,a_00021,Cirillino-Ci,s_00075,"N. Rastelli, V. Mascheroni"
+1954,NF,Achille Togliani,a_00003,Gioia di vivere,s_00076,C. A. Bixio
+1954,NF,Gianni Ravera,a_00028,Gioia di vivere,s_00076,C. A. Bixio
+1954,NF,Duo Fasano e Gino Latilla,a_00029,Piripicchio e Piripicchia,s_00077,"A. Sopranzi, T. Fusco"
+1954,NF,Quartetto Cetra,a_00021,Piripicchio e Piripicchia,s_00077,"A. Sopranzi, T. Fusco"
+1954,NF,Katyna Ranieri,a_00016,Rose (Oggi i tempi son cambiati),s_00078,"Biri, G. Viezzoli"
+1954,NF,Vittoria Mongardi,a_00020,Rose (Oggi i tempi son cambiati),s_00078,"Biri, G. Viezzoli"
+1954,NF,Carla Boni,a_00009,Un diario,s_00079,"A. Locatelli, F. Bergamini"
+1954,NF,Quartetto Cetra,a_00021,Un diario,s_00079,"A. Locatelli, F. Bergamini"
+1954,NF,Gino Latilla,a_00008,Una bambina sei tu,s_00080,G. Fabor
+1954,NF,Natalino Otto,a_00019,Una bambina sei tu,s_00080,G. Fabor
+1955,1,Claudio Villa,a_00030,Buongiorno tristezza,s_00081,"G. Fiorelli, M. Ruccione"
+1955,1,Tullio Pane,a_00031,Buongiorno tristezza,s_00081,"G. Fiorelli, M. Ruccione"
+1955,2,Claudio Villa,a_00030,Il torrente,s_00082,"C. A. Liman, L. Carmi"
+1955,2,Tullio Pane,a_00031,Il torrente,s_00082,"C. A. Liman, L. Carmi"
+1955,3,Natalino Otto e Trio Aurora,a_00032,Canto nella valle,s_00083,"M. Panzeri, U. Fusco"
+1955,3,"Bruno Pallesi, Nuccia Bongiovanni e Radio Boys",a_00033,Canto nella valle,s_00083,"M. Panzeri, U. Fusco"
+1955,4,Claudio Villa,a_00030,Incantatella,s_00084,E. Bonagura
+1955,4,Narciso Parigi,a_00034,Incantatella,s_00084,E. Bonagura
+1955,5,Antonio Basurto,a_00035,Un cuore,s_00085,"P. Mendes, E. Falcocchio"
+1955,5,Gianni Ravera,a_00028,Un cuore,s_00085,"P. Mendes, E. Falcocchio"
+1955,6,Jula de Palma,a_00036,L'ombra,s_00086,W. Colì
+1955,6,Marisa Colomber,a_00037,L'ombra,s_00086,W. Colì
+1955,7,Narciso Parigi e Radio Boys,a_00038,Ci ciu cì (Cantava un usignol),s_00087,"E. Minoretti, S. Seracini"
+1955,7,Natalino Otto e Trio Aurora,a_00032,Ci ciu cì (Cantava un usignol),s_00087,"E. Minoretti, S. Seracini"
+1955,8,Natalino Otto,a_00019,Una fotografia nella cornice,s_00088,"L. Mannucci, A. V. Savona, E. Fecchi"
+1955,8,Antonio Basurto,a_00035,Una fotografia nella cornice,s_00088,"L. Mannucci, A. V. Savona, E. Fecchi"
+1955,NF,Jula de Palma,a_00036,Cantilena del trainante,s_00089,"Angelo Faccenna, Enzo Bonagura, Mario De Angelis"
+1955,NF,Antonio Basurto,a_00035,Cantilena del trainante,s_00089,"Angelo Faccenna, Enzo Bonagura, Mario De Angelis"
+1955,NF,Bruno Pallesi,a_00039,Che fai tu luna in ciel,s_00090,"N. Rastelli, Ebe De Paulis, Brinniti"
+1955,NF,Jula de Palma,a_00036,Che fai tu luna in ciel,s_00090,"N. Rastelli, Ebe De Paulis, Brinniti"
+1955,NF,Clara Jaione e Radio Boys,a_00040,Era un omino (piccino piccino),s_00091,A. Paolillo
+1955,NF,"Nella Colombo, Bruno Rosettani e Trio Aurora",a_00041,Era un omino (piccino piccino),s_00091,A. Paolillo
+1955,NF,Natalino Otto,a_00019,I tre timidi,s_00092,E. Valladi
+1955,NF,Nuccia Bongiovanni e Radio Boys,a_00042,I tre timidi,s_00092,E. Valladi
+1955,NF,Bruno Pallesi e Nuccia Bongiovanni,a_00043,Il primo viaggio,s_00093,Mario Panzeri - Giancarlo Testoni - Sargon
+1955,NF,"Bruno Rosettani, Nella Colombo e Trio Aurora",a_00044,Il primo viaggio,s_00093,Mario Panzeri - Giancarlo Testoni - Sargon
+1955,NF,Gianni Ravera,a_00028,Non penserò che a te,s_00094,"Alba Taddei, Gino Poggiali, Mario Minasi"
+1955,NF,Tullio Pane,a_00031,Non penserò che a te,s_00094,"Alba Taddei, Gino Poggiali, Mario Minasi"
+1955,NF,Bruno Pallesi,a_00039,Sentiero,s_00095,"B. Cherubini, C. Concina"
+1955,NF,Jula de Palma,a_00036,Sentiero,s_00095,"B. Cherubini, C. Concina"
+1955,NF,Bruno Rosettani e Trio Aurora,a_00045,Zucchero e pepe,s_00096,"Biri, L. Capece Minutolo, V. Mascheroni"
+1955,NF,Clara Jaione e Radio Boys,a_00040,Zucchero e pepe,s_00096,"Biri, L. Capece Minutolo, V. Mascheroni"
+1956,1,Franca Raimondi,a_00046,Aprite le finestre,s_00097,"Pinchi, V. Panzuti"
+1956,2,Tonina Torrielli,a_00047,Amami se vuoi,s_00098,"M. Panzeri, V. Mascheroni"
+1956,3,Luciana Gonzales,a_00048,La vita è un paradiso di bugie,s_00099,"D. Calcagno, N. Oliviero"
+1956,4,Tonina Torrielli,a_00047,Il cantico del cielo,s_00100,"A. Testa, C. A. Rossi"
+1956,5,Ugo Molinari,a_00049,La colpa fu,s_00101,"Gippi, L. Beretta, E. Sciorilli"
+1956,6,Tonina Torrielli,a_00047,Il bosco innamorato,s_00102,"G. C. Testoni, G. Kramer"
+1956,7,Ugo Molinari,a_00049,Albero caduto,s_00103,"G. Fiorelli, M. Ruccione"
+1956,8,Gianni Marzocchi,a_00050,Musetto (La più bella sei tu),s_00104,D. Modugno
+1956,9,Ugo Molinari,a_00049,Nota per nota,s_00105,G. Viezzoli
+1956,10,Ugo Molinari,a_00049,Due teste sul cuscino,s_00106,"G. C. Testoni, F. Rendine"
+1956,NF,Gianni Marzocchi e Clara Vincenzi,a_00051,Anima gemella,s_00107,"G. C. Testoni, C. A. Rossi"
+1956,NF,Luciana Gonzales,a_00048,È bello,s_00108,"Danpa, D. Vignali"
+1956,NF,Gianni Marzocchi,a_00050,Ho detto al sole,s_00109,"R. Morbelli, Falco"
+1956,NF,Franca Raimondi,a_00046,Il trenino del destino,s_00110,"B. Cherubini, M. Schisa, M. Trama"
+1956,NF,Clara Vincenzi,a_00052,Il trenino di latta verde,s_00111,"M. Gigante, L. L. Martelli, Neri"
+1956,NF,Gianni Marzocchi e Franca Raimondi,a_00053,Lucia e Tobia,s_00112,"M. Panzeri, G. D'Anzi"
+1956,NF,Clara Vincenzi,a_00052,Lui e lei,s_00113,"S. Simoni, Faccenna, M. Casini"
+1956,NF,Luciana Gonzales,a_00048,Parole e musica,s_00114,"N. Rastelli, Silvestri"
+1956,NF,Tonina Torrielli,a_00047,Qualcosa è rimasto,s_00115,"Pinchi, Spaggiari"
+1956,NF,Franca Raimondi e Clara Vincenzi,a_00054,Sogni d'or,s_00116,"A. Costanzo, P. Maschio"
+1957,1,Claudio Villa,a_00030,Corde della mia chitarra,s_00117,"G. Fiorelli, M. Ruccione"
+1957,1,Nunzio Gallo,a_00055,Corde della mia chitarra,s_00117,"G. Fiorelli, M. Ruccione"
+1957,2,Claudio Villa,a_00030,Usignolo,s_00118,"G. Castellani, L. L. Martelli, C. Concina"
+1957,2,Giorgio Consolini,a_00015,Usignolo,s_00118,"G. Castellani, L. L. Martelli, C. Concina"
+1957,3,Gino Latilla,a_00008,Scusami,s_00119,"Biri, W. Malgoni, M. Perrone"
+1957,3,Tonina Torrielli,a_00047,Scusami,s_00119,"Biri, W. Malgoni, M. Perrone"
+1957,4,"Carla Boni, Gino Latilla e Duo Fasano",a_00026,Casetta in Canadà,s_00120,"M. Panzeri, V. Mascheroni"
+1957,4,Gloria Christian e Poker di Voci,a_00056,Casetta in Canadà,s_00120,"M. Panzeri, V. Mascheroni"
+1957,5,Claudio Villa,a_00030,Cancello tra le rose,s_00121,"U. Bertini, M. De Paolis"
+1957,5,Giorgio Consolini,a_00015,Cancello tra le rose,s_00121,"U. Bertini, M. De Paolis"
+1957,6,Claudio Villa e Gino Latilla,a_00057,Il pericolo numero uno,s_00122,"E. Bonagura, M. Cozzoli"
+1957,6,Natalino Otto e Poker di Voci,a_00058,Il pericolo numero uno,s_00122,"E. Bonagura, M. Cozzoli"
+1957,7,Tina Allori,a_00059,Intorno a te (È sempre primavera),s_00123,"D. Bernazza, M. De Angelis, A. Piga, Falco"
+1957,7,Tonina Torrielli,a_00047,Intorno a te (È sempre primavera),s_00123,"D. Bernazza, M. De Angelis, A. Piga, Falco"
+1957,8,Carla Boni,a_00009,Per una volta ancora,s_00124,"U. Bertini, G. D'Anzi"
+1957,8,Nunzio Gallo,a_00055,Per una volta ancora,s_00124,"U. Bertini, G. D'Anzi"
+1957,9,Gino Latilla e Duo Fasano,a_00023,Un filo di speranza,s_00125,"G. C. Testoni, S. Seracini"
+1957,9,Natalino Otto e Poker di Voci,a_00058,Un filo di speranza,s_00125,"G. C. Testoni, S. Seracini"
+1957,10,Carla Boni e Duo Fasano,a_00027,Le trote blu,s_00126,"D. Calcagno, L. Gelmini"
+1957,10,"Gloria Christian, Natalino Otto e Poker di Voci",a_00060,Le trote blu,s_00126,"D. Calcagno, L. Gelmini"
+1957,NF,Gino Latilla,a_00008,A poco a poco,s_00127,"M. Rivi, C. Innocenzi"
+1957,NF,Luciano Virgili,a_00061,A poco a poco,s_00127,"M. Rivi, C. Innocenzi"
+1957,NF,Tina Allori,a_00059,Ancora ci credo,s_00128,"E. Fecchi, F. Campanozzi"
+1957,NF,Flo Sandon's,a_00010,Ancora ci credo,s_00128,"E. Fecchi, F. Campanozzi"
+1957,NF,Fiorella Bini,a_00062,Estasi,s_00129,"Da Vinci, Lucci"
+1957,NF,Flo Sandon's,a_00010,Estasi,s_00129,"Da Vinci, Lucci"
+1957,NF,Gino Baldi,a_00063,Finalmente,s_00130,"G. Bonavolontà, M. Rivi"
+1957,NF,Luciano Virgili,a_00061,Finalmente,s_00130,"G. Bonavolontà, M. Rivi"
+1957,NF,Gino Baldi,a_00063,Nel giardino del mio cuore,s_00131,"G. C. Testoni, G. Kramer"
+1957,NF,Jula de Palma,a_00036,Nel giardino del mio cuore,s_00131,"G. C. Testoni, G. Kramer"
+1957,NF,Gino Latilla,a_00008,Non ti ricordi più?,s_00132,"Da Vinci, Poggiali"
+1957,NF,Nunzio Gallo,a_00055,Non ti ricordi più?,s_00132,"Da Vinci, Poggiali"
+1957,NF,Fiorella Bini e Duo Fasano,a_00064,Raggio nella nebbia,s_00133,"Franco Salina, M. Pagano"
+1957,NF,Jula de Palma e Poker di Voci,a_00065,Raggio nella nebbia,s_00133,"Franco Salina, M. Pagano"
+1957,NF,Gianni Ravera,a_00028,Un certo sorriso,s_00134,"M. Ruccione, G. Fiorelli"
+1957,NF,Natalino Otto,a_00019,Un certo sorriso,s_00134,"M. Ruccione, G. Fiorelli"
+1957,NF,Carla Boni,a_00009,Un sogno di cristallo,s_00135,"A. Testa, P. Calvi"
+1957,NF,Jula de Palma,a_00036,Un sogno di cristallo,s_00135,"A. Testa, P. Calvi"
+1958,1,Domenico Modugno,a_00066,Nel blu dipinto di blu,s_00136,D. Modugno e F. Migliacci
+1958,1,Johnny Dorelli,a_00067,Nel blu dipinto di blu,s_00136,D. Modugno e F. Migliacci
+1958,2,Nilla Pizzi,a_00001,L'edera,s_00137,V. D'Acquisto e S. Seracini
+1958,2,Tonina Torrielli,a_00047,L'edera,s_00137,V. D'Acquisto e S. Seracini
+1958,3,Gino Latilla,a_00008,Amare un'altra -Amare un altro,s_00138,R. Pazzaglia e G. Fabor
+1958,3,Nilla Pizzi,a_00001,Amare un'altra -Amare un altro,s_00138,R. Pazzaglia e G. Fabor
+1958,4,Claudio Villa,a_00030,Campana di Santa Lucia,s_00139,B. Cherubini e C. Concina
+1958,4,Giorgio Consolini,a_00015,Campana di Santa Lucia,s_00139,B. Cherubini e C. Concina
+1958,5,Claudio Villa,a_00030,Giuro d'amarti così,s_00140,M. Panzeri e V. Mascheroni
+1958,5,Nilla Pizzi,a_00001,Giuro d'amarti così,s_00140,M. Panzeri e V. Mascheroni
+1958,6,Carla Boni e Gino Latilla,a_00068,Timida serenata,s_00141,N. Salerno e G. Redi
+1958,6,Aurelio Fierro e Gloria Christian,a_00069,Timida serenata,s_00141,N. Salerno e G. Redi
+1958,7,Claudio Villa e Duo Fasano,a_00070,Fragole e cappellini,s_00142,M. Panzeri e S. Seracini
+1958,7,Aurelio Fierro e Trio Joyce,a_00071,Fragole e cappellini,s_00142,M. Panzeri e S. Seracini
+1958,8,Natalino Otto,a_00019,Non potrai dimenticare,s_00143,B. Pallesi e W. Malgoni
+1958,8,Carla Boni e Gino Latilla,a_00068,Non potrai dimenticare,s_00143,B. Pallesi e W. Malgoni
+1958,9,Tonina Torrielli,a_00047,Mille volte,s_00144,Zibio e G. Fabor
+1958,9,Cristina Jorio,a_00072,Mille volte,s_00144,Zibio e G. Fabor
+1958,10,Johnny Dorelli,a_00067,Fantastica,s_00145,"A. Costanzo, C. Gori e P. Bentivoglio"
+1958,10,Natalino Otto,a_00019,Fantastica,s_00145,"A. Costanzo, C. Gori e P. Bentivoglio"
+1958,NF,Carla Boni,a_00009,Arsura,s_00146,"B. Cherubini, V. D'Acquisto e M. Schisa"
+1958,NF,Giorgio Consolini,a_00015,Arsura,s_00146,"B. Cherubini, V. D'Acquisto e M. Schisa"
+1958,NF,Claudio Villa e Gino Latilla,a_00057,Cos'è un bacio,s_00147,V. Rovi e G. Boneschi
+1958,NF,Gloria Christian,a_00073,Cos'è un bacio,s_00147,V. Rovi e G. Boneschi
+1958,NF,Marisa Del Frate,a_00074,È molto facile dirsi addio,s_00148,L. L. Martelli e E. Neri
+1958,NF,Giorgio Consolini,a_00015,È molto facile dirsi addio,s_00148,L. L. Martelli e E. Neri
+1958,NF,Marisa Del Frate,a_00074,Ho disegnato un cuore,s_00149,S. Simoni e I. Piga
+1958,NF,Gloria Christian,a_00073,Ho disegnato un cuore,s_00149,S. Simoni e I. Piga
+1958,NF,Duo Fasano e Tonina Torrielli,a_00075,I trulli di Alberobello,s_00150,G. Ciocca e U. Bindi
+1958,NF,Aurelio Fierro e Trio Joyce,a_00071,I trulli di Alberobello,s_00150,G. Ciocca e U. Bindi
+1958,NF,Carla Boni,a_00009,Io sono te,s_00151,"A. Testa, R. De Giusti, Biri e C. A. Rossi"
+1958,NF,Cristina Jorio,a_00072,Io sono te,s_00151,"A. Testa, R. De Giusti, Biri e C. A. Rossi"
+1958,NF,Nilla Pizzi e Aurelio Fierro,a_00076,La canzone che piace a te,s_00152,"R. Cutolo, M. De Paolis e M. Ruccione"
+1958,NF,Claudio Villa e Duo Fasano,a_00070,La canzone che piace a te,s_00152,"R. Cutolo, M. De Paolis e M. Ruccione"
+1958,NF,Tonina Torrielli e Duo Fasano,a_00077,Nozze d'oro,s_00153,"F. Conti, G. Cavalli e E. Canelli"
+1958,NF,Trio Joyce,a_00078,Nozze d'oro,s_00153,"F. Conti, G. Cavalli e E. Canelli"
+1958,NF,Johnny Dorelli,a_00067,Se tornassi tu..!,s_00154,"E. Radaelli, C. Vinci e A. Barberis"
+1958,NF,Giorgio Consolini,a_00015,Se tornassi tu..!,s_00154,"E. Radaelli, C. Vinci e A. Barberis"
+1958,NF,Gino Latilla,a_00008,Tu sei del mio paese,s_00155,"A. Testa, R. De Giusti, Biri e C. A. Rossi"
+1958,NF,Natalino Otto,a_00019,Tu sei del mio paese,s_00155,"A. Testa, R. De Giusti, Biri e C. A. Rossi"
+1959,1,Domenico Modugno,a_00066,Piove (ciao ciao bambina),s_00156,"D. Modugno, D. Verde"
+1959,1,Johnny Dorelli,a_00067,Piove (ciao ciao bambina),s_00156,"D. Modugno, D. Verde"
+1959,2,Arturo Testa,a_00079,Io sono il vento,s_00157,"G. C. Testoni, G. Fanciulli"
+1959,2,Gino Latilla,a_00008,Io sono il vento,s_00157,"G. C. Testoni, G. Fanciulli"
+1959,3,Teddy Reno,a_00013,Conoscerti,s_00158,G. D'Anzi
+1959,3,Achille Togliani,a_00003,Conoscerti,s_00158,G. D'Anzi
+1959,4,Jula de Palma,a_00036,Tua,s_00159,"B. Pallesi, W. Malgoni"
+1959,4,Tonina Torrielli,a_00047,Tua,s_00159,"B. Pallesi, W. Malgoni"
+1959,5,Teddy Reno,a_00013,Lì per lì,s_00160,"L. Beretta, G. Viezzoli"
+1959,5,Aurelio Fierro,a_00080,Lì per lì,s_00160,"L. Beretta, G. Viezzoli"
+1959,6,Fausto Cigliano,a_00081,Sempre con te,s_00161,R. Murolo
+1959,6,Nilla Pizzi,a_00001,Sempre con te,s_00161,R. Murolo
+1959,7,Natalino Otto,a_00019,Avevamo la stessa età,s_00162,"D. Calcagno, M. Marini"
+1959,7,Aurelio Fierro,a_00080,Avevamo la stessa età,s_00162,"D. Calcagno, M. Marini"
+1959,8,Betty Curtis,a_00082,Nessuno,s_00163,"A. De Simone, E. Capotosti, V. Mascheroni"
+1959,8,Wilma De Angelis,a_00083,Nessuno,s_00163,"A. De Simone, E. Capotosti, V. Mascheroni"
+1959,9,Johnny Dorelli e Betty Curtis,a_00084,Una marcia in Fa,s_00164,"M. Panzeri, V. Mascheroni"
+1959,9,Gino Latilla e Claudio Villa,a_00085,Una marcia in Fa,s_00164,"M. Panzeri, V. Mascheroni"
+1959,10,Claudio Villa,a_00030,Un bacio sulla bocca,s_00165,"A. Testa, G. Cichellero"
+1959,10,Betty Curtis,a_00082,Un bacio sulla bocca,s_00165,"A. Testa, G. Cichellero"
+1959,NF,Tonina Torrielli,a_00047,Adorami,s_00166,"G. C. Testoni, U. Fusco"
+1959,NF,Nilla Pizzi,a_00001,Adorami,s_00166,"G. C. Testoni, U. Fusco"
+1959,NF,Anna D'Amico,a_00086,Così così,s_00167,V. Vancheri
+1959,NF,Natalino Otto,a_00019,Così così,s_00167,V. Vancheri
+1959,NF,Nilla Pizzi,a_00001,Il nostro refrain,s_00168,"Sante Simeone, D. Olivieri"
+1959,NF,Tonina Torrielli,a_00047,Il nostro refrain,s_00168,"Sante Simeone, D. Olivieri"
+1959,NF,Natalino Otto,a_00019,La luna è un'altra luna,s_00169,"R. De Giusti, Biri, A. Testa, C. A. Rossi"
+1959,NF,Gino Latilla,a_00008,La luna è un'altra luna,s_00169,"R. De Giusti, Biri, A. Testa, C. A. Rossi"
+1959,NF,Jula de Palma,a_00036,La vita mi ha dato solo te,s_00170,"B. Casalini, M. De Martino"
+1959,NF,Miranda Martino,a_00087,La vita mi ha dato solo te,s_00170,"B. Casalini, M. De Martino"
+1959,NF,Teddy Reno,a_00013,Ma baciami,s_00171,"D. Panzuti, A. Godini, P. Rizza"
+1959,NF,Achille Togliani,a_00003,Ma baciami,s_00171,"D. Panzuti, A. Godini, P. Rizza"
+1959,NF,Arturo Testa,a_00079,Né stelle né mare,s_00172,"G. C. Testoni, F. Fabor"
+1959,NF,Fausto Cigliano e Wilma De Angelis,a_00088,Né stelle né mare,s_00172,"G. C. Testoni, F. Fabor"
+1959,NF,Claudio Villa,a_00030,Partir con te,s_00173,P. Calvi
+1959,NF,Johnny Dorelli,a_00067,Partir con te,s_00173,P. Calvi
+1959,NF,Wilma De Angelis,a_00083,Per tutta la vita,s_00174,"A. Testa, P. Spotti"
+1959,NF,Jula de Palma,a_00036,Per tutta la vita,s_00174,"A. Testa, P. Spotti"
+1959,NF,Achille Togliani,a_00003,Tu sei qui,s_00175,"A. Testa, S. Birga"
+1959,NF,Arturo Testa,a_00079,Tu sei qui,s_00175,"A. Testa, S. Birga"
+1960,1,Tony Dallara,a_00089,Romantica,s_00176,"D. Verde, R. Rascel"
+1960,1,Renato Rascel,a_00090,Romantica,s_00176,"D. Verde, R. Rascel"
+1960,2,Domenico Modugno,a_00066,Libero,s_00177,"D. Modugno, F. Migliacci"
+1960,2,Teddy Reno,a_00013,Libero,s_00177,"D. Modugno, F. Migliacci"
+1960,3,Wilma De Angelis,a_00083,Quando vien la sera,s_00178,"A. Testa, C. A. Rossi"
+1960,3,Joe Sentieri,a_00091,Quando vien la sera,s_00178,"A. Testa, C. A. Rossi"
+1960,4,Nilla Pizzi,a_00001,Colpevole,s_00179,"V. D'Acquisto, S. Seracini"
+1960,4,Tonina Torrielli,a_00047,Colpevole,s_00179,"V. D'Acquisto, S. Seracini"
+1960,5,Joe Sentieri,a_00091,È mezzanotte,s_00180,"A. Testa, R. Cozzoli, G. Compare"
+1960,5,Sergio Bruni,a_00092,È mezzanotte,s_00180,"A. Testa, R. Cozzoli, G. Compare"
+1960,6,Giorgio Consolini,a_00015,Il mare,s_00181,"A. Pugliese, A. Vian"
+1960,6,Sergio Bruni,a_00092,Il mare,s_00181,"A. Pugliese, A. Vian"
+1960,7,Jula de Palma,a_00036,Noi,s_00182,"B. Pallesi, W. Malgoni"
+1960,7,Tony Dallara,a_00089,Noi,s_00182,"B. Pallesi, W. Malgoni"
+1960,8,Teddy Reno,a_00013,È vero,s_00183,"N. Salerno, U. Bindi"
+1960,8,Mina,a_00093,È vero,s_00183,"N. Salerno, U. Bindi"
+1960,9,Fausto Cigliano,a_00081,Splende il sole,s_00184,"Pinchi, Danpa"
+1960,9,Irene D'Areni,a_00094,Splende il sole,s_00184,"Pinchi, Danpa"
+1960,10,Johnny Dorelli,a_00067,Notte mia,s_00185,"M. Zanfagna, M. De Martino"
+1960,10,Jula de Palma,a_00036,Notte mia,s_00185,"M. Zanfagna, M. De Martino"
+1960,NF,Flo Sandon's,a_00010,A come amore,s_00186,"B. Brighetti, B. Martino"
+1960,NF,Gloria Christian,a_00073,A come amore,s_00186,"B. Brighetti, B. Martino"
+1960,NF,Achille Togliani,a_00003,Amore abisso dolce,s_00187,"G. C. Testoni, M. Gigante"
+1960,NF,Giorgio Consolini,a_00015,Amore abisso dolce,s_00187,"G. C. Testoni, M. Gigante"
+1960,NF,Johnny Dorelli,a_00067,Amore senza sole,s_00188,"M. Panzeri, V. Mascheroni"
+1960,NF,Betty Curtis,a_00082,Amore senza sole,s_00188,"M. Panzeri, V. Mascheroni"
+1960,NF,Germana Caroli,a_00095,Gridare di gioia,s_00189,"A. Testa, G. Fanciulli"
+1960,NF,Arturo Testa,a_00079,Gridare di gioia,s_00189,"A. Testa, G. Fanciulli"
+1960,NF,Gino Latilla,a_00008,Invoco te,s_00190,"G. C. Testoni, T. De Vita, G. Masetti"
+1960,NF,Miranda Martino,a_00087,Invoco te,s_00190,"G. C. Testoni, T. De Vita, G. Masetti"
+1960,NF,Mina,a_00093,Non sei felice,s_00191,"R. Vantellini, Pinchi"
+1960,NF,Betty Curtis,a_00082,Non sei felice,s_00191,"R. Vantellini, Pinchi"
+1960,NF,Tonina Torrielli,a_00047,Perderti,s_00192,"Pinchi, P. E. Bassi"
+1960,NF,Arturo Testa,a_00079,Perderti,s_00192,"Pinchi, P. E. Bassi"
+1960,NF,Achille Togliani,a_00003,Perdoniamoci,s_00193,"U. Bertini, E. Di Paola"
+1960,NF,Nilla Pizzi,a_00001,Perdoniamoci,s_00193,"U. Bertini, E. Di Paola"
+1960,NF,Wilma De Angelis,a_00083,Splende l'arcobaleno,s_00194,"M. Tumminelli, C. Di Ceglie"
+1960,NF,Gloria Christian,a_00073,Splende l'arcobaleno,s_00194,"M. Tumminelli, C. Di Ceglie"
+1960,NF,Gino Latilla,a_00008,Vento pioggia... scarpe rotte,s_00195,"E. Taranto, C. Gori, A. Grasso"
+1960,NF,Miranda Martino,a_00087,Vento pioggia... scarpe rotte,s_00195,"E. Taranto, C. Gori, A. Grasso"
+1961,1,Betty Curtis,a_00082,Al di là,s_00196,Mogol - Donida
+1961,1,Luciano Tajoli,a_00096,Al di là,s_00196,Mogol - Donida
+1961,2,Adriano Celentano,a_00097,24mila baci,s_00197,"P. Vivarelli, L. Fulci, A. Celentano"
+1961,2,Little Tony,a_00098,24mila baci,s_00197,"P. Vivarelli, L. Fulci, A. Celentano"
+1961,3,Milva,a_00099,Il mare nel cassetto,s_00198,Rolla - La Valle - Lattuada
+1961,3,Gino Latilla,a_00008,Il mare nel cassetto,s_00198,Rolla - La Valle - Lattuada
+1961,4,Mina,a_00093,Io amo tu ami,s_00199,E. Bonagura - G. Redi
+1961,4,Nelly Fioramonti,a_00100,Io amo tu ami,s_00199,E. Bonagura - G. Redi
+1961,5,Mina,a_00093,Le mille bolle blu,s_00200,"V. Pallavicini, C. A. Rossi"
+1961,5,Jenny Luna,a_00101,Le mille bolle blu,s_00200,"V. Pallavicini, C. A. Rossi"
+1961,6,Pino Donaggio,a_00102,Come sinfonia,s_00201,P. Donaggio
+1961,6,Teddy Reno,a_00013,Come sinfonia,s_00201,P. Donaggio
+1961,7,Arturo Testa,a_00079,Febbre di musica,s_00202,"Biri, V. Mascheroni"
+1961,7,Tonina Torrielli,a_00047,Febbre di musica,s_00202,"Biri, V. Mascheroni"
+1961,8,Teddy Reno,a_00013,Mandolino mandolino,s_00203,"A. Vian, A. Pugliese"
+1961,8,Sergio Bruni,a_00092,Mandolino mandolino,s_00203,"A. Vian, A. Pugliese"
+1961,9,Sergio Bruni,a_00092,Carolina dai,s_00204,"D. Pace, M. Panzeri"
+1961,9,Rocco Granata,a_00103,Carolina dai,s_00204,"D. Pace, M. Panzeri"
+1961,10,Gino Paoli,a_00104,Un uomo vivo,s_00205,G. Paoli
+1961,10,Tony Dallara,a_00089,Un uomo vivo,s_00205,G. Paoli
+1961,11,Umberto Bindi,a_00105,Non mi dire chi sei,s_00206,G. Calabrese - U. Bindi
+1961,11,Miranda Martino,a_00087,Non mi dire chi sei,s_00206,G. Calabrese - U. Bindi
+1961,12,Joe Sentieri,a_00091,Lei,s_00207,R. Pazzaglia - J. Sentieri
+1961,12,Fausto Cigliano,a_00081,Lei,s_00207,R. Pazzaglia - J. Sentieri
+1961,NF,Bruno Martino,a_00106,A.A.A. adorabile cercasi,s_00208,"B. Martino, B. Brighetti, V. Pallavicini"
+1961,NF,Jula de Palma,a_00036,A.A.A. adorabile cercasi,s_00208,"B. Martino, B. Brighetti, V. Pallavicini"
+1961,NF,Giorgio Gaber,a_00107,Benzina e cerini,s_00209,"G. Gaber, E. Jannacci"
+1961,NF,Maria Monti,a_00108,Benzina e cerini,s_00209,"G. Gaber, E. Jannacci"
+1961,NF,Luciano Rondinella,a_00109,Che freddo!,s_00210,"C. Rossi, E. Vianello"
+1961,NF,Edoardo Vianello,a_00110,Che freddo!,s_00210,"C. Rossi, E. Vianello"
+1961,NF,Miranda Martino,a_00087,Lady Luna,s_00211,"D. Verde, A. Trovajoli"
+1961,NF,Jimmy Fontana,a_00111,Lady Luna,s_00211,"D. Verde, A. Trovajoli"
+1961,NF,Joe Sentieri,a_00091,Libellule,s_00212,"A. Testa, G. Viezzoli"
+1961,NF,Betty Curtis,a_00082,Libellule,s_00212,"A. Testa, G. Viezzoli"
+1961,NF,Claudio Villa,a_00030,Mare di dicembre,s_00213,"L. Beretta, G. Libano"
+1961,NF,Sergio Renda,a_00112,Mare di dicembre,s_00213,"L. Beretta, G. Libano"
+1961,NF,Aura D'Angelo,a_00113,Notturno senza luna,s_00214,G. D'Anzi
+1961,NF,Silvia Guidi,a_00114,Notturno senza luna,s_00214,G. D'Anzi
+1961,NF,Gianni Meccia,a_00115,Patatina,s_00215,"G. Meccia, F. Migliacci"
+1961,NF,Wilma De Angelis,a_00083,Patatina,s_00215,"G. Meccia, F. Migliacci"
+1961,NF,Tony Renis,a_00116,Pozzanghere,s_00216,"Orfellius, L. Pellini, T. Renis, M. Treppiedi"
+1961,NF,Niki Davis,a_00117,Pozzanghere,s_00216,"Orfellius, L. Pellini, T. Renis, M. Treppiedi"
+1961,NF,Cocky Mazzetti,a_00118,Qualcuno mi ama,s_00217,"P. Soffici, M. Darena"
+1961,NF,Achille Togliani,a_00003,Qualcuno mi ama,s_00217,"P. Soffici, M. Darena"
+1961,NF,Carla Boni,a_00009,Tu con me,s_00218,"A. Amurri, E. Ballotta"
+1961,NF,Aurelio Fierro,a_00080,Tu con me,s_00218,"A. Amurri, E. Ballotta"
+1961,NF,Nadia Liani,a_00119,Una goccia di cielo,s_00219,G. Negri
+1961,NF,Jolanda Rossin,a_00120,Una goccia di cielo,s_00219,G. Negri
+1962,1,Domenico Modugno,a_00066,Addio...addio...,s_00220,"F. Migliacci, D. Modugno"
+1962,1,Claudio Villa,a_00030,Addio...addio...,s_00220,"F. Migliacci, D. Modugno"
+1962,2,Sergio Bruni,a_00092,Tango italiano,s_00221,"B. Pallesi, W. Malgoni"
+1962,2,Milva,a_00099,Tango italiano,s_00221,"B. Pallesi, W. Malgoni"
+1962,3,Sergio Bruni,a_00092,Gondolì gondolà,s_00222,"Nisa, R. Carosone"
+1962,3,Ernesto Bonino,a_00121,Gondolì gondolà,s_00222,"Nisa, R. Carosone"
+1962,4,Tony Renis,a_00116,Quando quando quando,s_00223,"A. Testa, T. Renis"
+1962,4,Emilio Pericoli,a_00122,Quando quando quando,s_00223,"A. Testa, T. Renis"
+1962,5,Milva,a_00099,Stanotte al luna park,s_00224,"V. Pallavicini, Biri, C. A. Rossi"
+1962,5,Miriam Del Mare,a_00123,Stanotte al luna park,s_00224,"V. Pallavicini, Biri, C. A. Rossi"
+1962,6,Gino Bramieri,a_00124,Lui andava a cavallo,s_00225,"N. Salerno, N. Ravasini"
+1962,6,Aurelio Fierro,a_00080,Lui andava a cavallo,s_00225,"N. Salerno, N. Ravasini"
+1962,7,Arturo Testa,a_00079,Un'anima leggera,s_00226,"P. Rolla, F. Bergamini"
+1962,7,Jolanda Rossin,a_00120,Un'anima leggera,s_00226,"P. Rolla, F. Bergamini"
+1962,8,Joe Sentieri,a_00091,Cipria di sole,s_00227,"G. Marotta, S. Mazzocco"
+1962,8,Aurelio Fierro,a_00080,Cipria di sole,s_00227,"G. Marotta, S. Mazzocco"
+1962,9,Tonina Torrielli,a_00047,Aspettandoti,s_00228,"S. Seracini, V. D'Acquisto"
+1962,9,Nelly Fioramonti,a_00100,Aspettandoti,s_00228,"S. Seracini, V. D'Acquisto"
+1962,10,Johnny Dorelli,a_00067,Buongiorno amore,s_00229,"M. Panzeri, J. Dorelli"
+1962,10,Betty Curtis,a_00082,Buongiorno amore,s_00229,"M. Panzeri, J. Dorelli"
+1962,11,Flo Sandon's,a_00010,Passa il tempo,s_00230,"S. Taccani, U. Bertini"
+1962,11,Mario D'Alba,a_00125,Passa il tempo,s_00230,"S. Taccani, U. Bertini"
+1962,12,Nunzio Gallo,a_00055,Inventiamo la vita,s_00231,"V. Mascheroni, G. C. Testoni"
+1962,12,Rocco Montana,a_00126,Inventiamo la vita,s_00231,"V. Mascheroni, G. C. Testoni"
+1962,NF,Arturo Testa,a_00079,Centomila volte,s_00232,"S. Censi, De Bernardi"
+1962,NF,Jolanda Rossin,a_00120,Centomila volte,s_00232,"S. Censi, De Bernardi"
+1962,NF,Silvia Guidi,a_00114,Conta le stelle,s_00233,"E. Di Paola, U. Bertini"
+1962,NF,Jenny Luna,a_00101,Conta le stelle,s_00233,"E. Di Paola, U. Bertini"
+1962,NF,Fausto Cigliano,a_00081,Cose inutili,s_00234,"G. Meccia, U. Tognazzi"
+1962,NF,Jenny Luna,a_00101,Cose inutili,s_00234,"G. Meccia, U. Tognazzi"
+1962,NF,Rossana,a_00127,Due cipressi,s_00235,"P. Pizzigoni, A. Camis, G. C. Testoni"
+1962,NF,Gian Costello,a_00128,Due cipressi,s_00235,"P. Pizzigoni, A. Camis, G. C. Testoni"
+1962,NF,Wanda Romanelli,a_00129,Fiori sull'acqua,s_00236,"G. Fallabrino, V. D'Acquisto"
+1962,NF,Nelly Fioramonti,a_00100,Fiori sull'acqua,s_00236,"G. Fallabrino, V. D'Acquisto"
+1962,NF,Wilma De Angelis,a_00083,I colori della felicità,s_00237,"L. Ranzato, E. Sciorilli"
+1962,NF,Tanya,a_00130,I colori della felicità,s_00237,"L. Ranzato, E. Sciorilli"
+1962,NF,Luciano Tajoli,a_00096,Il cielo cammina,s_00238,"M. Ruccione, U. Bertini, P. Tombolato"
+1962,NF,Betty Curtis,a_00082,Il cielo cammina,s_00238,"M. Ruccione, U. Bertini, P. Tombolato"
+1962,NF,Gesy Sebena,a_00131,Il nostro amore,s_00239,"Pinchi, V. Panzuti"
+1962,NF,Giacomo Rondinella,a_00132,Il nostro amore,s_00239,"Pinchi, V. Panzuti"
+1962,NF,Gene Colonnello,a_00133,Innamorati,s_00240,"G. D'Anzi, M. Panzeri"
+1962,NF,Gloria Christian,a_00073,Innamorati,s_00240,"G. D'Anzi, M. Panzeri"
+1962,NF,Corrado Lojacono,a_00134,L'anellino,s_00241,"C. Lojacono, N. Salerno"
+1962,NF,Luciano Tajoli,a_00096,L'anellino,s_00241,"C. Lojacono, N. Salerno"
+1962,NF,Johnny Dorelli,a_00067,L'ombrellone,s_00242,"P. Calvi, L. Chiosso"
+1962,NF,Gloria Christian,a_00073,L'ombrellone,s_00242,"P. Calvi, L. Chiosso"
+1962,NF,Nunzio Gallo,a_00055,L'ultimo pezzo di terra,s_00243,"M. Zanfagna, G. Conte, N. Gallo, A. Forte"
+1962,NF,Bruna Lelli,a_00135,L'ultimo pezzo di terra,s_00243,"M. Zanfagna, G. Conte, N. Gallo, A. Forte"
+1962,NF,Wilma De Angelis,a_00083,Lumicini rossi,s_00244,"F. Fabor, G. C. Testoni"
+1962,NF,Lucia Altieri,a_00136,Lumicini rossi,s_00244,"F. Fabor, G. C. Testoni"
+1962,NF,Pierfilippi,a_00137,Occhi senza lacrime,s_00245,"E. Macchi, A. A. Roelens"
+1962,NF,Cocky Mazzetti,a_00118,Occhi senza lacrime,s_00245,"E. Macchi, A. A. Roelens"
+1962,NF,Gino Bramieri,a_00124,Pesca tu che pesco anch'io,s_00246,"Di Lazzaro, B. Cherubini"
+1962,NF,Rocco Torrebruno,a_00138,Pesca tu che pesco anch'io,s_00246,"Di Lazzaro, B. Cherubini"
+1962,NF,Flo Sandon's,a_00010,Prima del paradiso,s_00247,"R. Vantellini, Pinchi"
+1962,NF,Edda Montanari,a_00139,Prima del paradiso,s_00247,"R. Vantellini, Pinchi"
+1962,NF,Aura D'Angelo,a_00113,Quando il vento d'aprile,s_00248,"S. Palomba, A. Vian"
+1962,NF,Claudio Villa,a_00030,Quando il vento d'aprile,s_00248,"S. Palomba, A. Vian"
+1962,NF,Cocky Mazzetti,a_00118,Tobia,s_00249,"C. Donida, Mogol, A. Testa"
+1962,NF,Joe Sentieri,a_00091,Tobia,s_00249,"C. Donida, Mogol, A. Testa"
+1962,NF,Mario Abbate,a_00140,Vestita di rosso,s_00250,"A. Testa, R. Cozzoli, G. Compare"
+1962,NF,Fausto Cigliano,a_00081,Vestita di rosso,s_00250,"A. Testa, R. Cozzoli, G. Compare"
+1962,NF,Narciso Parigi,a_00034,Vita,s_00251,"B. Cherubini, C. Concina"
+1962,NF,Giorgio Consolini,a_00015,Vita,s_00251,"B. Cherubini, C. Concina"
+1963,1,Tony Renis,a_00116,Uno per tutte,s_00252,"Mogol, A. Testa, T. Renis"
+1963,1,Emilio Pericoli,a_00122,Uno per tutte,s_00252,"Mogol, A. Testa, T. Renis"
+1963,2,Claudio Villa,a_00030,Amor mon amour my love,s_00253,"W. Malgoni, Pinchi, B. Pallesi"
+1963,2,Eugenia Foligatti,a_00141,Amor mon amour my love,s_00253,"W. Malgoni, Pinchi, B. Pallesi"
+1963,3,Pino Donaggio,a_00102,Giovane giovane,s_00254,"P. Donaggio, A. Testa"
+1963,3,Cocky Mazzetti,a_00118,Giovane giovane,s_00254,"P. Donaggio, A. Testa"
+1963,4,Wilma De Angelis,a_00083,Non costa niente,s_00255,"G. Calabrese, D. Calcagno, E. Sciorilli"
+1963,4,Johnny Dorelli,a_00067,Non costa niente,s_00255,"G. Calabrese, D. Calcagno, E. Sciorilli"
+1963,5,Milva,a_00099,Ricorda,s_00256,"C. Donida, Mogol"
+1963,5,Luciano Tajoli,a_00096,Ricorda,s_00256,"C. Donida, Mogol"
+1963,6,Tonina Torrielli,a_00047,Perdonarsi in due,s_00257,"G. D'Anzi, Pinchi"
+1963,6,Eugenia Foligatti,a_00141,Perdonarsi in due,s_00257,"G. D'Anzi, Pinchi"
+1963,7,Aurelio Fierro,a_00080,Occhi neri e cielo blu,s_00258,"M. Panzeri, D. Pace"
+1963,7,Claudio Villa,a_00030,Occhi neri e cielo blu,s_00258,"M. Panzeri, D. Pace"
+1963,8,Emilio Pericoli,a_00122,Sull'acqua,s_00259,"M. Pagano, F. Maresca"
+1963,8,Sergio Bruni,a_00092,Sull'acqua,s_00259,"M. Pagano, F. Maresca"
+1963,9,Aura D'Angelo,a_00113,Tu venisti dal mare,s_00260,"F. Rendine, A. Pugliese"
+1963,9,Arturo Testa,a_00079,Tu venisti dal mare,s_00260,"F. Rendine, A. Pugliese"
+1963,10,Milva,a_00099,Non sapevo,s_00261,"P. Calvi, B. Pallesi"
+1963,10,Gianni La Commare,a_00142,Non sapevo,s_00261,"P. Calvi, B. Pallesi"
+1963,NF,Gianni La Commare,a_00142,Com'è piccolo il cielo,s_00262,"Signori (Franco Mojoli), Vinicio Garavaglia"
+1963,NF,Tonina Torrielli,a_00047,Com'è piccolo il cielo,s_00262,"Signori (Franco Mojoli), Vinicio Garavaglia"
+1963,NF,Joe Sentieri,a_00091,Fermate il mondo,s_00263,"B. Canfora, D. Verde"
+1963,NF,Johnny Dorelli,a_00067,Fermate il mondo,s_00263,"B. Canfora, D. Verde"
+1963,NF,Ennio Sangiusto,a_00143,La ballata del pedone,s_00264,"Vittorio Pierantoni, Angelo Giacomazzi"
+1963,NF,Quartetto Radar,a_00144,La ballata del pedone,s_00264,"Vittorio Pierantoni, Angelo Giacomazzi"
+1963,NF,Ennio Sangiusto,a_00143,Le voci,s_00265,"G. Fallabrino, Luciana Medini"
+1963,NF,Luciano Tajoli,a_00096,Le voci,s_00265,"G. Fallabrino, Luciana Medini"
+1963,NF,Mario Abbate,a_00140,Oggi non ho tempo,s_00266,"C. Lojacono, N. Salerno"
+1963,NF,Quartetto Radar,a_00144,Oggi non ho tempo,s_00266,"C. Lojacono, N. Salerno"
+1963,NF,Tony Renis,a_00116,Perché perché,s_00267,G. Cichellero
+1963,NF,Cocky Mazzetti,a_00118,Perché perché,s_00267,G. Cichellero
+1963,NF,Arturo Testa,a_00079,Quando ci si vuol bene... (Come noi),s_00268,"E. Isola, B. Zambrini, G. Calabrese"
+1963,NF,Joe Sentieri,a_00091,Quando ci si vuol bene... (Come noi),s_00268,"E. Isola, B. Zambrini, G. Calabrese"
+1963,NF,Wilma De Angelis,a_00083,Se passerai di qui,s_00269,"G. C. Testoni, A. Camis"
+1963,NF,Flo Sandon's,a_00010,Se passerai di qui,s_00269,"G. C. Testoni, A. Camis"
+1963,NF,Aurelio Fierro,a_00080,Un cappotto rivoltato,s_00270,"O. Leuzzi, F. Specchia"
+1963,NF,Sergio Bruni,a_00092,Un cappotto rivoltato,s_00270,"O. Leuzzi, F. Specchia"
+1963,NF,Mario Abbate,a_00140,Vorrei fermare il tempo,s_00271,"G. Redi, Franchini"
+1963,NF,Flo Sandon's,a_00010,Vorrei fermare il tempo,s_00271,"G. Redi, Franchini"
+1964,1,Gigliola Cinquetti,a_00145,Non ho l'età (Per amarti),s_00272,"M. Panzeri, Nisa, G. Colonnello"
+1964,1,Patricia Carli,a_00146,Non ho l'età (Per amarti),s_00272,"M. Panzeri, Nisa, G. Colonnello"
+1964,2,Domenico Modugno,a_00066,Che me ne importa a me,s_00273,D. Modugno
+1964,2,Frankie Laine,a_00147,Che me ne importa a me,s_00273,D. Modugno
+1964,2,Tony Dallara,a_00089,Come potrei dimenticarti,s_00274,"V. Pallavicini, E. Leoni"
+1964,2,Ben E. King,a_00148,Come potrei dimenticarti,s_00274,"V. Pallavicini, E. Leoni"
+1964,2,Gino Paoli,a_00104,Ieri ho incontrato mia madre,s_00275,G. Paoli
+1964,2,Antonio Prieto,a_00149,Ieri ho incontrato mia madre,s_00275,G. Paoli
+1964,2,Fabrizio Ferretti,a_00150,La prima che incontro,s_00276,"V. Pallavicini, G. Kramer"
+1964,2,Gil Fields e The Fraternity Brothers,a_00151,La prima che incontro,s_00276,"V. Pallavicini, G. Kramer"
+1964,2,Pino Donaggio,a_00102,Motivo d'amore,s_00277,P. Donaggio
+1964,2,Frankie Avalon,a_00152,Motivo d'amore,s_00277,P. Donaggio
+1964,2,Roby Ferrante,a_00153,Ogni Volta,s_00278,"C. Rossi, R. Ferrante"
+1964,2,Paul Anka,a_00154,Ogni Volta,s_00278,"C. Rossi, R. Ferrante"
+1964,2,Little Tony,a_00098,Quando vedrai la mia ragazza,s_00279,"C. Rossi, E. Ciacci"
+1964,2,Gene Pitney,a_00155,Quando vedrai la mia ragazza,s_00279,"C. Rossi, E. Ciacci"
+1964,2,Bruno Filippini,a_00156,Sabato sera,s_00280,"B. Pallesi, W. Malgoni"
+1964,2,Gil Fields e The Fraternity Brothers,a_00151,Sabato sera,s_00280,"B. Pallesi, W. Malgoni"
+1964,2,Remo Germani,a_00157,Stasera no no no,s_00281,"V. Pallavicini, E. Roncarati"
+1964,2,Nino Tempo e April Stevens,a_00158,Stasera no no no,s_00281,"V. Pallavicini, E. Roncarati"
+1964,2,Robertino,a_00159,Un bacio piccolissimo,s_00282,"G. Ornati, G. Mescoli"
+1964,2,Bobby Rydell,a_00160,Un bacio piccolissimo,s_00282,"G. Ornati, G. Mescoli"
+1964,2,Bobby Solo,a_00161,Una lacrima sul viso,s_00283,"Mogol, B. Solo"
+1964,2,Frankie Laine,a_00147,Una lacrima sul viso,s_00283,"Mogol, B. Solo"
+1964,NF,Giorgio Gaber,a_00107,Così felice,s_00284,G. Gaber
+1964,NF,Patricia Carli,a_00146,Così felice,s_00284,G. Gaber
+1964,NF,Fausto Cigliano,a_00081,E se domani,s_00285,"G. Calabrese, C. A. Rossi"
+1964,NF,Gene Pitney,a_00155,E se domani,s_00285,"G. Calabrese, C. A. Rossi"
+1964,NF,Tony Renis,a_00116,I sorrisi di sera,s_00286,"Mogol, A. Testa, T. Renis"
+1964,NF,Frankie Avalon,a_00152,I sorrisi di sera,s_00286,"Mogol, A. Testa, T. Renis"
+1964,NF,Piero Focaccia,a_00162,L'inverno cosa fai?,s_00287,"N. Salerno, G. Colonnello"
+1964,NF,Bobby Rydell,a_00160,L'inverno cosa fai?,s_00287,"N. Salerno, G. Colonnello"
+1964,NF,Milva,a_00099,L'ultimo tram,s_00288,"G. Calabrese, E. Sciorilli"
+1964,NF,Frida Boccara,a_00163,L'ultimo tram,s_00288,"G. Calabrese, E. Sciorilli"
+1964,NF,Cocky Mazzetti,a_00118,Mezzanotte,s_00289,"C. Rossi, A. Rotunno"
+1964,NF,Los Hermanos Rigual,a_00164,Mezzanotte,s_00289,"C. Rossi, A. Rotunno"
+1964,NF,Claudio Villa,a_00030,Passo su passo,s_00290,"F. Migliacci, U. Bindi"
+1964,NF,Peggy March,a_00165,Passo su passo,s_00290,"F. Migliacci, U. Bindi"
+1964,NF,Emilio Pericoli,a_00122,Piccolo piccolo,s_00291,"A. Amurri, L. Luttazzi"
+1964,NF,Peter Kraus,a_00166,Piccolo piccolo,s_00291,"A. Amurri, L. Luttazzi"
+1964,NF,Aurelio Fierro,a_00080,Sole pizza e amore,s_00292,"T. Giacobetti, A. V. Savona"
+1964,NF,Marina Moran,a_00167,Sole pizza e amore,s_00292,"T. Giacobetti, A. V. Savona"
+1964,NF,Laura Villa,a_00168,Sole sole,s_00293,"L. Zanin, A. Casadei"
+1964,NF,Los Hermanos Rigual,a_00164,Sole sole,s_00293,"L. Zanin, A. Casadei"
+1964,NF,Lilly Bonato,a_00169,Tu piangi per niente,s_00294,"V. Pallavicini, P. Soffici"
+1964,NF,Richard Moser jr.,a_00170,Tu piangi per niente,s_00294,"V. Pallavicini, P. Soffici"
+1964,NF,Nicola Arigliano,a_00171,Venti chilometri al giorno,s_00295,"Mogol, P. Massara"
+1964,NF,Peter Kraus,a_00166,Venti chilometri al giorno,s_00295,"Mogol, P. Massara"
+1965,1,Bobby Solo,a_00161,"Se piangi, se ridi",s_00296,"Mogol, G. Marchetti, R. Satti"
+1965,1,The New Christy Minstrels,a_00172,"Se piangi, se ridi",s_00296,"Mogol, G. Marchetti, R. Satti"
+1965,2,Ornella Vanoni,a_00173,Abbracciami forte,s_00297,"Mogol, C. Donida"
+1965,2,Udo Jürgens,a_00174,Abbracciami forte,s_00297,"Mogol, C. Donida"
+1965,2,Nicola Di Bari,a_00175,Amici miei,s_00298,"V. Pallavicini, G. Colonnello"
+1965,2,Gene Pitney,a_00155,Amici miei,s_00298,"V. Pallavicini, G. Colonnello"
+1965,2,Fred Bongusto,a_00176,Aspetta domani,s_00299,"V. Pallavicini, F. Bongusto"
+1965,2,Kiki Dee,a_00177,Aspetta domani,s_00299,"V. Pallavicini, F. Bongusto"
+1965,2,Gigliola Cinquetti,a_00145,Ho bisogno di vederti,s_00300,"P. Ciampi, R. Ciampi"
+1965,2,Connie Francis,a_00178,Ho bisogno di vederti,s_00300,"P. Ciampi, R. Ciampi"
+1965,2,Betty Curtis,a_00082,Invece no,s_00301,"V. Pallavicini, E. Leoni"
+1965,2,Petula Clark,a_00179,Invece no,s_00301,"V. Pallavicini, E. Leoni"
+1965,2,Pino Donaggio,a_00102,Io che non vivo (senza te),s_00302,"V. Pallavicini, P. Donaggio"
+1965,2,Jody Miller,a_00180,Io che non vivo (senza te),s_00302,"V. Pallavicini, P. Donaggio"
+1965,2,Bruno Filippini,a_00156,L'amore ha i tuoi occhi,s_00303,"V. Pallavicini, G. Kramer"
+1965,2,Yukari Ito,a_00181,L'amore ha i tuoi occhi,s_00303,"V. Pallavicini, G. Kramer"
+1965,2,Wilma Goich,a_00182,Le colline sono in fiore,s_00304,"Mogol, Calibi, C. Donida, R. Angiolini"
+1965,2,The New Christy Minstrels,a_00172,Le colline sono in fiore,s_00304,"Mogol, Calibi, C. Donida, R. Angiolini"
+1965,2,Remo Germani e Le Amiche,a_00183,Prima o poi,s_00305,"V. Pallavicini, A. Amurri, G. Ferrari"
+1965,2,Audrey,a_00184,Prima o poi,s_00305,"V. Pallavicini, A. Amurri, G. Ferrari"
+1965,2,Vittorio Inzaina,a_00185,Si vedrà,s_00306,"A. Gentile, C. Lentini"
+1965,2,Les Surfs,a_00186,Si vedrà,s_00306,"A. Gentile, C. Lentini"
+1965,2,Milva,a_00099,Vieni con noi,s_00307,"F. Maresca, M. Pagano"
+1965,2,Bernd Spier,a_00187,Vieni con noi,s_00307,"F. Maresca, M. Pagano"
+1965,NF,John Foster,a_00188,Cominciamo ad amarci,s_00308,"V. Pallavicini, G. Mescoli"
+1965,NF,Joe Damiano,a_00189,Cominciamo ad amarci,s_00308,"V. Pallavicini, G. Mescoli"
+1965,NF,Ricky Gianco,a_00190,Devi essere tu,s_00309,"V. D'Acquisto, R. Gianco"
+1965,NF,Jody Miller,a_00180,Devi essere tu,s_00309,"V. D'Acquisto, R. Gianco"
+1965,NF,Gianni Mascolo,a_00191,Di fronte all'amore,s_00310,"S. Simoni, U. Bindi"
+1965,NF,Dusty Springfield,a_00192,Di fronte all'amore,s_00310,"S. Simoni, U. Bindi"
+1965,NF,Don Miko,a_00193,E poi verrà l'autunno,s_00311,"A. Amurri, F. Pisano, A. Bascerano"
+1965,NF,Timi Yuro,a_00194,E poi verrà l'autunno,s_00311,"A. Amurri, F. Pisano, A. Bascerano"
+1965,NF,Iva Zanicchi,a_00195,I tuoi anni più belli,s_00312,"Mogol, M. Gaspari, E. Polito"
+1965,NF,Gene Pitney,a_00155,I tuoi anni più belli,s_00312,"Mogol, M. Gaspari, E. Polito"
+1965,NF,Bruno Lauzi,a_00196,Il tuo amore,s_00313,B. Lauzi
+1965,NF,Kenny Rankin,a_00197,Il tuo amore,s_00313,B. Lauzi
+1965,NF,Giordano Colombo,a_00198,Io non volevo,s_00314,"R. Leva, G. P. Reverberi"
+1965,NF,Hoagy Lands,a_00199,Io non volevo,s_00314,"R. Leva, G. P. Reverberi"
+1965,NF,Beppe Cardile,a_00200,L'amore è partito,s_00315,B. Cardile
+1965,NF,Anita Harris,a_00201,L'amore è partito,s_00315,B. Cardile
+1965,NF,Robertino,a_00159,Mia cara,s_00316,"Mogol, P. Massara"
+1965,NF,Danyel Gérard,a_00202,Mia cara,s_00316,"Mogol, P. Massara"
+1965,NF,Franco Tozzi,a_00203,Non a caso il destino (Ci ha fatto incontrare),s_00317,"Antartide, C. A. Rossi"
+1965,NF,Johnny Tillotson,a_00204,Non a caso il destino (Ci ha fatto incontrare),s_00317,"Antartide, C. A. Rossi"
+1965,NF,Peppino Gagliardi,a_00205,Ti credo,s_00318,"G. Amendola, P. Gagliardi"
+1965,NF,Timi Yuro,a_00194,Ti credo,s_00318,"G. Amendola, P. Gagliardi"
+1965,NF,Fabrizio Ferretti,a_00150,Tu che ne sai?,s_00319,"A. Amurri, F. Pisano"
+1965,NF,Dusty Springfield,a_00192,Tu che ne sai?,s_00319,"A. Amurri, F. Pisano"
+1966,1,Domenico Modugno,a_00066,"Dio, come ti amo",s_00320,D. Modugno
+1966,1,Gigliola Cinquetti,a_00145,"Dio, come ti amo",s_00320,D. Modugno
+1966,2,Caterina Caselli,a_00206,Nessuno mi può giudicare,s_00321,"D. Pace, M. Panzeri, L. Beretta, M. Del Prete"
+1966,2,Gene Pitney,a_00155,Nessuno mi può giudicare,s_00321,"D. Pace, M. Panzeri, L. Beretta, M. Del Prete"
+1966,3,Wilma Goich,a_00182,In un fiore,s_00322,"C. Donida, Mogol"
+1966,3,Les Surfs,a_00186,In un fiore,s_00322,"C. Donida, Mogol"
+1966,4,Pino Donaggio,a_00102,Una casa in cima al mondo,s_00323,"P. Donaggio, V. Pallavicini"
+1966,4,Claudio Villa,a_00030,Una casa in cima al mondo,s_00323,"P. Donaggio, V. Pallavicini"
+1966,5,Anna Identici,a_00207,Una rosa da Vienna,s_00324,"G. Guarnieri, B. Lauzi"
+1966,5,The New Christy Minstrels,a_00172,Una rosa da Vienna,s_00324,"G. Guarnieri, B. Lauzi"
+1966,6,Orietta Berti,a_00208,Io ti darò di più,s_00325,"M. Remigi, A. Testa"
+1966,6,Ornella Vanoni,a_00173,Io ti darò di più,s_00325,"M. Remigi, A. Testa"
+1966,6,Giorgio Gaber,a_00107,Mai mai mai Valentina,s_00326,"G. Colonnello, A. Testa"
+1966,6,Pat Boone,a_00209,Mai mai mai Valentina,s_00326,"G. Colonnello, A. Testa"
+1966,8,Edoardo Vianello,a_00110,Parlami di te,s_00327,"E. Vianello, V. Pallavicini"
+1966,8,Françoise Hardy,a_00210,Parlami di te,s_00327,"E. Vianello, V. Pallavicini"
+1966,9,Sergio Endrigo,a_00211,Adesso sì,s_00328,S. Endrigo
+1966,9,Chad & Jeremy,a_00212,Adesso sì,s_00328,S. Endrigo
+1966,9,Milva,a_00099,Nessuno di voi,s_00329,"G. Kramer, V. Pallavicini"
+1966,9,Richard Anthony,a_00213,Nessuno di voi,s_00329,"G. Kramer, V. Pallavicini"
+1966,9,Peppino Gagliardi,a_00205,Se tu non fossi qui,s_00330,"C. A. Rossi, M. Terzi"
+1966,9,Pat Boone,a_00209,Se tu non fossi qui,s_00330,"C. A. Rossi, M. Terzi"
+1966,12,Remo Germani,a_00157,Così come viene,s_00331,"E. Leoni, V. Pallavicini"
+1966,12,Les Surfs,a_00186,Così come viene,s_00331,"E. Leoni, V. Pallavicini"
+1966,13,Iva Zanicchi,a_00195,La notte dell'addio,s_00332,"A. Amadesi, G. Diverio, M. Remigi, A. Testa"
+1966,13,Vic Dana,a_00214,La notte dell'addio,s_00332,"A. Amadesi, G. Diverio, M. Remigi, A. Testa"
+1966,14,I Ribelli,a_00215,A la buena de Dios,s_00333,"G. Malgoni, B. Pallesi"
+1966,14,The New Christy Minstrels,a_00172,A la buena de Dios,s_00333,"G. Malgoni, B. Pallesi"
+1966,NF,Luciana Turina,a_00216,Dipendesse da me,s_00334,"V. Pallavicini, I. Pattacini"
+1966,NF,Gino,a_00217,Dipendesse da me,s_00334,"V. Pallavicini, I. Pattacini"
+1966,NF,Adriano Celentano,a_00097,Il ragazzo della via Gluck,s_00335,"L. Beretta, M. Del Prete, A. Celentano"
+1966,NF,Trio del Clan,a_00218,Il ragazzo della via Gluck,s_00335,"L. Beretta, M. Del Prete, A. Celentano"
+1966,NF,Franco Tozzi,a_00203,Io non posso crederti,s_00336,"G. Marchetti, G. Sanjust"
+1966,NF,Bobby Vinton,a_00219,Io non posso crederti,s_00336,"G. Marchetti, G. Sanjust"
+1966,NF,Anna Marchetti,a_00220,Io ti amo,s_00337,"G. Fallabrino, P. Maggi"
+1966,NF,Plinio Maggi,a_00221,Io ti amo,s_00337,"G. Fallabrino, P. Maggi"
+1966,NF,Gino Paoli,a_00104,La carta vincente,s_00338,G. Paoli
+1966,NF,Ricardo,a_00222,La carta vincente,s_00338,G. Paoli
+1966,NF,Nicola Di Bari,a_00175,Lei mi aspetta,s_00339,"V. Pallavicini, A. Baldan Bembo"
+1966,NF,Gene Pitney,a_00155,Lei mi aspetta,s_00339,"V. Pallavicini, A. Baldan Bembo"
+1966,NF,Lucio Dalla,a_00223,Pafff... bum!,s_00340,"S. Bardotti, G. F. Reverberi"
+1966,NF,The Yardbirds,a_00224,Pafff... bum!,s_00340,"S. Bardotti, G. F. Reverberi"
+1966,NF,Giuseppe Di Stefano,a_00225,Per questo voglio te,s_00341,"Mogol, M. Deponti"
+1966,NF,P. J. Proby,a_00226,Per questo voglio te,s_00341,"Mogol, M. Deponti"
+1966,NF,Luciano Tomei,a_00227,Quando vado sulla riva,s_00342,"F. Maresca, M. Pagano"
+1966,NF,Luis Alberto del Paranà e Los Paraguayos,a_00228,Quando vado sulla riva,s_00342,"F. Maresca, M. Pagano"
+1966,NF,Bobby Solo,a_00161,Questa volta,s_00343,"Mogol, R. Satti"
+1966,NF,The Yardbirds,a_00224,Questa volta,s_00343,"Mogol, R. Satti"
+1966,NF,John Foster,a_00188,Se questo ballo non finisse mai,s_00344,"V. Pallavicini, G. Mescoli"
+1966,NF,Paola Bertoni,a_00229,Se questo ballo non finisse mai,s_00344,"V. Pallavicini, G. Mescoli"
+1966,NF,Equipe 84,a_00230,Un giorno tu mi cercherai,s_00345,"Pantros, F. Campanino"
+1966,NF,The Renegades,a_00231,Un giorno tu mi cercherai,s_00345,"Pantros, F. Campanino"
+1967,1,Claudio Villa,a_00030,Non pensare a me,s_00346,"A. Testa, E. Sciorilli"
+1967,1,Iva Zanicchi,a_00195,Non pensare a me,s_00346,"A. Testa, E. Sciorilli"
+1967,2,Annarita Spinaci,a_00232,Quando dico che ti amo,s_00347,"A. Testa, T. Renis"
+1967,2,Les Surfs,a_00186,Quando dico che ti amo,s_00347,"A. Testa, T. Renis"
+1967,3,I Giganti,a_00233,Proposta,s_00348,"Albula, G. B. Martelli"
+1967,3,The Bachelors,a_00234,Proposta,s_00348,"Albula, G. B. Martelli"
+1967,4,Ornella Vanoni,a_00173,La musica è finita,s_00349,"Nisa, F. Califano, U. Bindi"
+1967,4,Mario Guarnera,a_00235,La musica è finita,s_00349,"Nisa, F. Califano, U. Bindi"
+1967,5,Orietta Berti,a_00208,"Io, tu e le rose",s_00350,"D. Pace, M. Panzeri, M. G. Gili, L. Barazzetti"
+1967,5,Les Compagnons de la Chanson,a_00236,"Io, tu e le rose",s_00350,"D. Pace, M. Panzeri, M. G. Gili, L. Barazzetti"
+1967,6,Lucio Dalla,a_00223,Bisogna saper perdere,s_00351,"G. Cassia, R. Cini"
+1967,6,The Rokes,a_00237,Bisogna saper perdere,s_00351,"G. Cassia, R. Cini"
+1967,7,Sergio Endrigo,a_00211,Dove credi di andare,s_00352,S. Endrigo
+1967,7,Memo Remigi,a_00238,Dove credi di andare,s_00352,S. Endrigo
+1967,8,Gian Pieretti,a_00239,Pietre,s_00353,"G. Pieretti, R. Gianco"
+1967,8,Antoine,a_00240,Pietre,s_00353,"G. Pieretti, R. Gianco"
+1967,9,Johnny Dorelli,a_00067,L'immensità,s_00354,"D. Backy, Mogol, D. Mariano"
+1967,9,Don Backy,a_00241,L'immensità,s_00354,"D. Backy, Mogol, D. Mariano"
+1967,10,Little Tony,a_00098,Cuore matto,s_00355,"A. Ambrosino, T. Savio"
+1967,10,Mario Zelinotti,a_00242,Cuore matto,s_00355,"A. Ambrosino, T. Savio"
+1967,11,Pino Donaggio,a_00102,Io per amore,s_00356,"P. Donaggio, G. Paoli, V. Pallavicini"
+1967,11,Carmen Villani,a_00243,Io per amore,s_00356,"P. Donaggio, G. Paoli, V. Pallavicini"
+1967,11,Wilma Goich,a_00182,Per vedere quant'è grande il mondo,s_00357,"Mogol, C. Donida"
+1967,11,The Bachelors,a_00234,Per vedere quant'è grande il mondo,s_00357,"Mogol, C. Donida"
+1967,13,Giorgio Gaber,a_00107,E allora dai,s_00358,"G. Gaber, F. Battiato"
+1967,13,Remo Germani,a_00157,E allora dai,s_00358,"G. Gaber, F. Battiato"
+1967,13,Gianni Pettenati,a_00244,La rivoluzione,s_00359,"Mogol, P. Soffici"
+1967,13,Gene Pitney,a_00155,La rivoluzione,s_00359,"Mogol, P. Soffici"
+1967,NF,Bobby Solo,a_00161,Canta ragazzina,s_00360,"Prog, I. Pattacini, C. Donida"
+1967,NF,Connie Francis,a_00178,Canta ragazzina,s_00360,"Prog, I. Pattacini, C. Donida"
+1967,NF,Riki Maiocchi,a_00245,C'è chi spera,s_00361,"M. Panzeri, D. Pace, G. Colonnello"
+1967,NF,Marianne Faithfull,a_00246,C'è chi spera,s_00361,"M. Panzeri, D. Pace, G. Colonnello"
+1967,NF,Luigi Tenco,a_00247,"Ciao amore, ciao",s_00362,L. Tenco
+1967,NF,Dalida,a_00248,"Ciao amore, ciao",s_00362,L. Tenco
+1967,NF,Peppino Di Capri,a_00249,Dedicato all'amore,s_00363,"A. Testa, D. Pace, F. Carraresi"
+1967,NF,Dionne Warwick,a_00250,Dedicato all'amore,s_00363,"A. Testa, D. Pace, F. Carraresi"
+1967,NF,Roberta Amadei,a_00251,Devi aver fiducia in me,s_00364,"F. Specchia, R. Martini"
+1967,NF,Carmelo Pagano,a_00252,Devi aver fiducia in me,s_00364,"F. Specchia, R. Martini"
+1967,NF,Tony Del Monaco,a_00253,È più forte di me,s_00365,"T. Del Monaco, E. Polito"
+1967,NF,Betty Curtis,a_00082,È più forte di me,s_00365,"T. Del Monaco, E. Polito"
+1967,NF,Fred Bongusto,a_00176,Gi,s_00366,"V. Pallavicini, A. Amurri, F. Bongusto"
+1967,NF,Anna German,a_00254,Gi,s_00366,"V. Pallavicini, A. Amurri, F. Bongusto"
+1967,NF,Nicola Di Bari,a_00175,Guardati alle spalle,s_00367,"L. Beretta, D. Pace"
+1967,NF,Gene Pitney,a_00155,Guardati alle spalle,s_00367,"L. Beretta, D. Pace"
+1967,NF,Caterina Caselli,a_00206,Il cammino di ogni speranza,s_00368,U. Napolitano
+1967,NF,Sonny Bono e Cher,a_00255,Il cammino di ogni speranza,s_00368,U. Napolitano
+1967,NF,Nico Fidenco,a_00256,Ma piano (Per non svegliarmi),s_00369,G. Meccia
+1967,NF,Cher,a_00257,Ma piano (Per non svegliarmi),s_00369,G. Meccia
+1967,NF,Jimmy Fontana,a_00111,Nasce una vita,s_00370,"S. Bardotti, J. Fontana"
+1967,NF,Edoardo Vianello,a_00110,Nasce una vita,s_00370,"S. Bardotti, J. Fontana"
+1967,NF,Mino Reitano,a_00258,Non prego per me,s_00371,"Mogol, L. Battisti"
+1967,NF,The Hollies,a_00259,Non prego per me,s_00371,"Mogol, L. Battisti"
+1967,NF,Los Marcellos Ferial,a_00260,Quando vedrò,s_00372,"M. Terzi, C. A. Rossi"
+1967,NF,The Happenings,a_00261,Quando vedrò,s_00372,"M. Terzi, C. A. Rossi"
+1967,NF,Domenico Modugno,a_00066,Sopra i tetti azzurri del mio pazzo amore,s_00373,"V. Pallavicini, D. Modugno"
+1967,NF,Gidiuli,a_00262,Sopra i tetti azzurri del mio pazzo amore,s_00373,"V. Pallavicini, D. Modugno"
+1967,NF,Donatella Moretti,a_00263,Una ragazza - Un ragazzo,s_00374,"V. Pallavicini, B. Pallesi, W. Malgoni"
+1967,NF,Bobby Goldsboro,a_00264,Una ragazza - Un ragazzo,s_00374,"V. Pallavicini, B. Pallesi, W. Malgoni"
+1967,NF,Milva,a_00099,Uno come noi,s_00375,"U. Martucci, G. Bertero, M. Marini"
+1967,NF,Los Bravos,a_00265,Uno come noi,s_00375,"U. Martucci, G. Bertero, M. Marini"
+1968,1,Sergio Endrigo,a_00211,Canzone per te,s_00376,"S. Endrigo, S. Bardotti"
+1968,1,Roberto Carlos,a_00266,Canzone per te,s_00376,"S. Endrigo, S. Bardotti"
+1968,2,Ornella Vanoni,a_00173,Casa bianca,s_00377,"A. Caponi, E. La Valle"
+1968,2,Marisa Sannia,a_00267,Casa bianca,s_00377,"A. Caponi, E. La Valle"
+1968,3,Adriano Celentano,a_00097,Canzone,s_00378,"A. Caponi, D. Mariano"
+1968,3,Milva,a_00099,Canzone,s_00378,"A. Caponi, D. Mariano"
+1968,4,Fausto Leali,a_00268,Deborah,s_00379,"V. Pallavicini, G. Conte, P. Massara"
+1968,4,Wilson Pickett,a_00269,Deborah,s_00379,"V. Pallavicini, G. Conte, P. Massara"
+1968,5,Antoine,a_00240,La tramontana,s_00380,"D. Pace, M. Panzeri"
+1968,5,Gianni Pettenati,a_00244,La tramontana,s_00380,"D. Pace, M. Panzeri"
+1968,6,Anna Identici,a_00207,Quando m'innamoro,s_00381,"M. Panzeri, D. Pace, R. Livraghi"
+1968,6,The Sandpipers,a_00270,Quando m'innamoro,s_00381,"M. Panzeri, D. Pace, R. Livraghi"
+1968,7,Massimo Ranieri,a_00271,Da bambino,s_00382,"R. Pradella, R. Angiolini"
+1968,7,I Giganti,a_00233,Da bambino,s_00382,"R. Pradella, R. Angiolini"
+1968,8,Gigliola Cinquetti,a_00145,Sera,s_00383,"R. Vecchioni, A. Lo Vecchio"
+1968,8,Giuliana Valci,a_00272,Sera,s_00383,"R. Vecchioni, A. Lo Vecchio"
+1968,9,Al Bano,a_00273,La siepe,s_00384,"V. Pallavicini, P. Massara"
+1968,9,Bobbie Gentry,a_00274,La siepe,s_00384,"V. Pallavicini, P. Massara"
+1968,10,Little Tony,a_00098,Un uomo piange solo per amore,s_00385,"Petaluma, M. Vicari, M. Marrocchi"
+1968,10,Mario Guarnera,a_00235,Un uomo piange solo per amore,s_00385,"Petaluma, M. Vicari, M. Marrocchi"
+1968,11,Wilma Goich,a_00182,Gli occhi miei,s_00386,"Mogol, C. Donida"
+1968,11,Dino,a_00275,Gli occhi miei,s_00386,"Mogol, C. Donida"
+1968,12,Annarita Spinaci,a_00232,Stanotte sentirai una canzone,s_00387,"T. Queirolo, F. Bracardi"
+1968,12,Yoko Kishi,a_00276,Stanotte sentirai una canzone,s_00387,"T. Queirolo, F. Bracardi"
+1968,13,Louis Armstrong,a_00277,Mi va di cantare,s_00388,"V. Buonassisi, G. Bertero, M. Marini, A. Valleroni"
+1968,13,Lara Saint Paul,a_00278,Mi va di cantare,s_00388,"V. Buonassisi, G. Bertero, M. Marini, A. Valleroni"
+1968,14,Tony Del Monaco,a_00253,La voce del silenzio,s_00389,"P. Limiti, Mogol, E. Isola"
+1968,14,Dionne Warwick,a_00250,La voce del silenzio,s_00389,"P. Limiti, Mogol, E. Isola"
+1968,NF,Peppino Gagliardi,a_00205,Che vale per me,s_00390,"M. Terzi, C. A. Rossi"
+1968,NF,Eartha Kitt,a_00279,Che vale per me,s_00390,"M. Terzi, C. A. Rossi"
+1968,NF,Tony Renis,a_00116,Il posto mio,s_00391,"A. Testa, T. Renis"
+1968,NF,Domenico Modugno,a_00066,Il posto mio,s_00391,"A. Testa, T. Renis"
+1968,NF,Nino Ferrer,a_00280,Il re d'Inghilterra,s_00392,N. Ferrer
+1968,NF,Pilade,a_00281,Il re d'Inghilterra,s_00392,N. Ferrer
+1968,NF,Johnny Dorelli,a_00067,La farfalla impazzita,s_00393,"Mogol, L. Battisti"
+1968,NF,Paul Anka,a_00154,La farfalla impazzita,s_00393,"Mogol, L. Battisti"
+1968,NF,Elio Gandolfi,a_00282,La vita,s_00394,"A. Amurri, B. Canfora"
+1968,NF,Shirley Bassey,a_00283,La vita,s_00394,"A. Amurri, B. Canfora"
+1968,NF,The Rokes,a_00237,Le opere di Bartolomeo,s_00395,"S. Bardotti, R. Cini"
+1968,NF,The Cowsills,a_00284,Le opere di Bartolomeo,s_00395,"S. Bardotti, R. Cini"
+1968,NF,Pino Donaggio,a_00102,Le solite cose,s_00396,"V. Pallavicini, P. Donaggio"
+1968,NF,Timi Yuro,a_00194,Le solite cose,s_00396,"V. Pallavicini, P. Donaggio"
+1968,NF,Giusy Romeo,a_00285,No amore,s_00397,"V. Pallavicini, P. Conte, M. Deponti, E. Intra"
+1968,NF,Sacha Distel,a_00286,No amore,s_00397,"V. Pallavicini, P. Conte, M. Deponti, E. Intra"
+1968,NF,Iva Zanicchi,a_00195,Per vivere,s_00398,"Nisa, U. Bindi"
+1968,NF,Udo Jürgens,a_00174,Per vivere,s_00398,"Nisa, U. Bindi"
+1968,NF,Orietta Berti,a_00208,Tu che non sorridi mai,s_00399,"M. Terzi, S. Sili"
+1968,NF,Piergiorgio Farina,a_00287,Tu che non sorridi mai,s_00399,"M. Terzi, S. Sili"
+1969,1,Bobby Solo,a_00161,Zingara,s_00400,"L. Albertelli, E. Riccardi"
+1969,1,Iva Zanicchi,a_00195,Zingara,s_00400,"L. Albertelli, E. Riccardi"
+1969,2,Sergio Endrigo,a_00211,Lontano dagli occhi,s_00401,"S. Bardotti, S. Endrigo, L. Bacalov"
+1969,2,Mary Hopkin,a_00288,Lontano dagli occhi,s_00401,"S. Bardotti, S. Endrigo, L. Bacalov"
+1969,3,Don Backy,a_00241,Un sorriso,s_00402,"A. Caponi, D. Mariano"
+1969,3,Milva,a_00099,Un sorriso,s_00402,"A. Caponi, D. Mariano"
+1969,4,Fausto Leali,a_00268,Un'ora fa,s_00403,"L. Beretta, E. Parazzini, G. Intra"
+1969,4,Tony Del Monaco,a_00253,Un'ora fa,s_00403,"L. Beretta, E. Parazzini, G. Intra"
+1969,5,Nada,a_00289,Ma che freddo fa,s_00404,"F. Migliacci, C. Mattone"
+1969,5,The Rokes,a_00237,Ma che freddo fa,s_00404,"F. Migliacci, C. Mattone"
+1969,6,Gigliola Cinquetti,a_00145,La pioggia,s_00405,"D. Pace, G. Argenio, C. Conti, M. Panzeri"
+1969,6,France Gall,a_00290,La pioggia,s_00405,"D. Pace, G. Argenio, C. Conti, M. Panzeri"
+1969,7,Mal,a_00291,Tu sei bella come sei,s_00406,"G. Cassia, S. Bardotti, M. Marrocchi, M. Vicari"
+1969,7,The Showmen,a_00292,Tu sei bella come sei,s_00406,"G. Cassia, S. Bardotti, M. Marrocchi, M. Vicari"
+1969,8,Caterina Caselli,a_00206,Il gioco dell'amore,s_00407,"F. Migliacci, I. Callegari"
+1969,8,Johnny Dorelli,a_00067,Il gioco dell'amore,s_00407,"F. Migliacci, I. Callegari"
+1969,9,Lucio Battisti,a_00293,Un'avventura,s_00408,"Mogol, L. Battisti"
+1969,9,Wilson Pickett,a_00269,Un'avventura,s_00408,"Mogol, L. Battisti"
+1969,10,Orietta Berti,a_00208,Quando l'amore diventa poesia,s_00409,"Mogol, P. Soffici"
+1969,10,Massimo Ranieri,a_00271,Quando l'amore diventa poesia,s_00409,"Mogol, P. Soffici"
+1969,11,Carmen Villani,a_00243,Piccola piccola,s_00410,"V. Buonassisi, G. Bertero, M. Marini, A. Valleroni"
+1969,11,Alessandra Casaccia,a_00294,Piccola piccola,s_00410,"V. Buonassisi, G. Bertero, M. Marini, A. Valleroni"
+1969,12,Little Tony,a_00098,Bada bambina,s_00411,"F. Migliacci, B. Zambrini"
+1969,12,Mario Zelinotti,a_00242,Bada bambina,s_00411,"F. Migliacci, B. Zambrini"
+1969,13,Rita Pavone,a_00295,Zucchero,s_00412,"Mogol, L. Clausetti, R. Soffici, P. Soffici, R. Guscelli"
+1969,13,Dik Dik,a_00296,Zucchero,s_00412,"Mogol, L. Clausetti, R. Soffici, P. Soffici, R. Guscelli"
+1969,14,Riccardo Del Turco,a_00297,Cosa hai messo nel caffè?,s_00413,"G. Bigazzi, R. Del Turco, G.P Reverberi"
+1969,14,Antoine,a_00240,Cosa hai messo nel caffè?,s_00413,"G. Bigazzi, R. Del Turco, G.P Reverberi"
+1969,NF,Junior Magli,a_00298,Alla fine della strada,s_00414,"D. Pace, M. Panzeri, L. Pilat"
+1969,NF,The Casuals,a_00299,Alla fine della strada,s_00414,"D. Pace, M. Panzeri, L. Pilat"
+1969,NF,Wilma Goich,a_00182,Baci baci baci,s_00415,"S. Bardotti, F. Bracardi"
+1969,NF,The Sweet Inspirations,a_00300,Baci baci baci,s_00415,"S. Bardotti, F. Bracardi"
+1969,NF,Checco,a_00301,Il sole è tramontato,s_00416,"R. Pradella, C. Marsella, R. Nisi, G. Moschini"
+1969,NF,Elio Gandolfi,a_00282,Il sole è tramontato,s_00416,"R. Pradella, C. Marsella, R. Nisi, G. Moschini"
+1969,NF,Rosanna Fratello,a_00302,Il treno,s_00417,"V. Pallavicini, E. Isola"
+1969,NF,Brenton Wood,a_00303,Il treno,s_00417,"V. Pallavicini, E. Isola"
+1969,NF,New Trolls,a_00304,Io che ho te,s_00418,"G. D'Adamo, V. De Scalzi, N. Di Palo"
+1969,NF,Leonardo,a_00305,Io che ho te,s_00418,"G. D'Adamo, V. De Scalzi, N. Di Palo"
+1969,NF,Robertino,a_00159,Le belle donne,s_00419,"V. Pallavicini, G. Conte, M. Virano"
+1969,NF,Rocky Roberts,a_00306,Le belle donne,s_00419,"V. Pallavicini, G. Conte, M. Virano"
+1969,NF,Mino Reitano,a_00258,Meglio una sera (Piangere da solo),s_00420,"N. Salerno, A. Salerno, F. Reitano, M. Reitano"
+1969,NF,Claudio Villa,a_00030,Meglio una sera (Piangere da solo),s_00420,"N. Salerno, A. Salerno, F. Reitano, M. Reitano"
+1969,NF,Armando Savini,a_00307,Non c'è che lei - Non c'è che lui,s_00421,"M. Terzi, C. A. Rossi"
+1969,NF,Sonia,a_00308,Non c'è che lei - Non c'è che lui,s_00421,"M. Terzi, C. A. Rossi"
+1969,NF,Gabriella Ferri,a_00309,Se tu ragazzo mio - Se tu ragazza mia,s_00422,"V. Ferri, G. Ferri, P. Pintucci"
+1969,NF,Stevie Wonder,a_00310,Se tu ragazzo mio - Se tu ragazza mia,s_00422,"V. Ferri, G. Ferri, P. Pintucci"
+1969,NF,Memo Remigi,a_00238,Una famiglia,s_00423,"A. Testa, M. Remigi"
+1969,NF,Isabella Iannetti,a_00311,Una famiglia,s_00423,"A. Testa, M. Remigi"
+1970,1,Adriano Celentano,a_00097,Chi non lavora non fa l'amore,s_00424,"L. Beretta, M. Del Prete, A. Celentano, N. de Luca"
+1970,1,Claudia Mori,a_00312,Chi non lavora non fa l'amore,s_00424,"L. Beretta, M. Del Prete, A. Celentano, N. de Luca"
+1970,2,Nicola Di Bari,a_00175,La prima cosa bella,s_00425,"Mogol, M. Scommegna, G. F. Reverberi"
+1970,2,Ricchi e Poveri,a_00313,La prima cosa bella,s_00425,"Mogol, M. Scommegna, G. F. Reverberi"
+1970,3,Sergio Endrigo,a_00211,L'arca di Noè,s_00426,"S. Endrigo, L. Bacalov"
+1970,3,Iva Zanicchi,a_00195,L'arca di Noè,s_00426,"S. Endrigo, L. Bacalov"
+1970,4,Ornella Vanoni,a_00173,Eternità,s_00427,"G. Bigazzi, C. Cavallaro"
+1970,4,Camaleonti,a_00314,Eternità,s_00427,"G. Bigazzi, C. Cavallaro"
+1970,5,Patty Pravo,a_00315,La spada nel cuore,s_00428,"Mogol, C. Donida Labati"
+1970,5,Little Tony,a_00098,La spada nel cuore,s_00428,"Mogol, C. Donida Labati"
+1970,6,Gigliola Cinquetti,a_00145,Romantico blues,s_00429,"L. Pilat, M. Panzeri, D. Pace"
+1970,6,Bobby Solo,a_00161,Romantico blues,s_00429,"L. Pilat, M. Panzeri, D. Pace"
+1970,7,Rosalino Cellamare,a_00316,Pa' diglielo a ma',s_00430,"F. Migliacci, R. Gigli, E. Sbriccoli, M. Cantini, L. Greco"
+1970,7,Nada,a_00289,Pa' diglielo a ma',s_00430,"F. Migliacci, R. Gigli, E. Sbriccoli, M. Cantini, L. Greco"
+1970,8,Antoine,a_00240,Taxi,s_00431,"G. Argenio, F. Arrigoni, D. Pace, M. Panzeri, C. Conti"
+1970,8,Anna Identici,a_00207,Taxi,s_00431,"G. Argenio, F. Arrigoni, D. Pace, M. Panzeri, C. Conti"
+1970,8,Orietta Berti,a_00208,Tipitipitì,s_00432,"L. Pilat, M. Panzeri, D. Pace"
+1970,8,Mario Tessuto,a_00317,Tipitipitì,s_00432,"L. Pilat, M. Panzeri, D. Pace"
+1970,10,Luciano Tajoli,a_00096,Sole pioggia e vento,s_00433,"Mogol, A. Isola"
+1970,10,Mal,a_00291,Sole pioggia e vento,s_00433,"Mogol, A. Isola"
+1970,11,Gianni Nazzaro,a_00318,L'amore è una colomba,s_00434,"G. Bigazzi, Totò Savio"
+1970,11,Marisa Sannia,a_00267,L'amore è una colomba,s_00434,"G. Bigazzi, Totò Savio"
+1970,12,Fausto Leali,a_00268,Hippy,s_00435,"L. Beretta, F. Leali"
+1970,12,Carmen Villani,a_00243,Hippy,s_00435,"L. Beretta, F. Leali"
+1970,13,Tony Renis,a_00116,Canzone blu,s_00436,"Mogol, A. Testa, E. Cesari"
+1970,13,Sergio Leonardi,a_00319,Canzone blu,s_00436,"Mogol, A. Testa, E. Cesari"
+1970,14,Nino Ferrer,a_00280,Re di cuori,s_00437,"G. Bigazzi, C. Cavallaro, Totò Savio"
+1970,14,Caterina Caselli,a_00206,Re di cuori,s_00437,"G. Bigazzi, C. Cavallaro, Totò Savio"
+1970,NF,Rocky Roberts,a_00306,Accidenti,s_00438,"G. Pieretti, R. Gianco"
+1970,NF,Il Supergruppo,a_00320,Accidenti,s_00438,"G. Pieretti, R. Gianco"
+1970,NF,Rita Pavone,a_00295,Ahi ahi ragazzo!,s_00439,"F. Migliacci, U. Napolitano"
+1970,NF,Valeria Mongardini,a_00321,Ahi ahi ragazzo!,s_00439,"F. Migliacci, U. Napolitano"
+1970,NF,I Ragazzi della via Gluck,a_00322,Ahi! Che male che mi fai,s_00440,"C. Minellono, S. Cutugno"
+1970,NF,Paolo Mengoli,a_00323,Ahi! Che male che mi fai,s_00440,"C. Minellono, S. Cutugno"
+1970,NF,Pino Donaggio,a_00102,Che effetto mi fa,s_00441,"C. Minellono, G. Donaggio"
+1970,NF,Sandie Shaw,a_00324,Che effetto mi fa,s_00441,"C. Minellono, G. Donaggio"
+1970,NF,Rosanna Fratello,a_00302,Ciao anni verdi,s_00442,"Vito Pallavicini, Nando De Luca, Alessandro Celentano"
+1970,NF,I Domodossola,a_00325,Ciao anni verdi,s_00442,"Vito Pallavicini, Nando De Luca, Alessandro Celentano"
+1970,NF,Donatello,a_00326,Io mi fermo qui,s_00443,"L. Albertelli, E. Riccardi"
+1970,NF,Dik Dik,a_00296,Io mi fermo qui,s_00443,"L. Albertelli, E. Riccardi"
+1970,NF,Michele,a_00327,L'addio,s_00444,"S. Bardotti, A. Lo Vecchio, G. Antola, M. Francesio, P. Maggi"
+1970,NF,Lucia Rizzi,a_00328,L'addio,s_00444,"S. Bardotti, A. Lo Vecchio, G. Antola, M. Francesio, P. Maggi"
+1970,NF,Emiliana Perina,a_00329,La stagione di un fiore,s_00445,"L. Rossi, S. Ruisi, G. Marchetti"
+1970,NF,Gens,a_00330,La stagione di un fiore,s_00445,"L. Rossi, S. Ruisi, G. Marchetti"
+1970,NF,Renato Rascel,a_00090,Nevicava a Roma,s_00446,"M. Del Prete, L. Beretta, R. Negri, G. Verdecchia"
+1970,NF,Pio,a_00331,Nevicava a Roma,s_00446,"M. Del Prete, L. Beretta, R. Negri, G. Verdecchia"
+1970,NF,Rossano,a_00332,Occhi a mandorla,s_00447,"V. Pallavicini, P. Soffici"
+1970,NF,Dori Ghezzi,a_00333,Occhi a mandorla,s_00447,"V. Pallavicini, P. Soffici"
+1970,NF,Francesco Banti,a_00334,Ora vivo,s_00448,"A. Favata, A. Pagani"
+1970,NF,Dino Drusiani,a_00335,Ora vivo,s_00448,"A. Favata, A. Pagani"
+1970,NF,Claudio Villa,a_00030,Serenata,s_00449,"G. Bigazzi, F. Polito, A. Rosario"
+1970,NF,Tony Del Monaco,a_00253,Serenata,s_00449,"G. Bigazzi, F. Polito, A. Rosario"
+1971,1,Nada,a_00289,Il cuore è uno zingaro,s_00450,"F. Migliacci, C. Mattone"
+1971,1,Nicola Di Bari,a_00175,Il cuore è uno zingaro,s_00450,"F. Migliacci, C. Mattone"
+1971,2,Ricchi e Poveri,a_00313,Che sarà,s_00451,"F. Migliacci, C. Pes, J. Fontana"
+1971,2,José Feliciano,a_00336,Che sarà,s_00451,"F. Migliacci, C. Pes, J. Fontana"
+1971,3,Lucio Dalla,a_00223,04/03/1943,s_00452,"L. Dalla, P. Pallottino"
+1971,3,Equipe 84,a_00230,04/03/1943,s_00452,"L. Dalla, P. Pallottino"
+1971,4,Donatello,a_00326,Com'è dolce la sera,s_00453,"L. Albertelli, E. Riccardi"
+1971,4,Marisa Sannia,a_00267,Com'è dolce la sera,s_00453,"L. Albertelli, E. Riccardi"
+1971,5,Adriano Celentano,a_00097,Sotto le lenzuola,s_00454,"L. Beretta, M. Del Prete, A. Celentano"
+1971,5,Coro Alpino Milanese,a_00337,Sotto le lenzuola,s_00454,"L. Beretta, M. Del Prete, A. Celentano"
+1971,6,Domenico Modugno,a_00066,Come stai?,s_00455,"R. Pazzaglia, D. Modugno"
+1971,6,Carmen Villani,a_00243,Come stai?,s_00455,"R. Pazzaglia, D. Modugno"
+1971,7,Don Backy,a_00241,Bianchi cristalli sereni,s_00456,A. Caponi
+1971,7,Gianni Nazzaro,a_00318,Bianchi cristalli sereni,s_00456,A. Caponi
+1971,8,Al Bano,a_00273,"13, storia d'oggi",s_00457,"V. Pallavicini, A. Carrisi"
+1971,8,Aguaviva,a_00338,"13, storia d'oggi",s_00457,"V. Pallavicini, A. Carrisi"
+1971,9,Gigliola Cinquetti,a_00145,Rose nel buio,s_00458,"L. Pilat, M. Panzeri, D. Pace"
+1971,9,Ray Conniff,a_00339,Rose nel buio,s_00458,"L. Pilat, M. Panzeri, D. Pace"
+1971,10,Caterina Caselli,a_00206,Ninna nanna (Cuore mio),s_00459,"L. Albertelli, E. Riccardi"
+1971,10,Dik Dik,a_00296,Ninna nanna (Cuore mio),s_00459,"L. Albertelli, E. Riccardi"
+1971,11,Pino Donaggio,a_00102,L'ultimo romantico,s_00460,"V. Pallavicini, P. Donaggio"
+1971,11,Peppino Di Capri,a_00249,L'ultimo romantico,s_00460,"V. Pallavicini, P. Donaggio"
+1971,12,Little Tony,a_00098,La folle corsa,s_00461,"Mogol, C. Donida"
+1971,12,Formula 3,a_00340,La folle corsa,s_00461,"Mogol, C. Donida"
+1971,13,Sergio Endrigo,a_00211,Una storia,s_00462,S. Endrigo
+1971,13,New Trolls,a_00304,Una storia,s_00462,S. Endrigo
+1971,14,Sergio Menegale,a_00341,Il sorriso il paradiso,s_00463,"S. Menegale, G. D'Errico"
+1971,14,Wallace Collection,a_00342,Il sorriso il paradiso,s_00463,"S. Menegale, G. D'Errico"
+1971,NF,Rosanna Fratello,a_00302,Amsterdam,s_00464,"D. Pace, M. Panzeri, P. Calvi"
+1971,NF,Nino Ferrer,a_00280,Amsterdam,s_00464,"D. Pace, M. Panzeri, P. Calvi"
+1971,NF,Maurizio & Fabrizio,a_00343,Andata e ritorno,s_00465,"D. Renzetti, L. Albertelli"
+1971,NF,Protagonisti,a_00344,Andata e ritorno,s_00465,"D. Renzetti, L. Albertelli"
+1971,NF,Paolo Mengoli,a_00323,I ragazzi come noi,s_00466,"E. Lombardi, Antonio Balducci"
+1971,NF,Mark e Martha,a_00345,I ragazzi come noi,s_00466,"E. Lombardi, Antonio Balducci"
+1971,NF,Antoine,a_00240,Il dirigibile,s_00467,"L. Albertelli, M. Fabrizio"
+1971,NF,Anna Identici,a_00207,Il dirigibile,s_00467,"L. Albertelli, M. Fabrizio"
+1971,NF,I Giganti,a_00233,Il viso di lei,s_00468,"Baracuda, V. Tempera, S. Scandolara"
+1971,NF,Fabio Trioli,a_00346,Il viso di lei,s_00468,"Baracuda, V. Tempera, S. Scandolara"
+1971,NF,Jordan e i middle of the road,a_00347,Lo schiaffo,s_00469,"G. Deriu, V. Barsanti"
+1971,NF,Gens,a_00330,Lo schiaffo,s_00469,"G. Deriu, V. Barsanti"
+1971,NF,Edda Ollari,a_00348,L'ora giusta,s_00470,"C. Conti, D. Pace, M. Panzeri, G. Argenio"
+1971,NF,Lorenza Visconti,a_00349,L'ora giusta,s_00470,"C. Conti, D. Pace, M. Panzeri, G. Argenio"
+1971,NF,Nomadi,a_00350,Non dimenticarti di me,s_00471,"Mogol, M. Lavezzi"
+1971,NF,Mal,a_00291,Non dimenticarti di me,s_00471,"Mogol, M. Lavezzi"
+1971,NF,Pio,a_00331,Occhi bianchi e neri,s_00472,"E. Sciorilli, A. Testa, M. Del Prete"
+1971,NF,Mau Cristiani,a_00351,Occhi bianchi e neri,s_00472,"E. Sciorilli, A. Testa, M. Del Prete"
+1971,NF,Piero Focaccia,a_00162,Santo Antonio Santo Francisco,s_00473,"V. Pallavicini, P. Conte"
+1971,NF,Mungo Jerry,a_00352,Santo Antonio Santo Francisco,s_00473,"V. Pallavicini, P. Conte"
+1972,1,Nicola Di Bari,a_00175,I giorni dell'arcobaleno,s_00474,"M. Scommegna, D. Masini, P. Pintucci"
+1972,2,Peppino Gagliardi,a_00205,Come le viole,s_00475,"P. Gagliardi, G. Amendola"
+1972,3,Nada,a_00289,Il re di denari,s_00476,"C. Mattone, F. Migliacci"
+1972,4,Gianni Morandi,a_00353,Vado a lavorare,s_00477,"F. Migliacci, Petaluma, M. Marrocchi, V. Tariciotti"
+1972,5,Gianni Nazzaro,a_00318,Non voglio innamorarmi mai,s_00478,"M. Signorini, G. Bigazzi"
+1972,6,Delirium,a_00354,Jesahel,s_00479,"O. Prudente, I. Fossati"
+1972,7,Marcella Bella,a_00355,Montagne verdi,s_00480,"G. Bigazzi, G. Bella"
+1972,8,Lucio Dalla,a_00223,Piazza Grande,s_00481,"L. Dalla, R. Cellamare, G. Baldazzi, S. Bardotti"
+1972,9,Gigliola Cinquetti,a_00145,Gira l'amore (Caro bebè),s_00482,"M. Panzeri, D. Pace"
+1972,10,Donatello,a_00326,Ti voglio,s_00483,"R. Sanna, D.L. Pieretti"
+1972,11,Ricchi e Poveri,a_00313,Un diadema di ciliegie,s_00484,R. Bertola
+1972,12,Milva,a_00099,Mediterraneo,s_00485,"L. Albertelli, E. Riccardi"
+1972,13,Lara Saint Paul,a_00278,Se non fosse fra queste mie braccia lo inventerei,s_00486,"E. Suligoj, L. Beretta"
+1972,14,Domenico Modugno,a_00066,Un calcio alla città,s_00487,"D. Modugno, M. Castellacci, R. Pazzaglia"
+1972,NF,Rita Pavone,a_00295,Amici mai,s_00488,"Caviri, M. Cantini"
+1972,NF,Pino Donaggio,a_00102,Ci sono giorni,s_00489,"V. Pallavicini, P. Donaggio"
+1972,NF,Aguaviva,a_00338,Ciao amico ciao,s_00490,"M. Remigi, C. Minellono"
+1972,NF,Anna Identici,a_00207,Era bello il mio ragazzo,s_00491,"G. Guarnieri, P. P. Preti"
+1972,NF,Michele,a_00327,Forestiero,s_00492,"S. Scandolara, S. Bardotti, C. Castellari, C. Castellari"
+1972,NF,Carla Bissi,a_00356,Il mio cuore se ne va,s_00493,"M. Remigi, Spiker"
+1972,NF,Fausto Leali,a_00268,L'uomo e il cane,s_00494,"F. Leali, M. Cantù"
+1972,NF,Marisa Sacchetto,a_00357,La foresta selvaggia,s_00495,"P. Limiti, C. Cavallaro"
+1972,NF,Delia,a_00358,Per amore ricomincerei,s_00496,"M. Terzi, A. Salerno, C. Dammicco"
+1972,NF,Angelica,a_00359,Portami via,s_00497,"M. Mellier, L. Medini"
+1972,NF,Tony Cucchiara,a_00360,Preghiera,s_00498,T. Cucchiara
+1972,NF,Bobby Solo,a_00161,Rimpianto,s_00499,"E. Riccardi, L. Albertelli"
+1972,NF,Roberto Carlos,a_00266,Un gatto nel blu,s_00500,"G. Savio, G. Bigazzi"
+1972,NF,I Nuovi Angeli,a_00361,Un viaggio in Inghilterra,s_00501,"R. Sanna, D.L. Pieretti"
+1973,1,Peppino Di Capri,a_00249,Un grande amore e niente più,s_00502,"F. Califano, G. Wright, G. Faiella, C. Mattone"
+1973,2,Peppino Gagliardi,a_00205,Come un ragazzino,s_00503,"G. Amendola, P. Gagliardi"
+1973,3,Milva,a_00099,Da troppo tempo,s_00504,"L. Albertelli, G. Colonnello"
+1973,4,Ricchi e Poveri,a_00313,Dolce frutto,s_00505,"C. Minellono, U. Balsamo"
+1973,5,Gilda Giuliani,a_00362,Serena,s_00506,"V. Pallavicini, G. Mescoli"
+1973,6,Wess e Dori Ghezzi,a_00363,Tu nella mia vita,s_00507,"Lubiak, F. Monti Arduini"
+1973,7,Roberto Vecchioni,a_00364,L'uomo che si gioca il cielo a dadi,s_00508,R. Vecchioni
+1973,8,Fausto Leali,a_00268,La bandiera di sole,s_00509,"V. Pallavicini, F. Leali"
+1973,9,Umberto Balsamo,a_00365,Amore mio,s_00510,"C. Minellono, U. Balsamo"
+1973,10,Anna Identici,a_00207,Mi son chiesta tante volte,s_00511,"P. P. Preti, G. Guarneri"
+1973,11,Camaleonti,a_00314,Come sei bella,s_00512,"G. Bigazzi, C. Cavallaro"
+1973,12,Donatello,a_00326,Tu giovane amore mio,s_00513,"G. Pieretti, F. Monachesi, R. Gianco, A. Nicorelli"
+1973,13,Memo Remigi,a_00238,Il mondo è qui,s_00514,M. Remigi
+1973,14,Alessandro,a_00366,Tre minuti di ricordi,s_00515,"M. Del Prete, A. Pintus"
+1973,15,Lionello,a_00367,Straniera straniera,s_00516,"F. Specchia, F. Chiaravalle"
+1973,16,Lara Saint Paul,a_00278,Una casa grande,s_00517,"A. Lo Vecchio, N. Aprile, N. Villa"
+1973,NF,Mocedades,a_00368,Addio amor,s_00518,"M. Gallerani, G. Bosisio, M. Nobile"
+1973,NF,Pop Tops,a_00369,Angeline,s_00519,"R. Nisi Marsella, C. Daiano"
+1973,NF,Jet,a_00370,Anika na-o,s_00520,"F. Piccarreda, P. Cochis, P. Cassano"
+1973,NF,Bassano,a_00371,Cara amica,s_00521,"F. Specchia P. Prencipe, V. Caruso"
+1973,NF,Carmen Amato,a_00372,Dove andrai,s_00522,D. Mariano
+1973,NF,Sergio Endrigo,a_00211,Elisa Elisa,s_00523,"S. Bardotti, S. Endrigo"
+1973,NF,Lolita,a_00373,Innamorata io?,s_00524,"A. Celentano, F. Chiaravalle"
+1973,NF,Gigliola Cinquetti,a_00145,Mistero,s_00525,C. Mattone
+1973,NF,Christian De Sica,a_00374,Mondo mio,s_00526,"P. Conte, G. Conte"
+1973,NF,Alberto Feri,a_00375,Ogni volta che mi pare,s_00527,"F. Evangelisti, P. Pintucci"
+1973,NF,Junior Magli,a_00298,Povero,s_00528,"L. Medini, M. Mellier"
+1973,NF,Le Figlie del Vento,a_00376,Sugli sugli bane bane,s_00529,"F. Chiaravalle, P. Tomelleri, A. M. Piccioli"
+1973,NF,Drupi,a_00377,Vado via,s_00530,"E. Riccardi, L. Albertelli"
+1973,NF,Toni Santagata,a_00378,Via Garibaldi,s_00531,T. Santagata
+1974,1,Iva Zanicchi,a_00195,Ciao cara come stai?,s_00532,"C. Malgioglio, C. Daiano, Dinaro, I. Ianne"
+1974,2,Domenico Modugno,a_00066,Questa è la mia vita,s_00533,"L. Beretta, D. Modugno, E. Suligoj"
+1974,3,Orietta Berti,a_00208,Occhi rossi (tramonto d'amore),s_00534,"D. Pace, C. Conti, L. Pilat, M. Panzeri"
+1974,F,Anna Melato,a_00379,Sta piovendo dolcemente,s_00535,"M. Piccoli, P. Donaggio"
+1974,F,Emanuela Cortesi,a_00380,Il mio volo bianco,s_00536,"C. Daiano, F. Zanon, I. Ianne"
+1974,F,Gilda Giuliani,a_00362,Senza titolo,s_00537,"V. Pallavicini, A. Ferrari, G. Mescoli"
+1974,F,I Domodossola,a_00325,Se hai paura,s_00538,"R. Soffici, M. Guantini, L. Albertelli"
+1974,F,Les Charlots,a_00381,Mon ami Tango,s_00539,"D. Pace, C. Conti, L. Pilat, M. Panzeri"
+1974,F,Valentina Greco,a_00382,Notte dell'estate,s_00540,"A. Mammoliti, A. Buonocore, C. Celli"
+1974,F,Nicola Di Bari,a_00175,Il matto del villaggio,s_00541,"F. Migliacci, C. Mattone, P. Pintucci"
+1974,F,Mouth & MacNeal,a_00383,Ah! L'amore,s_00542,"E. Lombardo, C. Sebastianelli, E. Capelli"
+1974,F,Gianni Nazzaro,a_00318,A modo mio,s_00543,"C. Baglioni, A. Coggio"
+1974,F,Al Bano,a_00273,In controluce,s_00544,"A. Carrisi, P. Limiti"
+1974,F,Mino Reitano,a_00258,Innamorati,s_00545,"L. Beretta, F. Reitano, M. Reitano"
+1974,F,Rosanna Fratello,a_00302,Un po' di coraggio,s_00546,"G. Pieretti, A. R. Mancino"
+1974,F,Little Tony,a_00098,Cavalli bianchi,s_00547,"Miro, Giulifan, B. Casu"
+1974,F,Milva,a_00099,Monica delle bambole,s_00548,"L. Beretta, E. Suligoj"
+1974,F,Middle of the Road,a_00384,Sole giallo,s_00549,"M. Piccoli, P. Donaggio"
+1974,NF,Kambiz,a_00385,Canta con me,s_00550,"E. Riccardi, L. Albertelli"
+1974,NF,Donatella Rettore,a_00386,Capelli sciolti,s_00551,"D. Rettore, M. Pagano"
+1974,NF,Riccardo Fogli,a_00387,Complici,s_00552,"L. Lopez, C. Vistarini"
+1974,NF,Franco Simone,a_00388,Fiume grande,s_00553,F. Simone
+1974,NF,Orchestra Spettacolo Casadei,a_00389,La canta,s_00554,"R. Casadei, E. Muccioli, A. Pedulli"
+1974,NF,Paola Musiani,a_00390,La donna quando pensa,s_00555,"M. Galati, E. Capelli"
+1974,NF,Antonella Bottazzi,a_00391,Per una donna donna,s_00556,A. Bottazzi
+1974,NF,Rossella,a_00392,Qui,s_00557,"P. A. Cassella, R. Cocciante, M. Luberti"
+1974,NF,Sonia Gigliola Conti,a_00393,Ricomincerei,s_00558,"P. Soffici, G. Pieretti"
+1974,NF,Piero Focaccia,a_00162,Valentin tango,s_00559,"L. Beretta, E. Capotosti"
+1975,1,Gilda,a_00394,Ragazza del sud,s_00560,R. Scalabrino
+1975,2,Angela Luce,a_00395,Ipocrisia,s_00561,"P. Giordano, E. Alfieri"
+1975,2,Rosanna Fratello,a_00302,Va' speranza va',s_00562,"G. Taddei, F. Graniero"
+1975,4,Valentina Greco,a_00382,Un grande addio,s_00563,"G. Puzzo, B. Moglia, P. Limiti, E. Capotosti, M. C. Lacamera"
+1975,5,Laura,a_00396,E poi e poi,s_00564,N. La Mantia
+1975,6,Franco e le Piccole Donne,a_00397,Come Humphrey Bogart,s_00565,"L. Raggi, B. Pallini"
+1975,F,Le Nuove Erbe,a_00398,Topolino piccolo,s_00566,"F. Specchia, P. Prencipe"
+1975,F,Nico dei Gabbiani,a_00399,Io credo (Ci son cose più grandi di te),s_00567,"Cadam, F. Turnaturi"
+1975,F,Eugenio Alberti,a_00400,Decidi tu per me,s_00568,"P. Montanaro, E. Ronda, A. Gallo, M. Mellier"
+1975,F,Gianni Migliardi,a_00401,Sei stata tu,s_00569,"S. Piccioli, A. Valleroni, F. Tessandori"
+1975,F,Piero Cotto,a_00402,Il telegramma,s_00570,"V. Pallavicini, G. Donaggio"
+1975,F,Stefania,a_00403,L'incertezza di una vita,s_00571,"F. Specchia, P. Prencipe, S. Sciannamea"
+1975,NF,Emy Cesaroni,a_00404,1975… amore mio,s_00572,"F. Specchia, P. Prencipe"
+1975,NF,Gabriella Sanna,a_00405,Adesso basti tu,s_00573,"G. Meccia, B. Zambrini"
+1975,NF,Daniela,a_00406,Dolce abitudine,s_00574,"P. Montanaro, E. Ronda, G. Rigo, A. Mammoliti"
+1975,NF,Eva 2000,a_00407,In amore non si può mentire,s_00575,"L. Capello, M. Cenci"
+1975,NF,Jean-François Michael,a_00408,Innamorarsi,s_00576,"D. Sarti, A. De Lorenzo, A. Olivares, B. Stecca"
+1975,NF,Annagloria,a_00409,La paura di morire,s_00577,"G. Calabrese, E. Ballotta, P. Calvi"
+1975,NF,Antonella Bellan,a_00410,Lettera,s_00578,"R. Scala, L. Medini, P. B. Greco, M. Mellier"
+1975,NF,Lorenzo Pilat,a_00411,Madonna d'amore,s_00579,L. Pilat
+1975,NF,G.Men,a_00412,Oggi,s_00580,T. Cavalli
+1975,NF,Kriss and Saratoga,a_00413,Piccola bambina cara,s_00581,"F. Specchia, P. Prencipe, S. Sciannamea"
+1975,NF,La Quinta Faccia,a_00414,Quattro stagioni,s_00582,"I. Pelosi, V. Caruso"
+1975,NF,Paola Folzini,a_00415,Il ragioniere,s_00583,"C. Celli, A. Buonocore, A. Mammoliti"
+1975,NF,Goffredo Canarini,a_00416,Scarafaggi,s_00584,G. Canarini
+1975,NF,Paola Musiani,a_00390,Se nasco un'altra volta,s_00585,"A. Testa, P. Donaggio"
+1975,NF,Le Volpi Blu,a_00417,Senza impegno,s_00586,"M. Motta, S. Bordoni, F. Delfino, G. Damele"
+1975,NF,Leila Selli,a_00418,Sola in due,s_00587,"M. Francesio, G. Canarini, N. Roccabruna"
+1975,NF,Nannarella,a_00419,Sotto le stelle,s_00588,R. Balzani
+1975,NF,Ely Neri e la sua orchestra,a_00420,Tango di casa mia,s_00589,E. Neri
+1976,1,Peppino Di Capri,a_00249,Non lo faccio più,s_00590,"Depsa, S. Iodice, F. Berlincioni"
+1976,2,Wess & Dori Ghezzi,a_00421,"Come stai, con chi sei",s_00591,"C. Minellono, F. Piccarreda, U. Balsamo"
+1976,3,Sandro Giacobbe,a_00422,Gli occhi di tua madre,s_00592,"S. Giacobbe, D. Pace, O. Avogadro"
+1976,3,Albatros,a_00423,Volo AZ 504,s_00593,"V. Pallavicini, T. Cutugno"
+1976,5,Paolo Frescura,a_00424,Due anelli,s_00594,"A. De Sanctis, P. Frescura"
+1976,6,Drupi,a_00377,Sambariò,s_00595,"L. Albertelli, E. Riccardi"
+1976,7,Carlo Gigli,a_00425,Più forte,s_00596,"Schiava, L.Gigli"
+1976,8,Daniel Sentacruz Ensemble,a_00426,Linda bella Linda,s_00597,"C. Dammicco, Querencio, Sentacruz, F. Specchia"
+1976,9,Gli Opera,a_00427,L'ho persa ancora,s_00598,"F. Ricciardi, O. Avogadro, D. Pace"
+1976,10,Camaleonti,a_00314,Cuore di vetro,s_00599,"G. Bigazzi, T. Savio"
+1976,11,Orietta Berti,a_00208,Omar,s_00600,"M. Battaini, L. Beretta"
+1976,12,La Strana Società,a_00428,Andiamo via,s_00601,"C. Conti, F. Cassano, L. Albertelli"
+1976,13,Ricchi e Poveri con I Nostri Figli,a_00429,Due storie dei musicanti,s_00602,"L. Bacalov, S. Bardotti"
+1976,14,Patrizio Sandrelli,a_00430,Piccola donna addio,s_00603,"V. Stavolo, F. Zulian"
+1976,15,Sergio Endrigo,a_00211,Quando c'era il mare,s_00604,S. Endrigo
+1976,15,Miko,a_00431,Signora tu,s_00605,"G. Pegoraro, P. M. Bozzetti"
+1976,17,Profeti,a_00432,Cercati un'anima,s_00606,"D. Ciletti, C. Cavallaro, D. Pace, O. Avogadro"
+1976,18,La Nuova Gente,a_00433,Che sarei,s_00607,"P. Landro, E. Cardullo"
+1976,NF,Santino Rocchetti,a_00434,E tu mi manchi,s_00608,"S. Luca, A. Lo Vecchio"
+1976,NF,Rosanna Fratello,a_00302,Il mio primo rossetto,s_00609,"U. Napolitano, A. Salerno"
+1976,NF,Gloriana,a_00435,La canzone dei poveri,s_00610,"A. Gallo, Mallozzi"
+1976,NF,Antonio Buonomo,a_00436,La femminista,s_00611,"L. Chiosso, E. Alfieri"
+1976,NF,Leano Morelli,a_00437,Nata libera,s_00612,"E. Crippa, L. Morelli"
+1976,NF,Romina Power,a_00438,Non due,s_00613,"R. Power, A. Carrisi"
+1976,NF,Maggie Mae,a_00439,Sing My Song,s_00614,"C. De Natale, Darini"
+1976,NF,Armonium,a_00440,Stella cadente,s_00615,"V. Stavolo, F. Zulian"
+1976,NF,Vanna Leali,a_00441,Torno a casa,s_00616,"E. Suligoj, P. Limiti"
+1976,NF,Umberto Lupi,a_00442,Una casa senza nome,s_00617,"L. Pilat, M. Panzeri, D. Pace"
+1976,NF,Ezio Maria Picciotta,a_00443,Uomo qualunque,s_00618,"E. M. Picciotta, F. Migliacci, D. Farina"
+1976,NF,Silvano Vittorio,a_00444,Vieni,s_00619,"A. Lo Vecchio, S. Vittorio"
+1977,1,Homo Sapiens,a_00445,Bella da morire,s_00620,"R. Pareti, A. Salerno"
+1977,2,Collage,a_00446,Tu mi rubi l'anima,s_00621,"G. Padovan, A. De Sanctis"
+1977,3,I Santo California,a_00447,Monica,s_00622,"P. Pinna, G. Simonelli, E. Palumbo"
+1977,F,Umberto Napolitano,a_00448,Con te ci sto,s_00623,U. Napolitano
+1977,F,Santino Rocchetti,a_00434,Dedicato a te,s_00624,"S. Rocchetti, A. Lo Vecchio"
+1977,F,Daniela Davoli,a_00449,E invece con te,s_00625,"D. Davoli, M. Zarrillo"
+1977,F,Albatros,a_00423,Gran Premio,s_00626,"M. Vasseur, V. Pallavicini, T. Cutugno"
+1977,F,Leano Morelli,a_00437,Io ti porterei,s_00627,L. Morelli
+1977,F,Matia Bazar,a_00450,Ma perché,s_00628,"C. Marrale, P. Cassano, A. Stellita"
+1977,F,Il Giardino dei Semplici,a_00451,Miele,s_00629,"G. Bigazzi, T. Savio"
+1977,F,Donatella Rettore,a_00386,Carmela,s_00630,"D. Rettore, C. Rego"
+1977,F,La Strana Società,a_00428,Tesoro mio,s_00631,"L. Albertelli, C. Conti, F. Cassano"
+1978,1,Matia Bazar,a_00450,...e dirsi ciao,s_00632,"G. Golzi, A. Stellita, P. Cassano, C. Marrale, A. Ruggiero"
+1978,2,Anna Oxa,a_00452,Un'emozione da poco,s_00633,"I. Fossati, G. Guglielminetti"
+1978,3,Rino Gaetano,a_00453,Gianna,s_00634,R. Gaetano
+1978,4,Ciro Sebastianelli,a_00454,Il buio e tu,s_00635,"C. Sebastianelli, D. Pace, O. Avogadro"
+1978,5,Anselmo Genovese,a_00455,Tu sola,s_00636,"A. Genovese, L. Capello"
+1978,6,Santino Rocchetti,a_00434,Armonia e poesia,s_00637,"S. Rocchetti, A. Lo Vecchio"
+1978,7,Schola Cantorum,a_00456,Il mio amore,s_00638,"M. Luberti, E. Fusco"
+1978,8,Laura Luca,a_00457,Domani domani,s_00639,"G. Pieretti, A. Nicorelli"
+1978,9,Daniel Sentacruz Ensemble,a_00426,1/2 notte,s_00640,"Zacar, S. Grieco, C. Dammicco, Sentacruz"
+1978,F,Donato Ciletti,a_00458,Anna Anna,s_00641,"D. Pace, O. Avogadro, D. Ciletti, C. Cavallaro"
+1978,F,Roberto Carrino,a_00459,N 'addore 'e castagne,s_00642,"R. Carrino, M. Coppola"
+1978,F,Dora Moroni,a_00460,Ora,s_00643,"F. Marino, E. Intra, C. Rego, D. Rettore"
+1978,F,Marco Ferradini,a_00461,Quando Teresa verrà,s_00644,"S. Luca, M. Ferradini"
+1978,F,Beans,a_00462,Soli,s_00645,"A. Bella, G. Bella"
+1979,1,Mino Vergnaghi,a_00463,Amare,s_00646,"P. Finà, S. Ortone"
+1979,2,Enzo Carella,a_00464,Barbara,s_00647,"E. Carella, P. Panella"
+1979,3,I Camaleonti,a_00465,Quell'attimo in più,s_00648,"M. Lavezzi, O. Avogadro, D. Pace"
+1979,4,Collage,a_00446,La gente parla,s_00649,"A. De Sanctis, S. Di Nardo, M. Marrocchi"
+1979,5,Enrico Beruschi,a_00466,Sarà un fiore,s_00650,"D. Pace, C. Conti, M. Panzeri"
+1979,6,Franco Fanigliulo,a_00467,A me mi piace vivere alla grande,s_00651,"O. Avogadro, R. Borghetti, F. Fanigliulo, D. Pace"
+1979,7,Lorella Pescerelli,a_00468,New York,s_00652,"F. Migliacci, F. Paulin"
+1979,8,Kim & The Cadillacs,a_00469,C'era un'atmosfera,s_00653,"A. Stellita, P. Cassano"
+1979,9,Umberto Napolitano,a_00448,Bimba mia,s_00654,U. Napolitano
+1979,10,Pandemonium,a_00470,Tu fai schifo sempre,s_00655,"A. Giordano, M. Paulicelli, G. Mauro"
+1979,11,Antoine,a_00240,Nocciolino,s_00656,M. Piccoli
+1979,12,Grimm,a_00471,Liana,s_00657,L. Lazzarini
+1979,NF,Marinella,a_00472,Autunno cadono le pagine gialle,s_00658,"R. Ferri, G. Trombetti"
+1979,NF,Nicoletta Bauce,a_00473,Grande mago,s_00659,"N. Bauce, R. Colombo"
+1979,NF,Il Était une Fois,a_00474,Impazzirò,s_00660,"P. Civello, Basilivan"
+1979,NF,Michele Vicino,a_00475,In due,s_00661,"G. Belfiore, M. Vicino"
+1979,NF,Massimo Abbate,a_00476,Napule cagnarrà,s_00662,W. Montanelli
+1979,NF,Roberta,a_00477,"Il sole, la pioggia",s_00663,"D. Pace, C. Conti"
+1979,NF,Ciro Sebastianelli,a_00454,Ciao Barbarella,s_00664,"C. Sebastianelli, D. Pace, O. Avogadro"
+1979,NF,Ayx,a_00478,Ayx Disco,s_00665,R. Galardini
+1979,NF,Gianni Mocchetti,a_00479,Talismano nero,s_00666,"Manipoli, G. Mocchetti"
+1979,NF,Gli Opera,a_00427,Il diario dei segreti,s_00667,"C. Daiano, G. Adorno"
+1980,1,Toto Cutugno,a_00480,Solo noi,s_00668,S. Cutugno
+1980,2,Enzo Malepasso,a_00481,Ti voglio bene,s_00669,"Depsa, E. Malepasso"
+1980,3,Pupo,a_00482,Su di noi,s_00670,"P. Barabani, D. Milani, E. Ghinazzi"
+1980,F,Gianni Morandi,a_00353,Mariù,s_00671,"R. Cellamare, F. De Gregori"
+1980,F,La Bottega dell'Arte,a_00483,Più di una canzone,s_00672,"P. Calabrese, R. Musumarra"
+1980,F,Sally Oldfield,a_00484,I Sing for You,s_00673,"A. Salerno, M. Fabrizio"
+1980,F,Stefano Rosso,a_00485,L'italiano,s_00674,S. Rosso
+1980,F,Leroy Gomez,a_00486,Tu mi manchi dentro,s_00675,"C. Minellono, R. Brioschi"
+1980,F,Paolo Riviera,a_00487,Cavallo bianco,s_00676,"V. Magelli, R. Aglietti"
+1980,F,Bobby Solo,a_00161,Gelosia,s_00677,"D. Ciotti, R. Satti"
+1980,F,Decibel,a_00488,Contessa,s_00678,"F. Muzio, E. Ruggeri"
+1980,F,Francesco Magni,a_00489,Voglio l'erba voglio,s_00679,F. Magni
+1980,F,Aldo Donati,a_00490,Canterò canterò canterò,s_00680,A. Donati
+1980,F,Giorgio Zito e i Diesel,a_00491,"Ma vai, vai!",s_00681,G. Bennato
+1980,F,Linda Lee,a_00492,Va' pensiero,s_00682,P. Caruso
+1980,F,Bruno D'Andrea,a_00493,Mara,s_00683,"L. Albertelli, B. Tavernese"
+1980,F,Leano Morelli,a_00437,Musica regina,s_00684,L. Morelli
+1980,F,Orlando Johnson,a_00494,Il sole canta,s_00685,G. Ullu
+1980,F,Alberto Cheli,a_00495,Passerà,s_00686,"A. Coggio, M. Luberti"
+1980,F,Peppino di Capri,a_00249,Tu cioè...,s_00687,"Depsa, G. Faiella"
+1980,NF,Omelet,a_00496,Amor mio... sono me!,s_00688,"P. Scarpettini, A. Piccareta"
+1980,NF,Rimmel,a_00497,Angelo di seta,s_00689,"G. Dell'Orso, R. Guide, C. Colitti"
+1980,NF,Henry Freis,a_00498,Dal metrò a New York,s_00690,S. Giacobbe
+1980,NF,Mela Lo Cicero,a_00499,Dammi le mani,s_00691,F. Chiaravalle
+1980,NF,Gianfranco De Angelis,a_00500,E pensare che una volta... non era così!,s_00692,"S. Spassiano, P. Cassella"
+1980,NF,Alberto Beltrami,a_00501,Non ti drogare,s_00693,A. Beltrami
+1980,NF,Latte e Miele,a_00502,Ritagli di luce,s_00694,"L. Poltini, L. Albertelli"
+1980,NF,Armonium,a_00440,Ti desidero,s_00695,"C. Scotti Galletta, P. Barabani, F. Zulian"
+1980,NF,Luca Cola,a_00503,Tu che fai la moglie,s_00696,"L. Cola, E. Intra, Rigaldi"
+1980,NF,Coscarella e Polimeno,a_00504,Tu sei la mia musica,s_00697,"A. Coscarella, D. Polimeno, A. Cogliati"
+1981,1,Alice,a_00505,Per Elisa,s_00698,"C. Bissi, F. Battiato, G. Pio"
+1981,2,Loretta Goggi,a_00506,Maledetta primavera,s_00699,"P. A. Cassella, T. Savio"
+1981,3,Dario Baldan Bembo,a_00507,Tu cosa fai stasera?,s_00700,"P. A. Cassella, D. Baldan Bembo"
+1981,4,Luca Barbarossa,a_00508,Roma spogliata,s_00701,L. Barbarossa
+1981,5,Ricchi e Poveri,a_00313,Sarà perché ti amo,s_00702,"E. Ghinazzi, D. Pace, D. Farina"
+1981,6,Paolo Barabani,a_00509,Hop hop somarello,s_00703,"P. Barabani, E. Ghinazzi, G. P. Reverberi"
+1981,7,Marinella,a_00472,Ma chi te lo fa fare,s_00704,"V. Pallavicini, G. P. Felisatti"
+1981,8,Michele Zarrillo,a_00510,Su quel pianeta libero,s_00705,"M. Zarrillo, A. Rosario, P. A. Cassella"
+1981,9,Marcella,a_00511,Pensa per te,s_00706,"G. Bigazzi, G. Bella"
+1981,10,Passengers,a_00512,Midnight,s_00707,"G. Arena, A. Piccareta"
+1981,F,Eduardo De Crescenzo,a_00513,Ancora,s_00708,"F. Migliacci, C. Mattone"
+1981,F,Leano Morelli,a_00437,Angela,s_00709,"M. Mologni, L. Morelli"
+1981,F,Orietta Berti,a_00208,La barca non va più,s_00710,"B. Lauzi, P. Caruso"
+1981,F,Sterling Saint-Jacques,a_00514,Blue (Tutto è blu),s_00711,"P. M. Bozzetti, G. Bozzetti, V. Caruso"
+1981,F,Fiorella Mannoia,a_00515,Caffè nero bollente,s_00712,"C. Cavallo, R. De Cola"
+1981,F,Carmen & Thompson,a_00516,Follow me (Se amore vuoi),s_00713,"L. Angeleri, C. Thompson, P. Carmen"
+1981,F,Stefano Tosi,a_00517,Io mi,s_00714,"C. D'Apruzzo, M. Filistrucchi, S. Tosi Innocenti"
+1981,F,Bobby Solo,a_00161,Non posso perderti,s_00715,"D. Ciotti, R. Satti"
+1981,F,Gianni Bella,a_00518,Questo amore non si tocca,s_00716,"G. Bigazzi, G. Bella"
+1981,F,Collage,a_00446,I ragazzi che si amano,s_00717,"C. Fontana, A. Valsiglio, P. Masala"
+1981,NF,Enzo Malepasso,a_00481,Amore mio,s_00718,"S. De Pasquale, V. Malepasso"
+1981,NF,Sebastiano Occhino,a_00519,Bianca stella,s_00719,"S. Occhino, L. Albertelli"
+1981,NF,Jo Chiarello,a_00520,Che brutto affare,s_00720,"F. Califano, A. Varano"
+1981,NF,Gli Opera,a_00427,Guerriero,s_00721,A. Barillà
+1981,NF,Umberto Napolitano,a_00448,Mille volte ti amo,s_00722,U. Napolitano
+1981,NF,Tom Hooker,a_00521,Toccami,s_00723,"R. Brioschi, M. Chiodi"
+1981,NF,Domenico Mattia,a_00522,Tulilemble,s_00724,G. P. Felisatti
+1981,NF,Franco Fasano,a_00523,Un'isola alle Hawaii,s_00725,"F. Fasano, S. De Pasquale"
+1982,6,Milk & Coffee,a_00524,Quando incontri l'amore,s_00726,"S. Subelli, I. Polizzy, C. Natili, G. Nisi"
+1982,1,Riccardo Fogli,a_00387,Storie di tutti i giorni,s_00727,"R. Fogli, G. Morra, M. Fabrizio"
+1982,2,Al Bano e Romina Power,a_00525,Felicità,s_00728,"C. Minellono, G. De Stefani, D. Farina"
+1982,3,Drupi,a_00377,Soli,s_00729,"G. Anelli, G. Belleno, V. De Scalzi"
+1982,4,Giuseppe Cionfoli,a_00526,Solo grazie,s_00730,G. Cionfoli
+1982,5,Christian,a_00527,Un'altra vita un altro amore,s_00731,M. Balducci
+1982,F,Jimmy Fontana,a_00111,Beguine,s_00732,"F. Migliacci, E. Sbriccoli, L. Greco, L. Pellegrino"
+1982,F,Lene Lovich,a_00528,Blue Hotel,s_00733,Goldsand
+1982,F,Elisabetta Viviani,a_00529,C'è,s_00734,M. Balducci
+1982,F,Mia Martini,a_00530,E non finisce mica il cielo,s_00735,I. Fossati
+1982,F,Anna Oxa,a_00452,Io no,s_00736,"O. Avogadro, M. Lavezzi"
+1982,F,Stefano Sani,a_00531,Lisa,s_00737,"J. Iozzo, Z. Fornaciari, F. Marsella"
+1982,F,Le Orme,a_00532,Marinai,s_00738,"A. Salerno, D'Amico, A. Pagliuca, A. Tagliapietra"
+1982,F,Riccardo Del Turco,a_00297,Non voglio ali,s_00739,R. Del Turco
+1982,F,Plastic Bertrand,a_00533,Ping pong,s_00740,"Depsa, G. Pirazzoli, G. Fasano"
+1982,F,Viola Valentino,a_00534,Romantici,s_00741,"G. Morra, M. Fabrizio"
+1982,F,Mal,a_00291,Sei la mia donna,s_00742,"C. Minellono, D. Sorrenti, G. Santamaria"
+1982,F,Mario Castelnuovo,a_00535,Sette fili di canapa,s_00743,M. Castelnuovo
+1982,F,Roberto Soffici,a_00536,Strano momento,s_00744,"R. Soffici, A. Lo Vecchio"
+1982,F,Bobby Solo,a_00161,Tu stai,s_00745,R. Satti
+1982,F,Zucchero Fornaciari,a_00537,Una notte che vola via,s_00746,"Z. Fornaciari, C. D'Apruzzo"
+1982,F,Vasco Rossi,a_00538,Vado al massimo,s_00747,V. Rossi
+1982,NF,Orietta Berti,a_00208,America in,s_00748,"D. Pace, M. Panzeri, C. Conti"
+1982,NF,Rino Martinez,a_00539,Biancaneve,s_00749,"P. Dossena, R. Martinez"
+1982,NF,Marina Lai,a_00540,Centomila amori miei,s_00750,"Minimum, A. Cogliati, C. Castellari"
+1982,NF,Julie,a_00541,Cuore bandito,s_00751,"E. Palumbo, D. Sebastiani"
+1982,NF,Claudio Villa,a_00030,Facciamo la pace,s_00752,"C. Villa, Roferri"
+1982,NF,Piero Cassano,a_00542,Non arrenderti mai,s_00753,"V. Pallavicini, L. Albertelli, P. Cassano"
+1982,NF,Michele Zarrillo,a_00510,Una rosa blu,s_00754,"P. Cassella, M. Zarrillo, T. Savio"
+1982,NF,Fiordaliso,a_00543,Una sporca poesia,s_00755,"G. Pirazzoli, G. Fasano, Depsa"
+1983,1,Tiziana Rivale,a_00544,Sarà quel che sarà,s_00756,"R. Ferri, M. Fabrizio"
+1983,2,Donatella Milani,a_00545,Volevo dirti,s_00757,"D. Milani, D. Pace, A. Fornaciari"
+1983,3,Dori Ghezzi,a_00333,Margherita non lo sa,s_00758,"O. Prudente, O. Avogadro"
+1983,4,Matia Bazar,a_00450,Vacanze romane,s_00759,"C. Marrale, G. Golzi"
+1983,5,Toto Cutugno,a_00480,L'italiano,s_00760,"C. Minellono, T. Cutugno"
+1983,6,Fiordaliso,a_00543,Oramai,s_00761,"C. Daiano, A. Valsiglio, Depsa"
+1983,7,Stefano Sani,a_00531,Complimenti,s_00762,"L. Albertelli, A. Fornaciari"
+1983,8,Gianni Morandi,a_00353,La mia nemica amatissima,s_00763,"Mogol, G. Bella, G. Morandi"
+1983,9,Amii Stewart,a_00546,Working Late Tonight,s_00764,"M. Capuano, G. Capuano, S. Boswell"
+1983,10,Marco Armani,a_00547,È la vita,s_00765,"M. Armani, P. Armenise"
+1983,11,Giuseppe Cionfoli,a_00526,Shalom,s_00766,G. Cionfoli
+1983,12,Giorgia Fiorio,a_00548,Avrò,s_00767,"S. Menegale, R. Ferrato, P. Soffici"
+1983,13,Flavia Fortunato,a_00549,Casco blu,s_00768,"M. Di Carlo, P. Masala, E. Palumbo, M. Ramoino"
+1983,14,Bertín Osborne,a_00550,Eterna malattia,s_00769,"E. Malepasso, L. Albertelli"
+1983,15,Riccardo Azzurri,a_00551,Amare te,s_00770,R. Azzurri
+1983,16,Sandro Giacobbe,a_00422,Primavera,s_00771,"S. Giacobbe, L. Albertelli"
+1983,17,Christian,a_00527,Abbracciami amore mio,s_00772,M. Balducci
+1983,18,Marco Ferradini,a_00461,Una catastrofe bionda,s_00773,"R. Giuliani, M. Ferradini, Cheope"
+1983,19,Richard Sanderson,a_00552,Stiamo insieme,s_00774,A. Fornaciari
+1983,20,Zucchero Fornaciari,a_00537,Nuvola,s_00775,A. Fornaciari
+1983,21,Gianni Nazzaro,a_00318,Mi sono innamorato di mia moglie,s_00776,"D. Pace, M. Russo"
+1983,22,Barbara Boncompagni,a_00553,Notte e giorno,s_00777,"D. Pace, A. Valsiglio"
+1983,23,Passengers,a_00512,Movie Star,s_00778,"C. Valli, A. Piccarreda"
+1983,24,Viola Valentino,a_00534,Arriva arriva,s_00779,"M. Fabrizio, V. Spampinato"
+1983,25,Vasco Rossi,a_00538,Vita spericolata,s_00780,"V. Rossi, T. Ferro"
+1983,26,Pupo,a_00482,Cieli azzurri,s_00781,"E. Ghinazzi, S. Saturnini"
+1983,NF,Daniela Goggi,a_00554,Dammi tanto amore,s_00782,"M. Bassi, E. Ghinazzi"
+1983,NF,Pinot,a_00555,Donna sola,s_00783,I. Michetti
+1983,NF,Brunella Borciani,a_00556,E la neve scende,s_00784,"L. Albertelli, A. Fornaciari"
+1983,NF,Patrizia Danzi,a_00557,Fammi volare,s_00785,"Cavaros, M. Violante"
+1983,NF,Gloriana,a_00435,Il mio treno,s_00786,"S. Subelli, G. Nisi, G. Natili, S. Aloisio, F. Anfuso"
+1983,NF,Nino Buonocore,a_00558,Nuovo amore,s_00787,N. Buonocore
+1983,NF,Sibilla,a_00559,Oppio,s_00788,"F. Battiato, G. Pio, S. Mostert"
+1983,NF,Alessio Colombini,a_00560,Scatole cinesi,s_00789,"A. Cogliati, A. Colombini"
+1983,NF,Manuele Pepe,a_00561,Solo con te,s_00790,M. Pepe
+1983,NF,Amedeo Minghi,a_00562,1950,s_00791,"G. Chiocchio, A. Minghi"
+1984,1,Al Bano e Romina Power,a_00525,Ci sarà,s_00792,"C. Minellono, D. Farina"
+1984,2,Toto Cutugno,a_00480,Serenata,s_00793,"S. Cutugno, V. Pallavicini"
+1984,3,Christian,a_00527,Cara,s_00794,M. Balducci
+1984,4,Pupo,a_00482,Un amore grande,s_00795,"G. Savio, G. Bigazzi, U. Tozzi"
+1984,5,Fiordaliso,a_00543,Non voglio mica la luna,s_00796,"E. Malepasso, L. Albertelli, A. Fornaciari"
+1984,6,Mario Castelnuovo,a_00535,Nina,s_00797,M. Castelnuovo
+1984,7,Anna Oxa,a_00452,Non scendo,s_00798,"O. Avogadro, M. Lavezzi"
+1984,8,Drupi,a_00377,Regalami un sorriso,s_00799,"A. Cogliati, G. Anelli, F. Fasano"
+1984,9,Iva Zanicchi,a_00195,Chi (Mi darà),s_00800,"U. Balsamo, C. Malgioglio"
+1984,10,Patty Pravo,a_00315,Per una bambola,s_00801,M. Monti
+1984,11,Gruppo Italiano,a_00563,Anni ruggenti,s_00802,"P. Di Malta, R. Riva, G. Folino, C. Santulli"
+1984,12,Bobby Solo,a_00161,Ancora ti vorrei,s_00803,"R. Satti, Susuki, M. Mologni"
+1984,13,Donatella Milani,a_00545,Libera,s_00804,"D. Milani, Filistrucchi, Putzolu"
+1984,14,Fiorella Mannoia,a_00515,Come si cambia,s_00805,"M. Piccoli, R. Pareti"
+1984,15,Marisa Sannia,a_00267,Amore amore,s_00806,"D. Pace, C. Conti"
+1984,16,Alberto Camerini,a_00564,La bottega del caffè,s_00807,A. Camerini
+1984,17,Riccardo Del Turco,a_00297,Serena alienazione,s_00808,"Mogol, R. Del Turco"
+1984,18,Garbo,a_00565,Radioclima,s_00809,R. Abate
+1984,19,Enrico Ruggeri,a_00566,Nuovo swing,s_00810,E. Ruggeri
+1984,20,Stadio,a_00567,Allo stadio,s_00811,"L. Carboni, G. Curreri"
+1985,1,Ricchi e Poveri,a_00313,Se m'innamoro,s_00812,"D. Farina, C. Minellono"
+1985,2,Luis Miguel,a_00568,"Noi, ragazzi di oggi",s_00813,"S. Cutugno, C. Minellono"
+1985,3,Gigliola Cinquetti,a_00145,Chiamalo amore,s_00814,"D. Farina, P. A. Cassella"
+1985,4,Riccardo Fogli,a_00387,Sulla buona strada,s_00815,"M. Fabrizio, V. Spampinato"
+1985,5,Christian,a_00527,Notte serena,s_00816,M. Balducci
+1985,6,Eros Ramazzotti,a_00569,Una storia importante,s_00817,"E. Ramazzotti, P. Cassano, A. Cogliati"
+1985,7,Anna Oxa,a_00452,A lei,s_00818,"R. Vecchioni, M. Paoluzzi"
+1985,8,Fiordaliso,a_00543,Il mio angelo,s_00819,"L. Albertelli, E. Malepasso"
+1985,9,Peppino Di Capri,a_00249,E mo' e mo',s_00820,"G. Faiella, S. De Pasquale, F. Fasano"
+1985,10,Matia Bazar,a_00450,Souvenir,s_00821,"A. Stellita, C. Marrale, S. Cossu"
+1985,11,Marco Armani,a_00547,Tu dimmi un cuore ce l'hai,s_00822,"M. Armenise, P. Armenise"
+1985,12,Drupi,a_00377,Fammi volare,s_00823,"S. Negroni, D. Dato, G. Anelli"
+1985,13,Franco Simone,a_00388,Ritratto,s_00824,"M. Colombo, F. Simone"
+1985,14,Eduardo De Crescenzo,a_00513,Via con me,s_00825,"C. Mattone, D. Pace"
+1985,15,Banco del Mutuo Soccorso,a_00570,Grande Joe,s_00826,"F. Di Giacomo, V. Nocenzi"
+1985,16,Dario Baldan Bembo,a_00507,Da quando non ci sei (una volta ancora),s_00827,"D. Baldan Bembo, A. Maggio"
+1985,17,Ivan Graziani,a_00571,Franca ti amo,s_00828,I. Graziani
+1985,18,Eugenio Finardi,a_00572,Vorrei svegliarti,s_00829,"E. Finardi, D. Madonia"
+1985,19,Mimmo Locasciulli,a_00573,Buona fortuna,s_00830,M. Locasciulli
+1985,20,New Trolls,a_00304,Faccia di cane,s_00831,"F. De André, R. Ferri, V. De Scalzi, G. Belleno, N. Di Palo, R. Belloni"
+1985,21,Zucchero Fornaciari & Randy Jackson Band,a_00574,Donne,s_00832,"A. Fornaciari, A. Salerno"
+1985,22,Garbo,a_00565,Cose veloci,s_00833,R. Abate
+1986,1,Eros Ramazzotti,a_00569,Adesso tu,s_00834,"E. Ramazzotti, P. Cassano, A. Cogliati"
+1986,2,Renzo Arbore,a_00575,Il clarinetto,s_00835,"C. Mattone, R. Arbore"
+1986,3,Marcella,a_00511,Senza un briciolo di testa,s_00836,"G. Bella, Mogol, G. Westley"
+1986,4,Toto Cutugno,a_00480,Azzurra malinconia,s_00837,S. Cutugno
+1986,5,Anna Oxa,a_00452,È tutto un attimo,s_00838,"A. Cogliati, F. Ciani, M. Lavezzi, U. Smaila"
+1986,6,Orietta Berti,a_00208,Futuro,s_00839,"U. Balsamo, L. Raggi"
+1986,7,Nino D'Angelo,a_00576,Vai,s_00840,"N. D'Angelo, A. Annona"
+1986,8,Fred Bongusto,a_00176,Cantare,s_00841,"S. Iodice, F. Bongusto, M. Di Francia"
+1986,9,Loredana Bertè,a_00577,Re,s_00842,"A. Mango, G. Mango"
+1986,10,Fiordaliso,a_00543,Fatti miei,s_00843,"Z. Fornaciari, E. Malepasso, L. Albertelli"
+1986,11,Marco Armani,a_00547,Uno sull'altro,s_00844,"P. Armenise, M. Armenise"
+1986,12,Sergio Endrigo,a_00211,Canzone italiana,s_00845,"C. Mattone, S. Endrigo"
+1986,13,Rettore,a_00578,Amore stella,s_00846,"G. Morra, M. Fabrizio"
+1986,14,Mango,a_00579,Lei verrà,s_00847,"G. Mango, A. Salerno"
+1986,15,Righeira,a_00580,Innamoratissimo (Tu che fai battere forte il mio cuore),s_00848,"S. Rota, S. Righi, La Bionda, S. Conforti, C. Minellono"
+1986,16,Scialpi,a_00581,"No East, No West",s_00849,"G. Scialpi, Thoty, F. Migliacci"
+1986,17,Enrico Ruggeri,a_00566,Rien ne va plus,s_00850,E. Ruggeri
+1986,18,Luca Barbarossa,a_00508,Via Margutta,s_00851,L. Barbarossa
+1986,19,Flavia Fortunato,a_00549,Verso il 2000,s_00852,"A. De Sanctis, A. Cheli, E. Palumbo"
+1986,20,Rossana Casale,a_00582,Brividi,s_00853,"G. Morra, M. Fabrizio"
+1986,21,Zucchero Fornaciari,a_00537,Canzone triste,s_00854,Z. Fornaciari
+1986,22,Stadio,a_00567,Canzoni alla radio,s_00855,"L. Carboni, G. Curreri, R. Portera"
+1987,1,"Gianni Morandi, Enrico Ruggeri e Umberto Tozzi",a_00583,Si può dare di più,s_00856,"G. Bigazzi, U. Tozzi, R. Riefoli"
+1987,2,Toto Cutugno,a_00480,Figli,s_00857,S. Cutugno
+1987,3,Al Bano e Romina Power,a_00525,Nostalgia canaglia,s_00858,"V. Pallavicini, W. Molco, A. Carrisi, R. Power, V. Mercurio"
+1987,4,Fausto Leali,a_00268,Io amo,s_00859,"S. Cutugno, F. Leali, G. Fasano, I. Ianne"
+1987,5,Peppino Di Capri,a_00249,Il sognatore,s_00860,"S. Cutugno, Depsa"
+1987,6,Marcella,a_00511,Tanti auguri,s_00861,"G. Paoli, G. Bella"
+1987,7,Ricchi e Poveri,a_00313,Canzone d'amore,s_00862,"S. Cutugno, G. Rampazzo, D. Farina"
+1987,8,Fiorella Mannoia,a_00515,Quello che le donne non dicono,s_00863,"E. Ruggeri, L. Schiavone"
+1987,9,Luca Barbarossa,a_00508,Come dentro un film,s_00864,L. Barbarossa
+1987,10,Christian,a_00527,Aria e musica,s_00865,"S. Amato, F. Morgia"
+1987,11,Lena Biolcati,a_00584,Vita mia,s_00866,"S. D'Orazio, M. Tansini"
+1987,12,Rossana Casale,a_00582,Destino,s_00867,"G. Morra, M. Fabrizio"
+1987,13,Flavia Fortunato,a_00549,Canto per te,s_00868,"E. Palumbo, A. de Sanctis, M. Banis"
+1987,14,Dori Ghezzi,a_00333,E non si finisce mai,s_00869,"A. Cogliati, P. Cassano"
+1987,15,Eduardo De Crescenzo,a_00513,L'odore del mare,s_00870,"G. Morra, E. De Crescenzo, M. Fabrizio"
+1987,16,Scialpi,a_00581,Bella età,s_00871,"F. Migliacci, G. Scialpi, R. Zaneli"
+1987,17,Le Orme,a_00532,Dimmi che cos'è,s_00872,A. Tagliapietra
+1987,18,Mango,a_00579,Dal cuore in poi,s_00873,"A. Salerno, A. Mango, G. Mango"
+1987,19,Tony Esposito,a_00585,Sinuè,s_00874,"G. Di Franco, T. Esposito, R. Licastro"
+1987,20,Patty Pravo,a_00315,Pigramente signora,s_00875,"M. Arnaboldi, F. Evangelisti"
+1987,21,Sergio Caputo,a_00586,Il Garibaldi innamorato,s_00876,S. Caputo
+1987,22,Mario Castelnuovo,a_00535,Madonna di Venere,s_00877,M. Castelnuovo
+1987,23,Nino Buonocore,a_00558,Rosanna,s_00878,N. Buonocore
+1987,24,Nada,a_00289,Bolero,s_00879,G. Manzoli
+1988,1,Massimo Ranieri,a_00271,Perdere l'amore,s_00880,"M. Marrocchi, G. Artegiani"
+1988,2,Toto Cutugno,a_00480,Emozioni,s_00881,T. Cutugno
+1988,3,Luca Barbarossa,a_00508,L'amore rubato,s_00882,L. Barbarossa
+1988,4,Marcella,a_00511,Dopo la tempesta,s_00883,"A. Salerno, G. Bella"
+1988,5,Fausto Leali,a_00268,Mi manchi,s_00884,"F. Berlincioni, G. Fasano"
+1988,6,Mino Reitano,a_00258,Italia,s_00885,U. Balsamo
+1988,7,Anna Oxa,a_00452,Quando nasce un amore,s_00886,"A. Cogliati, F. Ciani, P. Cassano"
+1988,8,Fiordaliso con Claudio Cabrini,a_00587,Per noi,s_00887,T. Cutugno
+1988,9,Ricchi e Poveri,a_00313,Nascerà Gesù,s_00888,U. Balsamo
+1988,10,Fiorella Mannoia,a_00515,Le notti di maggio,s_00889,I. Fossati
+1988,11,Raf,a_00588,Inevitabile follia,s_00890,"G. Bigazzi, R. Riefoli"
+1988,12,Francesco Nuti,a_00589,Sarà per te,s_00891,R. Mariotti
+1988,13,Franco Califano,a_00590,Io (Per le strade di quartiere),s_00892,"F. Califano, T. Cutugno"
+1988,14,Figli di Bubba,a_00591,Nella valle dei Timbales,s_00893,M. Pagani
+1988,15,Michele Zarrillo,a_00510,Come un giorno di sole,s_00894,"G. Artegiani, M. Zarrillo, L. Lopez"
+1988,16,Loredana Bertè,a_00577,Io,s_00895,T. Cicco
+1988,17,Peppino di Capri,a_00249,Nun chiagnere,s_00896,"L. Raggi, Depsa, G. Fasano"
+1988,18,Tullio De Piscopo,a_00592,Andamento lento,s_00897,"T. De Piscopo, M. Capuano, G. Capuano"
+1988,19,Matia Bazar,a_00450,La prima stella della sera,s_00898,"A. Stellita, S. Cossu, C. Marrale"
+1988,20,Drupi,a_00377,Era bella davvero,s_00899,"O. Avogadro, P. Cassella, D. Farina"
+1988,21,Ron,a_00593,Il mondo avrà una grande anima,s_00900,R. Cellamare
+1988,22,Flavia Fortunato,a_00549,Una bella canzone,s_00901,"O. Avogadro, M. Lavezzi"
+1988,23,New Trolls,a_00304,Cielo chiaro,s_00902,"V. De Scalzi, N. Di Palo, G. Belleno"
+1988,24,Denovo,a_00594,Ma che idea,s_00903,L. Madonia
+1988,25,Nino Buonocore,a_00558,Le tue chiavi non ho,s_00904,"A. Salerno, N. Buonocore"
+1988,26,Alan Sorrenti,a_00595,Come per miracolo,s_00905,"A. Sorrenti, G. Cavalli"
+1989,5,Jovanotti,a_00596,Vasco,s_00906,"C. Cecchetto, L. Cherubini, L. Cersosimo"
+1989,6,Fiordaliso con Claudio Cabrini,a_00587,Se non avessi te,s_00907,T. Cutugno
+1989,7,Francesco Salvi,a_00597,Esatto!,s_00908,"F. Salvi, S. Melloni, M. Natale"
+1989,8,Ricchi e Poveri,a_00313,Chi voglio sei tu,s_00909,"P. Cassano, A. Cogliati"
+1989,9,Mia Martini,a_00530,Almeno tu nell'universo,s_00910,"B. Lauzi, M. Fabrizio"
+1989,10,Ornella Vanoni,a_00173,Io come farò,s_00911,"M. Pagani, G. Paoli, S. Bardotti"
+1989,11,Peppino di Capri,a_00249,Il mio pianoforte,s_00912,"R. Fiorillo, M. Di Francia, G. Faiella"
+1989,12,Marisa Laurito,a_00598,Il babà è una cosa seria,s_00913,"S. Palomba, E. Alfieri"
+1989,13,Gino Paoli,a_00104,Questa volta no,s_00914,"P. Penzo, G. Paoli"
+1989,14,Renato Carosone,a_00599,Na canzuncella doce doce,s_00915,C. Mattone
+1989,15,Raf,a_00588,Cosa resterà degli anni '80,s_00916,"G. Bigazzi, G. Dati, R. Riefoli"
+1989,16,Dori Ghezzi,a_00333,Il cuore delle donne,s_00917,"M. Paoluzzi, O. Avogadro, R. Ferri"
+1989,17,Enzo Jannacci,a_00600,Se me lo dicevi prima,s_00918,"E. Jannacci, M. Bassi"
+1989,18,Gigliola Cinquetti,a_00145,Ciao,s_00919,"Gepy & Gepy, M. Governi, R. Russo"
+1989,19,Rossana Casale,a_00582,A che servono gli dei,s_00920,"M. Fabrizio, G. Morra"
+1989,20,Tullio De Piscopo,a_00592,E allora e allora,s_00921,"M. Capuano, G. Capuano, T. De Piscopo"
+1989,21,Eduardo De Crescenzo,a_00513,Come mi vuoi,s_00922,"M. G. Nava, E. De Crescenzo"
+1989,22,Fred Bongusto,a_00176,Scusa,s_00923,"F. Bongusto, E. Campassi, S. Iodice"
+1989,23,Gigi Sabani,a_00601,La fine del mondo,s_00924,"T. Cutugno, G. Fasano, Depsa"
+1989,24,Sergio Caputo,a_00586,Rifarsi una vita,s_00925,S. Caputo
+1989,1,Anna Oxa e Fausto Leali,a_00602,Ti lascerò,s_00926,"G. Fasano, F. Leali, F. Ciani, F. Berlincioni, S. Bardotti"
+1989,2,Toto Cutugno,a_00480,Le mamme,s_00927,"T. Cutugno, S. Borgia"
+1989,3,Al Bano e Romina Power,a_00525,Cara terra mia,s_00928,"A. Carrisi, R. Power, V. Pallavicini"
+1989,4,Riccardo Fogli,a_00387,Non finisce così,s_00929,"Laurex, M. Patrignani, C. Cofani, F. Evangelisti"
+1990,4,Anna Oxa,a_00452,Donna con te,s_00930,"D. Amerio, L. Boero"
+1990,5,Marcella e Gianni Bella,a_00603,Verso l'ignoto,s_00931,"D. Di Gregorio, G. Bella, R. Di Bella"
+1990,6,Mia Martini,a_00530,La nevicata del '56,s_00932,"C. Vistarini, F. Califano, M. Cantini, L. Lopez"
+1990,7,Mango,a_00579,Tu... sì,s_00933,"A. Mango, G. Mango"
+1990,8,Francesco Salvi,a_00597,A,s_00934,"F. Salvi, M. Natale, R. Turatti, S. Melloni"
+1990,9,Caterina Caselli,a_00206,Bisognerebbe non pensare che a te,s_00935,"G. Morra, M. Fabrizio"
+1990,10,Riccardo Fogli,a_00387,Ma quale amore,s_00936,"A. De Angelis, B. Incarnato, L. Lopez"
+1990,11,Sandro Giacobbe,a_00422,Io vorrei,s_00937,"S. Cutugno, S. Giacobbe"
+1990,12,Paola Turci,a_00604,Ringrazio Dio,s_00938,"A. Rizzo, Rambow, R. Silvestro"
+1990,13,Milva,a_00099,Sono felice,s_00939,"R. Cellamare, B. Antonacci"
+1990,14,Grazia Di Michele,a_00605,Io e mio padre,s_00940,G. Di Michele
+1990,15,Peppino di Capri,a_00249,Evviva Maria,s_00941,"G. Faiella, S. De Pasquale"
+1990,16,Eugenio Bennato e Tony Esposito,a_00606,Novecento Aufwiedersehen,s_00942,"E. Bennato, A. Esposito, C. D'Angiò"
+1990,17,Ricchi e Poveri,a_00313,Buona giornata,s_00943,"S. De Pasquale, M. Paoluzzi, V. Cosma"
+1990,18,Lena Biolcati,a_00584,Amori,s_00944,"L. Biolcati, Robymiro"
+1990,19,Mino Reitano,a_00258,Vorrei,s_00945,"C. Malgioglio, P. Vernola, F. Reitano, B. Reitano"
+1990,20,Christian,a_00527,Amore,s_00946,"F. Berlincioni, G. Rossi, S. Amato, F. Morgia"
+1990,1,Pooh,a_00607,Uomini soli,s_00947,"V. Negrini, C. Facchinetti"
+1990,2,Toto Cutugno,a_00480,Gli amori,s_00948,"F. Berlincioni, S. Cutugno, S. De Pasquale"
+1990,3,Amedeo Minghi e Mietta,a_00608,Vattene amore,s_00949,A. Minghi
+1991,1,Riccardo Cocciante,a_00609,Se stiamo insieme,s_00950,"R. Cocciante, Mogol"
+1991,2,Renato Zero,a_00610,Spalle al muro,s_00951,M. Nava
+1991,3,Marco Masini,a_00611,Perché lo fai,s_00952,"G. Bigazzi, M. Manzani, M. Masini"
+1991,4,Umberto Tozzi,a_00612,Gli altri siamo noi,s_00953,"U. Tozzi, G. Bigazzi"
+1991,5,Pierangelo Bertoli e Tazenda,a_00613,Spunta la Luna dal monte,s_00954,"L. Marielli, P. Bertoli"
+1991,6,Amedeo Minghi,a_00562,Nené,s_00955,A. Minghi
+1991,7,Mietta,a_00614,Dubbi no,s_00956,A. Minghi
+1991,8,Al Bano e Romina Power,a_00525,Oggi sposi,s_00957,"Depsa, G. Andreetto"
+1991,9,Riccardo Fogli,a_00387,Io ti prego di ascoltare,s_00958,"G. Morra, M. Fabrizio"
+1991,10,Raf,a_00588,Oggi un Dio non ho,s_00959,"R. Riefoli, G. Dati"
+1991,11,Enzo Jannacci,a_00600,La fotografia,s_00960,V. Jannacci
+1991,12,Fiordaliso,a_00543,Il mare più grande che c'è (I Love You Man),s_00961,"F. Ciani, F. Zanotti"
+1991,13,Jo Squillo e Sabrina Salerno,a_00615,Siamo donne,s_00962,G. Coletti
+1991,14,Ladri di Biciclette,a_00616,Sbatti ben su del Be Bop,s_00963,"P. Belli, E. Prandi"
+1991,15,Eduardo De Crescenzo,a_00513,E la musica va,s_00964,"E. De Crescenzo, F. Del Prete"
+1991,16,Grazia Di Michele,a_00605,Se io fossi un uomo,s_00965,"J. Di Michele, G. Di Michele, P. Nocera"
+1991,17,Rossana Casale,a_00582,Terra,s_00966,"G. Morra, M. Fabrizio"
+1991,18,Loredana Bertè,a_00577,In questa città,s_00967,P. Daniele
+1991,19,Gianni Bella,a_00518,La fila degli oleandri,s_00968,"G. Bella, Mogol"
+1991,20,Mariella Nava,a_00617,Gli uomini,s_00969,M. Nava
+1992,1,Luca Barbarossa,a_00508,Portami a ballare,s_00970,L. Barbarossa
+1992,2,Mia Martini,a_00530,Gli uomini non cambiano,s_00971,"G. Dati, M. Falagiani, G. Bigazzi"
+1992,3,Paolo Vallesi,a_00618,La forza della vita,s_00972,"G. Dati, P. Vallesi"
+1992,4,Pierangelo Bertoli,a_00619,Italia d'oro,s_00973,"P. Bertoli, M. Negri"
+1992,5,Massimo Ranieri,a_00271,Ti penso,s_00974,"F. Berlincioni, S. Amato"
+1992,6,Matia Bazar,a_00450,Piccoli giganti,s_00975,"A. Stellita, S. Cossu, C. Marrale, L. Valente"
+1992,7,Franco Fasano e Flavia Fortunato,a_00620,Per niente al mondo,s_00976,"G. Fasano, F. Berlincioni"
+1992,8,Tazenda,a_00621,Pitzinnos in sa gherra,s_00977,"L. Marielli, F. De André"
+1992,9,Fausto Leali,a_00268,Perché,s_00978,"A. Civai, G. Bigazzi"
+1992,10,Riccardo Fogli,a_00387,In una notte così,s_00979,"G. Morra, M. Fabrizio"
+1992,11,Michele Zarrillo,a_00510,Strade di Roma,s_00980,"V. Incenzo, M. Zarrillo, A. Venditti"
+1992,12,Mariella Nava,a_00617,Mendicante,s_00981,M. G. Nava
+1992,13,Drupi,a_00377,Un uomo in più,s_00982,"Depsa, G. Fasano"
+1992,14,Peppino di Capri e Pietra Montecorvino,a_00622,Favola blues,s_00983,"F. Berlincioni, M. Di Francia, G. Faiella"
+1992,15,New Trolls,a_00304,Quelli come noi,s_00984,"D. Gori, N. Di Palo, G. Belleno, V. De Scalzi, F. Berlincioni"
+1992,NF,Ricchi e Poveri,a_00313,Così lontani,s_00985,S. Cutugno
+1992,NF,Scialpi,a_00581,È una nanna,s_00986,G. Scialpi
+1992,NF,Lina Sastri,a_00623,Femmene 'e mare,s_00987,"R. Giglio, R. Fiorillo"
+1992,NF,Paolo Mengoli,a_00323,Io ti darò,s_00988,"G. Alberghini, P. Mengoli, G. Trombetti"
+1992,NF,Pupo,a_00482,La mia preghiera,s_00989,E. Ghinazzi
+1992,NF,Mino Reitano,a_00258,Ma ti sei chiesto mai,s_00990,"F. Reitano, B. Reitano, P. Vernola, G. Andreetto"
+1992,NF,Nuova Compagnia di Canto Popolare,a_00624,Pe' dispietto,s_00991,"C. Sfogli, P. Raffone, C. Faiello"
+1992,NF,Giorgio Faletti e Orietta Berti,a_00625,Rumba di tango,s_00992,G. Faletti
+1992,NF,Formula 3,a_00340,Un frammento rosa,s_00993,"M. Luca, L. Bevini"
+1993,1,Enrico Ruggeri,a_00566,Mistero,s_00994,E. Ruggeri
+1993,2,Cristiano De Andrè,a_00626,Dietro la porta,s_00995,"D. Fossati, C. De Andrè"
+1993,3,Rossana Casale e Grazia Di Michele,a_00627,Gli amori diversi,s_00996,"R. Casale, G. Restelli, G. Di Michele"
+1993,4,Matia Bazar,a_00450,Dedicato a te,s_00997,"L. Valente, M. Bassi, S. Cossu, A. Stellita, C. Marrale"
+1993,5,Renato Zero,a_00610,Ave Maria,s_00998,"R. Fiacchini, R. Serio"
+1993,6,Mietta e Ragazzi di Via Meda,a_00628,Figli di chi,s_00999,"D. Miglietta, A. De Sanctis, G. Isgrò, F. Neviani"
+1993,7,Paola Turci,a_00604,Stato di calma apparente,s_01000,"P. Turci, G. Chiocchio"
+1993,8,Biagio Antonacci,a_00629,Non so più a chi credere,s_01001,B. Antonacci
+1993,9,Amedeo Minghi,a_00562,"Notte bella, magnifica",s_01002,A. Minghi
+1993,10,Francesca Alotta,a_00630,Un anno di noi,s_01003,"G. Bigazzi, M. Falagiani, G. Dati"
+1993,11,Andrea Mingardi,a_00631,Sogno,s_01004,A. Mingardi
+1993,12,Roberto Murolo,a_00632,L'Italia è bella,s_01005,C. Faiello
+1993,13,Tullio De Piscopo,a_00592,Qui gatta ci cova,s_01006,"M. Capuano, G. Capuano, T. De Piscopo"
+1993,14,Loredana Bertè e Mia Martini,a_00633,Stiamo come stiamo,s_01007,"M. Piccoli, L. Bertè"
+1993,15,Nino Buonocore,a_00558,Una canzone d'amore,s_01008,"M. De Vitis, N. Buonocore"
+1993,NF,Jo Squillo,a_00634,Balla italiano,s_01009,G. Coletti
+1993,NF,Ladri di Biciclette e Tony Esposito,a_00635,Cambiamo musica,s_01010,"A. Esposito, E. Prandi, G. Verdelli, G. Di Franco"
+1993,NF,"Maurizio Vandelli, Dik Dik e Camaleonti",a_00636,Come passa il tempo,s_01011,"G. Bigazzi, R. Del Turco, G. Dati"
+1993,NF,Francesco Salvi,a_00597,Dammi 1 bacio,s_01012,"F. Salvi, M. Natale, R. Turatti"
+1993,NF,Peppino Gagliardi,a_00205,L'alba,s_01013,"S. Cirillo, P. Gagliardi"
+1993,NF,Peppino di Capri,a_00249,La voce delle stelle,s_01014,"G. Faiella, M. Di Francia, F. Berlincioni"
+1993,NF,Schola Cantorum,a_00456,Sulla strada del mare,s_01015,"A. De Sanctis, A. Cheli"
+1993,NF,Alessandro Canino,a_00637,Tu tu tu tu,s_01016,"G. Bigazzi, P. Hollesch, A. Baldinotti, G. Dati"
+1993,NF,Milva,a_00099,Uomini addosso,s_01017,"C. F. Facchinetti, V. Negrini"
+1994,1,Aleandro Baldi,a_00638,Passerà,s_01018,"A. Civai, G. Bigazzi, M. Falagiani"
+1994,2,Giorgio Faletti,a_00639,Signor tenente,s_01019,G. Faletti
+1994,3,Laura Pausini,a_00640,Strani amori,s_01020,"A. Valsiglio, R. Buti, Cheope, M. Marati, F. Tanini"
+1994,4,Gerardina Trovato,a_00641,Non è un film,s_01021,"A. Anastasio, C. Valli, G. Trovato"
+1994,5,Michele Zarrillo,a_00510,Cinque giorni,s_01022,"V. Incenzo, M. Zarrillo"
+1994,6,Enzo Jannacci e Paolo Rossi,a_00642,I soliti accordi,s_01023,"E. Jannacci, P. Rossi, P. Jannacci"
+1994,7,Ivan Graziani,a_00571,Maledette malelingue,s_01024,I. Graziani
+1994,8,Andrea Mingardi,a_00631,Amare amare,s_01025,"A. Mingardi, M. Tirelli"
+1994,9,Marco Armani,a_00547,Esser duri,s_01026,"M. Armenise, L. Carboni"
+1994,10,Donatella Rettore,a_00386,Di notte specialmente,s_01027,"Cheope, D. Rettore, C. Rego"
+1994,11,Mariella Nava,a_00617,Terra mia,s_01028,M. G. Nava
+1994,12,Formula 3,a_00340,La casa dell'imperatore,s_01029,"T. Cicco, M. Castelnuovo"
+1994,13,Loredana Bertè,a_00577,Amici non ne ho,s_01030,"L. Bertè, P. Leon"
+1994,14,Alessandro Canino,a_00637,Crescerai,s_01031,"B. Zucchetti, G. Dati, S. Busà"
+1994,15,Francesco Salvi,a_00597,Statento,s_01032,"F. Salvi, V. Cosma"
+1994,16,Alessandro Bono,a_00643,Oppure no,s_01033,A. Pizzamiglio
+1994,17,Claudia Mori,a_00312,Se mi ami...,s_01034,T. Cutugno
+1994,18,Carlo Marrale,a_00644,L'ascensore,s_01035,"C. Marrale, P. Rodenbucher, Cheope"
+1994,19,Squadra Italia,a_00645,Una vecchia canzone italiana,s_01036,"S. Jurgens, M. Marrocchi"
+1994,20,Franco Califano,a_00590,Napoli,s_01037,"F. Califano, A. Laurenti, A. Gaudino"
+1995,1,Giorgia,a_00646,Come saprei,s_01038,"G. Todrani, E. Ramazzotti, V. Tosetto, A. Cogliati"
+1995,2,Gianni Morandi e Barbara Cola,a_00647,In amore,s_01039,"Duchesca, B. Zambrini"
+1995,3,Ivana Spagna,a_00648,Gente come noi,s_01040,"I. Spagna, G. Spagna, F. Zanotti, A. Valsiglio, M. Marati"
+1995,4,Andrea Bocelli,a_00649,Con te partirò,s_01041,"L. Quarantotto, F. Sartori"
+1995,5,Fiorello,a_00650,Finalmente tu,s_01042,"M. Pezzali, M. Repetto"
+1995,6,Danilo Amerio,a_00651,Bisogno d'amore,s_01043,D. Amerio
+1995,7,Lighea,a_00652,Rivoglio la mia vita,s_01044,"M. Pecora, Zenonazza, T. Montelpare"
+1995,8,883,a_00653,Senza averti qui,s_01045,"M. Pezzali, P. P. Peroni, M. Guarnerio"
+1995,9,Antonella Arancio,a_00654,Più di così,s_01046,"F. Carraresi, F. Migliacci, L. Bechelli, M. Goldsand"
+1995,10,Lorella Cuccarini,a_00655,Un altro amore no,s_01047,"V. Incenzo, D. Pinelli, S. Testi"
+1995,11,Mango,a_00579,Dove vai...,s_01048,"A. Mango, S. Grandi, G. Mango"
+1995,12,Giorgio Faletti,a_00639,L'assurdo mestiere,s_01049,G. Faletti
+1995,13,Trio Melody,a_00656,Ma che ne sai... (...se non hai fatto il piano-bar),s_01050,C. Mattone
+1995,14,Gigliola Cinquetti,a_00145,Giovane vecchio cuore,s_01051,G. Faletti
+1995,15,Massimo Ranieri,a_00271,La vestaglia,s_01052,"M. Marrocchi, G. Artegiani"
+1995,16,Drupi,a_00377,Voglio una donna,s_01053,"T. Cutugno, C. Farina, A. Sanarico"
+1995,17,Toto Cutugno,a_00480,Voglio andare a vivere in campagna,s_01054,T. Cutugno
+1995,18,Sabina Guzzanti e La Riserva Indiana,a_00657,Troppo sole,s_01055,D. Riondino
+1995,19,Loredana Bertè,a_00577,ANGELI & angeli,s_01056,"L. Bertè, P. Leon"
+1995,20,Patty Pravo,a_00315,I giorni dell'armonia,s_01057,"M. Monti, G. Ullu"
+1995,NF,Francesca Schiavo,a_00658,Amore e guerra,s_01058,"S. Cammariere, R. Kunstler"
+1995,NF,Valeria Visconti,a_00659,È con te,s_01059,C. Marrale
+1995,NF,Giò Di Tonno,a_00660,Padre e padrone,s_01060,"G. Di Tonno, A. Di Zio"
+1996,1,Ron e Tosca,a_00661,Vorrei incontrarti fra cent'anni,s_01061,R. Cellamare
+1996,2,Elio e le Storie Tese,a_00662,La terra dei cachi,s_01062,"D. Civaschi, S. Belisari, S. Conforti, N. Fasani"
+1996,3,Giorgia,a_00646,Strano il mio destino,s_01063,"G. Todrani, M. Fabrizio"
+1996,4,Ivana Spagna,a_00648,E io penso a te,s_01064,"I. Spagna, G. Spagna"
+1996,5,Neri per Caso,a_00663,Mai più sola,s_01065,C. Mattone
+1996,6,Massimo Di Cataldo,a_00664,Se adesso te ne vai,s_01066,"M. Di Cataldo, B. Laurenti"
+1996,7,Al Bano,a_00273,È la mia vita,s_01067,"P. Marino, M. Fabrizio"
+1996,8,Aleandro Baldi e Marco Guerzoni,a_00665,Soli al bar,s_01068,"F. Palmieri, G. Bigazzi, A. Civai"
+1996,9,Amedeo Minghi,a_00562,Cantare è d'amore,s_01069,"A. Minghi, P. Panella"
+1996,10,Paola Turci,a_00604,Volo così,s_01070,"P. Turci, R. Casini"
+1996,11,Michele Zarrillo,a_00510,L'elefante e la farfalla,s_01071,"V. Incenzo, M. Zarrillo"
+1996,12,Luca Barbarossa,a_00508,Il ragazzo con la chitarra,s_01072,L. Barbarossa
+1996,13,Federico Salvatore,a_00666,Sulla porta,s_01073,"F. Salvatore, G. Bigazzi, G. Dati"
+1996,14,Rossella Marcone,a_00667,Una vita migliore,s_01074,"P. Cremonesi, F. Cavalli, A. Valsiglio"
+1996,15,Enrico Ruggeri,a_00566,L'amore è un attimo,s_01075,"L. Schiavone, E. Ruggeri"
+1996,16,Raffaella Cavalli,a_00668,Sarò,s_01076,"Depsa, F. Zanotti, A. Valsiglio"
+1996,17,Gigi Finizio,a_00669,Solo lei,s_01077,"L. Finizio, A. Annona"
+1996,18,Paolo Vallesi,a_00618,Non andare via,s_01078,"G. Dati, P. Vallesi"
+1996,19,Riccardo Fogli,a_00387,Romanzo,s_01079,"G. Morra, M. Fabrizio"
+1996,20,Umberto Bindi e New Trolls,a_00670,Letti,s_01080,"U. Bindi, R. Fiacchini"
+1996,NF,Dhamm,a_00671,Ama,s_01081,"D. Benedetti, A. Ventura, M. Munzi, M. Conti"
+1996,NF,Mara,a_00672,Non è amore,s_01082,"D. Poggiolini, F. Puccioni"
+1996,NF,Fedele Boccassini,a_00673,Non scherzare dai,s_01083,"L. Angelosanti, F. Zanotti, M. Remigi, F. Boccassini, F. Morettini"
+1997,1,Jalisse,a_00674,Fiumi di parole,s_01084,"C. Di Domenico, A. Drusian, F. Ricci"
+1997,2,Anna Oxa,a_00452,Storie,s_01085,"Depsa, M. Marati, S. Monetti, A. Valsiglio, F. Zanotti"
+1997,3,Syria,a_00675,Sei tu,s_01086,"C. Mattone, A. Salerno"
+1997,4,Silvia Salemi,a_00676,A casa di Luca,s_01087,G. Artegiani
+1997,5,Fausto Leali,a_00268,Non ami che te,s_01088,R. Pacco
+1997,6,O.R.O.,a_00677,Padre Nostro,s_01089,"E. Ruggeri, M. Manzani"
+1997,7,Nek,a_00678,Laura non c'è,s_01090,"A. De Sanctis, F. Neviani, M. Varini"
+1997,8,Patty Pravo,a_00315,...e dimmi che non vuoi morire,s_01091,"V. Rossi, G. Curreri, R. Ferri"
+1997,9,Massimo Ranieri,a_00271,Ti parlerò d'amore,s_01092,"G. Togni, G. Morra"
+1997,10,Tosca,a_00679,Nel respiro più grande,s_01093,"S. Tamaro, R. Cellamare"
+1997,11,Francesco Baccini,a_00680,Senza tù,s_01094,"G. Conte, F. Baccini"
+1997,12,Dirotta su Cuba,a_00681,È andata così,s_01095,"Cheope, S. De Donato, P. D'Emilio, R. Gentili, S. Bencini, A. Ravasini"
+1997,13,Marina Rei,a_00682,Dentro me,s_01096,"M. Rei, F. Minoia"
+1997,14,Al Bano,a_00273,Verso il sole,s_01097,"V. Cidda, A. Carrisi"
+1997,15,Cattivi Pensieri,a_00683,Quello che sento,s_01098,"C. Farolfi, D. De Marinis, D. Bosio, N. Fragile"
+1997,16,Pitura Freska,a_00684,Papa nero,s_01099,"M. F. Forieri, S. O. Skardy, V. Silvestri, C. Verardo, F. Duse"
+1997,17,Toto Cutugno,a_00480,Faccia pulita,s_01100,S. Cutugno
+1997,18,Ragazzi Italiani,a_00685,Vero amore,s_01101,"A. Galbiati, C. Palmas, M. G. Fontana"
+1997,19,New Trolls e Greta,a_00686,Alianti liberi,s_01102,"E. Palumbo, M. Cattapani, V. De Scalzi, N. Di Palo, S. Labate"
+1997,20,Loredana Bertè,a_00577,Luna,s_01103,"L. Bertè, M. Piccoli"
+1997,NF,Alessandro Mara,a_00687,Attimi,s_01104,A. Maraniello
+1997,NF,Camilla,a_00688,Come ti tradirei,s_01105,"F. Casalino, M. Violante"
+1997,NF,Carmen Consoli,a_00689,Confusa e felice,s_01106,C. Consoli
+1997,NF,Alessandro Errico,a_00690,E penserò al tuo viso...,s_01107,"A. Errico, A. Campisano, R. Gori"
+1997,NF,Leandro Barsotti,a_00691,Fragolina,s_01108,L. Barsotti
+1997,NF,Maurizio Lauzi,a_00692,Il capo dei giocattoli,s_01109,M. Lauzi
+1997,NF,Olivia,a_00693,Quando viene sera,s_01110,"S. Borzi, A. Zelli"
+1997,NF,Adriana Ruocco,a_00694,Uguali uguali,s_01111,"F. Migliacci, E. Migliacci, R. Zappalorto"
+1997,NF,Petra Magoni,a_00695,Voglio un dio,s_01112,R. Banchelli
+1998,1,Annalisa Minetti,a_00696,Senza te o con te,s_01113,"M. Luca, P. Palma"
+1998,2,Antonella Ruggiero,a_00697,Amore lontanissimo,s_01114,"A. Ruggiero, R. Colombo"
+1998,3,Lisa,a_00698,Sempre,s_01115,"G. Morra, M. Fabrizio"
+1998,4,Paola Turci,a_00604,Solo come me,s_01116,"R. Casini, P. Turci"
+1998,5,Silvia Salemi,a_00676,Pathos,s_01117,"S. Salemi, G. Artegiani"
+1998,6,Mango e Zenîma,a_00699,Luce,s_01118,"A. Salerno, G. Mango, A. Mango"
+1998,7,Luca Sepe,a_00700,Un po' di te,s_01119,"L. Sepe, M. Schembri, F. Leali, E. Malepasso"
+1998,8,Niccolò Fabi,a_00701,Lasciarsi un giorno a Roma,s_01120,"N. Fabi, R. Sinigallia, C. Dazzi, D. Sinigallia"
+1998,9,Ron,a_00593,Un porto nel vento,s_01121,"G. Zagni, Ron, F. Coppini"
+1998,10,Andrea Mingardi,a_00631,Canto per te,s_01122,"A. Mingardi, M. Tirelli"
+1998,11,Alex Baroni,a_00702,Sei tu o lei (Quello che voglio),s_01123,"A. Baroni, P. Calabrese, M. Calabrese, M. D'Angelo, M. Rinalduzzi"
+1998,12,Ivana Spagna,a_00648,E che mai sarà,s_01124,"I. Spagna, G. Spagna"
+1998,13,Piccola Orchestra Avion Travel,a_00703,Dormi e sogna,s_01125,"G. Servillo, D. Ciaramella, M. Tronco, G. D'Argenzio, F. Mesolella, F. Spinetti"
+1998,14,Sergio Caputo,a_00586,Flamingo,s_01126,S. Caputo
+1998,15,Nuova Compagnia di Canto Popolare,a_00624,Sotto il velo del cielo,s_01127,"C. Sfogli, C. Faiello"
+1998,16,Paola & Chiara,a_00704,Per te,s_01128,"P. Iezzi, C. Iezzi"
+1998,17,Enzo Jannacci,a_00600,Quando un musicista ride,s_01129,E. Jannacci
+1999,1,Anna Oxa,a_00452,Senza pietà,s_01130,"C. Guidetti, A. Salerno"
+1999,2,Antonella Ruggiero,a_00697,Non ti dimentico (Se non ci fossero le nuvole),s_01131,"R. Colombo, A. Ruggiero, Kaballà"
+1999,3,Mariella Nava,a_00617,Così è la vita,s_01132,M. Nava
+1999,4,Enzo Gragnaniello con Ornella Vanoni,a_00705,Alberi,s_01133,E. Gragnaniello
+1999,5,Stadio,a_00567,Lo zaino,s_01134,"V. Rossi, G. Curreri"
+1999,6,Al Bano,a_00273,Ancora in volo,s_01135,"P. Marcucci, A. Carrisi, M. Bizzarri"
+1999,7,Marina Rei,a_00682,Un inverno da baciare,s_01136,"M. Rei, D. Pinelli"
+1999,8,Nino D'Angelo,a_00576,Senza giacca e cravatta,s_01137,"N. D'Angelo, C. Tortora"
+1999,9,Daniele Silvestri,a_00706,Aria,s_01138,D. Silvestri
+1999,10,Nada,a_00289,Guardami negli occhi,s_01139,N. Malanima
+1999,11,Eugenio Finardi,a_00572,Amami Lara,s_01140,"E. Finardi, F. Consoli, E. Bechis"
+1999,12,Gatto Panceri,a_00707,Dove dov'è,s_01141,G. Panceri
+1999,13,Gianluca Grignani,a_00708,Il giorno perfetto,s_01142,G. Grignani
+1999,14,Massimo Di Cataldo,a_00664,Come sei bella,s_01143,M. Di Cataldo
+2000,1,Piccola Orchestra Avion Travel,a_00703,Sentimento,s_01144,"D. Ciaramella, G. D'Argenzio, F. Mesolella, F. Spinetti, M. Tronco, G. Servillo"
+2000,2,Irene Grandi,a_00709,La tua ragazza sempre,s_01145,"V. Rossi, G. Curreri"
+2000,3,Gianni Morandi,a_00353,Innamorato,s_01146,"E. Ramazzotti, C. Guidetti, A. Cogliati"
+2000,4,Max Gazzè,a_00710,Il timido ubriaco,s_01147,"M. Gazzè, F. Gazzè"
+2000,5,Samuele Bersani,a_00711,Replay,s_01148,"S. Bersani, G. D'Onghia"
+2000,6,Gerardina Trovato,a_00641,Gechi e vampiri,s_01149,"G. Trovato, T. Sinatra"
+2000,7,Carmen Consoli,a_00689,In bianco e nero,s_01150,C. Consoli
+2000,8,Matia Bazar,a_00450,Brivido caldo,s_01151,"G. Golzi, P. Cassano"
+2000,9,Alice,a_00505,Il giorno dell'indipendenza,s_01152,J. Camisasca
+2000,10,Gigi D'Alessio,a_00712,Non dirgli mai,s_01153,"V. D'Agostino, L. D'Alessio"
+2000,11,Subsonica,a_00713,Tutti i miei sbagli,s_01154,"M. Casacci, D. Dileo, S. U. Romano"
+2000,12,Ivana Spagna,a_00648,Con il tuo nome,s_01155,"I. Spagna, C. Tarantola, G. Spagna"
+2000,13,Mietta,a_00614,Fare l'amore,s_01156,"P. Panella, G. Mango, A. Mango"
+2000,14,Mariella Nava e Amedeo Minghi,a_00714,Futuro come te,s_01157,"M. G. Nava, A. Minghi"
+2000,15,Marco Masini,a_00611,Raccontami di te,s_01158,"M. Masini, G. Dati"
+2000,16,Umberto Tozzi,a_00612,Un'altra vita,s_01159,U. Tozzi
+2001,1,Elisa,a_00715,Luce (tramonti a nord est),s_01160,"E. Toffoli, A. Fornaciari"
+2001,2,Giorgia,a_00646,Di sole e d'azzurro,s_01161,"A. Fornaciari, M. Saggese, M. Vergnaghi"
+2001,3,Matia Bazar,a_00450,Questa nostra grande storia d'amore,s_01162,"G. Golzi, P. Cassano"
+2001,4,Michele Zarrillo,a_00510,L'acrobata,s_01163,"V. Incenzo, M. Zarrillo"
+2001,5,Paola Turci,a_00604,Saluto l'inverno,s_01164,"P. Turci, C. Consoli"
+2001,6,Jenny B,a_00716,Anche tu,s_01165,"G. Golzi, P. Cassano"
+2001,7,Alex Britti,a_00717,Sono contento,s_01166,A. Britti
+2001,8,Gigi D'Alessio,a_00712,Tu che ne sai,s_01167,"V. D'Agostino, L. D'Alessio"
+2001,9,Fabio Concato,a_00718,Ciao Ninìn,s_01168,F. Concato
+2001,10,Anna Oxa,a_00452,L'eterno movimento,s_01169,"G. Fulcheri, Laurex"
+2001,11,Peppino di Capri,a_00249,Pioverà (Habibi ené),s_01170,"F. Del Prete, Dicapri, M. Vitale"
+2001,12,Gianni Bella,a_00518,Il profumo del mare,s_01171,"G. Bella, Mogol"
+2001,13,Syria,a_00675,Fantasticamenteamore,s_01172,"B. Antonacci, S. Lanza"
+2001,14,Sottotono,a_00719,Mezze verità,s_01173,"M. Cellamaro, M. Dagani"
+2001,15,Quintorigo,a_00720,Bentivoglio Angelina (Kon tutto il mio amaro),s_01174,"M. De Leonardis, V. Bianchi, A. Costa, G. Costa, S. Ricci, M. Montanari, G. Facchini"
+2001,16,Bluvertigo,a_00721,L'assenzio (The Power of Nothing),s_01175,"M. Castoldi, L. Urbani"
+2002,1,Matia Bazar,a_00450,Messaggio d'amore,s_01176,"G. Golzi, P. Cassano"
+2002,2,Alexia,a_00722,Dimmi come...,s_01177,"A. Aquilani, M. Marcolini"
+2002,3,Gino Paoli,a_00104,Un altro amore,s_01178,G. Paoli
+2002,4,Fausto Leali e Luisa Corna,a_00723,Ora che ho bisogno di te,s_01179,"F. Berlincioni, F. Leali, V. Tosetto"
+2002,5,Enrico Ruggeri,a_00566,Primavera a Sarajevo,s_01180,"E. Ruggeri, R. Mogliotti"
+2002,6,Mariella Nava,a_00617,Il cuore mio,s_01181,M. G. Nava
+2002,7,Filippa Giordano,a_00724,Amarti sì,s_01182,"L. Quarantotto, A. Napoletano"
+2002,8,Francesco Renga,a_00725,Tracce di te,s_01183,P. Renga
+2002,9,Fiordaliso,a_00543,Accidenti a te,s_01184,"G. Bigazzi, M. Falagiani"
+2002,10,Gazosa,a_00726,Ogni giorno di più,s_01185,"M. Z. Granieri, R. Siani, S. Sichel"
+2002,11,Michele Zarrillo,a_00510,Gli angeli,s_01186,"V. Incenzo, M. Zarrillo, R. Amici"
+2002,12,Gianluca Grignani,a_00708,Lacrime dalla Luna,s_01187,G. Grignani
+2002,13,Alessandro Safina,a_00727,Del perduto amore,s_01188,"G. Morra, M. Fabrizio"
+2002,14,Daniele Silvestri,a_00706,Salirò,s_01189,D. Silvestri
+2002,15,Nino D'Angelo,a_00576,Marì,s_01190,"N. D'Angelo, N. Tortora, P. Leon"
+2002,16,Patty Pravo,a_00315,L'immenso,s_01191,"F. Carraresi, L. Tempestini, R. Pacco"
+2002,17,Loredana Bertè,a_00577,Dimmi che mi ami,s_01192,"D. Latino, N. Tortora, P. Leon"
+2002,18,Mino Reitano,a_00258,La mia canzone,s_01193,"P. Panella, A. Paoletti, M. Reitano"
+2002,19,Lollipop,a_00728,Batte forte,s_01194,"L. Rana, G. Giorgilli, A. Blescia"
+2002,20,Timoria,a_00729,Casa mia,s_01195,O. Pedrini
+2003,1,Alexia,a_00722,Per dire di no,s_01196,"A. Salerno, Alexia"
+2003,2,Alex Britti,a_00717,7000 caffè,s_01197,A. Britti
+2003,3,Sergio Cammariere,a_00730,Tutto quello che un uomo,s_01198,"R. Kunstler, S. Cammariere"
+2003,4,Enrico Ruggeri e Andrea Mirò,a_00731,Nessuno tocchi Caino,s_01199,"E. Ruggeri, A. Mirò"
+2003,5,Syria,a_00675,L'amore è,s_01200,Jovanotti
+2003,6,Lisa,a_00698,Oceano,s_01201,"M. Malavasi, Leozed, A. Sandri"
+2003,7,Giuni Russo,a_00732,Morirò d'amore,s_01202,"G. Russo, V. Magelli, M. A. Sisini"
+2003,8,Silvia Salemi,a_00676,Nel cuore delle donne,s_01203,"G. Artegiani, S. Salemi"
+2003,9,Antonella Ruggiero,a_00697,Di un amore,s_01204,"A. Ruggiero, A. Volpe"
+2003,10,Luca Barbarossa,a_00508,Fortuna,s_01205,L. Barbarossa
+2003,11,Nino D'Angelo,a_00576,'A storia 'e nisciuno,s_01206,"N. D'Angelo, N. Tortora"
+2003,12,Cristiano De André,a_00733,Un giorno nuovo,s_01207,"C. De André, O. Malaspina, M. Talamo, S. Melone, D. Fossati"
+2003,13,Fausto Leali,a_00268,Eri tu,s_01208,"F. Leali, G. Panceri"
+2003,14,Anna Oxa,a_00452,Cambierò,s_01209,"M. Falagiani, M. Carnesecchi, A. Oxa"
+2003,15,Eiffel 65,a_00734,Quelli che non hanno età,s_01210,"D. Capuano, M. Lobina, G. Ponte, G. Randone, G. Colla"
+2003,16,Bobby Solo e Little Tony,a_00735,Non si cresce mai,s_01211,"G. Bigazzi, G. Gastaldo, R. Satti"
+2003,17,Anna Tatangelo e Federico Stragà,a_00736,Volere volare,s_01212,"Bungaro, C. Passavanti"
+2003,18,Negrita,a_00737,Tonight,s_01213,"F. Barbacci, P. Bruni, F. Li Causi, C. Petricich, E. Salvi"
+2003,19,Amedeo Minghi,a_00562,Sarà una canzone,s_01214,A. Minghi
+2003,20,Iva Zanicchi,a_00195,Fossi un tango,s_01215,"L. Lana, A. Donati"
+2004,1,Marco Masini,a_00611,L'uomo volante,s_01216,"M. Masini, G. Dati, G. Orlandi"
+2004,2,Mario Rosini,a_00738,Sei la vita mia,s_01217,"L. Leone, L. Patruno, C. Noto, L. Rana, G. Giorgilli"
+2004,3,Linda,a_00739,"Aria, sole, terra e mare",s_01218,"L. Valori, L. Bruti, M. Di Paolo, D. De Santis"
+2004,4,Paolo Meneguzzi,a_00740,Guardami negli occhi (prego),s_01219,"P. Meneguzzo, R. Di Bella, L. Mattioni, D. Melotti"
+2004,5,Bungaro,a_00741,Guardastelle,s_01220,"G. Romanelli, A. Calò"
+2004,6,Massimo Modugno e Gipsy Kings,a_00742,Quando l'aria mi sfiora,s_01221,"Mogol, G. Bella"
+2004,7,Stefano Picchi,a_00743,Generale Kamikaze,s_01222,S. Picchi
+2004,8,Morris Albert e Mietta,a_00744,Cuore,s_01223,"S. Dall'Ora, S. Boffa"
+2004,9,Neffa,a_00745,Le ore piccole,s_01224,G. Pellino
+2004,10,Mario Venuti,a_00746,Crudele,s_01225,"M. Venuti, Kaballà"
+2004,11,DJ Francesco,a_00747,Era bellissimo,s_01226,"F. Facchinetti, S. Lucato, D. Primiceri, A. Rapetti"
+2004,12,Simone Tomassini,a_00748,È stato tanto tempo fa,s_01227,S. Tomassini
+2004,13,DB Boulevard e Bill Wyman,a_00749,Basterà,s_01228,"A. Ventura, R. Palù, D. Benedetti"
+2004,14,Andrea Mingardi e The Blues Brothers Band,a_00750,È la musica,s_01229,"A. Mingardi, M. Tirelli"
+2004,15,Omar Pedrini,a_00751,Lavoro inutile,s_01230,O. Pedrini
+2004,16,Daniele Groff,a_00752,Sei un miracolo,s_01231,"D. Groff, M. Patrignani"
+2004,17,Adriano Pappalardo,a_00753,Nessun consiglio,s_01232,"R. Scarpetta, A. Pappalardo, L. Chiaravalli, G. Moretti"
+2004,18,Veruska,a_00754,Un angelo legato a un palo,s_01233,"Mogol, G. Bella, R. Bella"
+2004,19,Andrè,a_00755,Il nostro amore,s_01234,"M. Canigiula, S. Labate, C. Labate"
+2004,20,Danny Losito e Las Ketchup,a_00756,Single,s_01235,"D. Losito, M. Mariello"
+2004,21,Pacifico,a_00757,Solo un sogno,s_01236,L. De Crescenzo
+2004,22,Piotta,a_00758,Ladro di te,s_01237,"T. Zanello, E. Rubbi, M. Altomare"
+2005,1,Francesco Renga,a_00725,Angelo,s_01238,"F. Renga, M. Zappatini"
+2005,2,Toto Cutugno con Annalisa Minetti,a_00759,Come noi nessuno al mondo,s_01239,S. Cutugno
+2005,3,Antonella Ruggiero,a_00697,Echi d'infinito,s_01240,"M. Venuti, Kaballà"
+2005,4,Nicky Nicolai e Stefano Di Battista Jazz Quartet,a_00760,Che mistero è l'amore,s_01241,"M. Fabrizio, G. Lucariello, P. Marino"
+2005,5,Laura Bono,a_00761,Non credo nei miracoli,s_01242,"L. Bonometti, M. Natale"
+2005,6,Marcella Bella,a_00355,Uomo bastardo,s_01243,"G. Bella, S. Pieroni"
+2005,7,Anna Tatangelo,a_00762,Ragazza di periferia,s_01244,"L. D'Alessio, A. Pennino, V. D'Agostino"
+2005,8,Alexia,a_00722,Da grande,s_01245,"A. Aquilani, G. Fulcheri, G. Cominotti, M. Fabrizio"
+2005,9,Matia Bazar,a_00450,Grido d'amore,s_01246,"P. Cassano, G. Golzi"
+2005,10,Gigi D'Alessio,a_00712,L'amore che non c'è,s_01247,"L. D'Alessio, V. D'Agostino"
+2005,11,Veronica Ventavoli,a_00763,L'immaginario,s_01248,"D. Calvetti, M. Ciappelli"
+2005,12,Peppino di Capri,a_00249,La panchina,s_01249,"P. di Capri, C. Piccinelli, Depsa"
+2005,13,Marco Masini,a_00611,Nel mondo dei sogni,s_01250,"M. Masini, G Orlandi, G. Dati"
+2005,14,Le Vibrazioni,a_00764,Ovunque andrò,s_01251,F. Sarcina
+2005,15,La Differenza,a_00765,Che farò,s_01252,"F. Falcone, G. Martinelli, R. Zaccagna"
+2005,NF,DJ Francesco Band,a_00766,Francesca,s_01253,"A Rapetti, F. Facchinetti, D. Primiceri"
+2005,NF,Paolo Meneguzzi,a_00740,Non capiva che l'amavo,s_01254,"P. Meneguzzi, D. Melotti, R. Di Bella"
+2005,NF,Marina Rei,a_00682,Fammi entrare,s_01255,"M. Rei, D. Sinigallia, R. Sinigallia"
+2005,NF,Nicola Arigliano,a_00171,Colpevole,s_01256,"F. Fasano, G. Grottoli, A. Vaschetti"
+2005,NF,Giovanna D'Angi,a_00767,Fammi respirare,s_01257,"M. Pappalardo, G. Caruso"
+2005,NF,Max De Angelis,a_00768,Sono qui per questo,s_01258,"D. Calvetti, M. De Angelis, M. Ciappelli"
+2005,NF,Equ,a_00769,L'idea,s_01259,"V. Crociani, D. Boscherini, G. Graziani"
+2005,NF,Franco Califano,a_00590,Non escludo il ritorno,s_01260,"F. Zampaglione, F. Califano"
+2005,NF,Velvet,a_00770,Dovevo dirti molte cose,s_01261,"A. Sgreccia, G. Cornetta, P. Ferrantini, P. Bazzoffi"
+2005,NF,Christian Lo Zito,a_00771,Segui il tuo cuore,s_01262,G. Furnari
+2005,NF,Sabrina Guida,a_00772,Vorrei,s_01263,"S. Guida, R. D'Aquino, W. Esposito"
+2005,NF,Modà,a_00773,Riesci a innamorarmi,s_01264,F. Silvestre
+2005,NF,Paola & Chiara,a_00704,A modo mio,s_01265,"C. Iezzi, P. Iezzi"
+2005,NF,Umberto Tozzi,a_00612,Le parole,s_01266,"U. Tozzi, R. Ancillotti"
+2005,NF,Concido,a_00774,Ci vuole k...,s_01267,"A. Plebani, G. Costantini, M. Tarantelli"
+2005,NF,Enrico Boccadoro,a_00775,Dov'è la terra capitano,s_01268,E. Boccadoro
+2005,NF,Negramaro,a_00776,Mentre tutto scorre,s_01269,G. Sangiorgi
+2006,1,Povia,a_00777,Vorrei avere il becco,s_01270,G. Povia
+2006,2,Nomadi,a_00350,Dove si va,s_01271,"C. Cattini, D. Sacco, M. Vecchi, G. Carletti"
+2006,3,Anna Tatangelo,a_00762,Essere una donna,s_01272,"Mogol, G. D'Alessio"
+2006,4,Riccardo Maffoni,a_00778,Sole negli occhi,s_01273,R. Maffoni
+2006,F,Simone Cristicchi,a_00779,Che bella gente,s_01274,"S. Cristicchi, S. Cipollone"
+2006,F,Dolcenera,a_00780,Com'è straordinaria la vita,s_01275,"Dolcenera, L. Imerico, R. Pacco"
+2006,F,Michele Zarrillo,a_00510,L'alfabeto degli amanti,s_01276,"V. Incenzo, M. Zarrillo"
+2006,F,Zero Assoluto,a_00781,Svegliarsi la mattina,s_01277,"M. Maffucci, T. De Gasperi, D. Pao, E. Sognato"
+2006,NF,Simona Bencini,a_00782,Tempesta,s_01278,"S. Bencini,d E. Toffoli"
+2006,NF,Nicky Nicolai,a_00783,Lei ha la notte,s_01279,"T. Blu, N. Nicolai, M. Rinalduzzi, M. D'Angelo"
+2006,NF,Ron,a_00593,L'uomo delle stelle,s_01280,Ron
+2006,NF,Alex Britti,a_00717,Solo con te,s_01281,A. Britti
+2006,NF,I Ragazzi di Scampia con Gigi Finizio,a_00784,Musica e speranza,s_01282,"Mogol, G. D'Alessio"
+2006,NF,Sugarfree,a_00785,Solo lei mi dà,s_01283,"F. Zampaglione, M. Amantia, G. Lo Iacono, M. Salom"
+2006,NF,Monia Russo,a_00786,Un mondo senza parole,s_01284,B. Illiano
+2006,NF,L'Aura,a_00787,Irraggiungibile,s_01285,L'Aura
+2006,NF,Helena Hellwig,a_00788,Di luna morirei,s_01286,"C. De Bei, Mango, R. Petruzzi"
+2006,NF,Tiziano Orecchio,a_00789,Preda innocente,s_01287,"M. Di Franco, A. Zuppini"
+2006,NF,"Noa, Carlo Fava & Solis String Quartet",a_00790,Un discorso in generale,s_01288,"C. Fava, G. Martinelli"
+2006,NF,Ivana Spagna,a_00648,Noi non possiamo cambiare,s_01289,M. Morante
+2006,NF,Luca Dirisio,a_00791,Sparirò,s_01290,L. Dirisio
+2006,NF,Andrea Ori,a_00792,Nel tuo mare,s_01291,"C. Ori, A. Ori, M. Vergnaghi"
+2006,NF,Ameba 4,a_00793,Rido... forse mi sbaglio,s_01292,F. Properzi
+2006,NF,Ivan Segreto,a_00794,Con un gesto,s_01293,I. Segreto
+2006,NF,Anna Oxa,a_00452,Processo a me stessa,s_01294,"P. Panella, A. Oxa, A. Miori"
+2006,NF,Mario Venuti e Arancia Sonora,a_00795,Un altro posto nel mondo,s_01295,"M. Venuti, Kaballà"
+2006,NF,Gianluca Grignani,a_00708,Liberi di sognare,s_01296,G. Grignani
+2006,NF,Antonello,a_00796,Capirò crescerai,s_01297,"A. Carozza, S. Pietroluongo"
+2006,NF,Deasonika,a_00797,Non dimentico più...,s_01298,"M. Zanotti, W. Clemente, S. Facchi, M. Trentacoste, F. Tumminelli"
+2006,NF,Virginio,a_00798,Davvero,s_01299,"V. Simonelli, P. Agosta"
+2007,1,Simone Cristicchi,a_00779,Ti regalerò una rosa,s_01300,S. Cristicchi
+2007,2,Al Bano,a_00273,Nel perdono,s_01301,"R. Zero, V. Incenzo, A. Paoletti, Y. Carrisi"
+2007,3,Piero Mazzocchetti,a_00799,Schiavo d'amore,s_01302,"G. Morra, M. Fabrizio"
+2007,4,Daniele Silvestri,a_00706,La paranza,s_01303,D. Silvestri
+2007,5,Mango,a_00579,Chissà se nevica,s_01304,"G. Mango, C. De Bei"
+2007,6,Paolo Meneguzzi,a_00740,Musica,s_01305,"P. Meneguzzi, R. Di Bella, D. Melotti"
+2007,7,Tosca,a_00679,Il terzo fuochista,s_01306,"R. Mascellino, M. Venturiello, Tosca"
+2007,8,Francesco con Roby Facchinetti,a_00800,Vivere normale,s_01307,"S. Bertolotti, D. Calvetti, M. Ciappelli, F. Facchinetti"
+2007,9,Zero Assoluto,a_00781,Appena prima di partire,s_01308,"M. Maffucci, T. De Gasperi, D. Pao,d E. Sognato"
+2007,10,Antonella Ruggiero,a_00697,Canzone fra le guerre,s_01309,"C. Carrara, A. Ruggiero"
+2007,F,Amalia Gré,a_00801,Amami per sempre,s_01310,"A. Grezio, M. Ranauro, P. Palma"
+2007,F,Marcella e Gianni Bella,a_00603,Forever per sempre,s_01311,"Mogol, G. Bella"
+2007,F,Stadio,a_00567,Guardami,s_01312,"S. Grandi, G. Curreri"
+2007,F,Paolo Rossi,a_00802,In Italia si sta male (si sta bene anziché no),s_01313,R. Gaetano
+2007,F,Nada,a_00289,Luna in piena,s_01314,N. Malanima
+2007,F,Johnny Dorelli,a_00067,Meglio così,s_01315,"G. Calabrese, G. Ferrio"
+2007,F,Fabio Concato,a_00718,Oltre il giardino,s_01316,F. Concato
+2007,F,Leda Battisti,a_00803,Senza me ti pentirai,s_01317,"L. Battisti, A. Battaglia"
+2007,F,Milva,a_00099,The Show Must Go On,s_01318,G. Faletti
+2007,F,Velvet,a_00770,Tutto da rifare,s_01319,"A. Sgreccia, G. Cornetta, P. Ferrantini, P. Bazzoffi"
+2008,1,Giò Di Tonno e Lola Ponce,a_00804,Colpo di fulmine,s_01320,G. Nannini
+2008,2,Anna Tatangelo,a_00762,Il mio amico,s_01321,L. D'Alessio
+2008,3,Fabrizio Moro,a_00805,Eppure mi hai cambiato la vita,s_01322,F. Moro
+2008,4,Toto Cutugno,a_00480,Un falco chiuso in gabbia,s_01323,"S. Cutugno, D. De Marinis"
+2008,5,Finley,a_00806,Ricordi,s_01324,"C. Ruggiero, D. Persoglio, M. Pedretti, S. Mantegazza, D. Calvio"
+2008,6,Paolo Meneguzzi,a_00740,Grande,s_01325,"L. Panceri, P. Meneguzzo, D. Melotti"
+2008,7,Sergio Cammariere,a_00730,L'amore non si spiega,s_01326,"R. Kunstler, S. Cammariere"
+2008,8,Gianluca Grignani,a_00708,Cammina nel sole,s_01327,G. Grignani
+2008,9,Little Tony,a_00098,Non finisce qui,s_01328,D. Amerio
+2008,10,Eugenio Bennato,a_00807,Grande sud,s_01329,E. Bennato
+2008,11,Mietta,a_00614,Baciami adesso,s_01330,"P. Panella, D. Ronda"
+2008,12,Max Gazzè,a_00710,Il solito sesso,s_01331,"F. Gazzè, M. Gazzè"
+2008,13,L'Aura,a_00787,Basta!,s_01332,L. Abela
+2008,14,Frankie hi-nrg mc,a_00808,Rivoluzione,s_01333,"F. Di Gesù, F. Bruni, C. Galbignani"
+2008,15,Michele Zarrillo,a_00510,L'ultimo film insieme,s_01334,"G. Artegiani, M. Zarrillo"
+2008,16,Tricarico,a_00809,Vita tranquilla,s_01335,F. Tricarico
+2008,17,Tiromancino,a_00810,Il rubacuori,s_01336,F. Zampaglione
+2008,18,Amedeo Minghi,a_00562,Cammina cammina,s_01337,"G. Marcucci, A. Minghi"
+2008,19,Mario Venuti,a_00746,A ferro e fuoco,s_01338,"M. Venuti, Kaballà"
+2008,DQ,Loredana Bertè,a_00577,Musica e parole,s_01339,"L. Bertè, A. Radius, O. Avogadro"
+2009,1,Marco Carta,a_00811,La forza mia,s_01340,P. Carta
+2009,2,Povia,a_00777,Luca era gay,s_01341,Povia
+2009,3,Sal Da Vinci,a_00812,Non riesco a farti innamorare,s_01342,"V. D'Agostino, L. D'Alessio, S. M. Sorrentino"
+2009,F,Francesco Renga,a_00725,Uomo senza età,s_01343,"F. Renga, M. Zappatini"
+2009,F,Fausto Leali,a_00268,Una piccola parte di te,s_01344,"G. Fasano, F. Berlincioni"
+2009,F,Marco Masini,a_00611,L'Italia,s_01345,"M. Masini, B. Dati"
+2009,F,Patty Pravo,a_00315,E io verrò un giorno là,s_01346,A. Cutri
+2009,F,Alexia feat. Mario Lavezzi,a_00813,Biancaneve,s_01347,"Mogol, M. Lavezzi"
+2009,F,Al Bano,a_00273,L'amore è sempre amore,s_01348,"G. Morra, M. Fabrizio"
+2009,F,"Pupo, Paolo Belli e Youssou N'Dour",a_00814,L'opportunità,s_01349,"Mogol, E. Ghinazzi"
+2009,NF,Dolcenera,a_00780,Il mio amore unico,s_01350,"Dolcenera, S. Lanza, G. P. Ameli, O. Avogadro"
+2009,NF,Gemelli DiVersi,a_00815,Vivi per un miracolo,s_01351,"L. Aleotti, A. Merli, E. Busnaghi, F. Stranges"
+2009,NF,Nicky Nicolai e Stefano Di Battista,a_00816,Più sole,s_01352,"L. Cherubini, S. Di Battista"
+2009,NF,Afterhours,a_00817,Il paese è reale,s_01353,"M. Agnelli, G. Ciccarelli, R. D'Erasmo, E. Gabrielli, G. Prette"
+2009,NF,Tricarico,a_00809,Il bosco delle fragole,s_01354,F. Tricarico
+2009,NF,Iva Zanicchi,a_00195,Ti voglio senza amore,s_01355,"F. Berlincioni, G. Fasano"
+2010,1,Valerio Scanu,a_00818,Per tutte le volte che...,s_01356,P. Carone
+2010,2,Pupo ed Emanuele Filiberto con Luca Canonici,a_00819,Italia amore mio,s_01357,"E. Filiberto, E. Ghinazzi"
+2010,3,Marco Mengoni,a_00820,Credimi ancora,s_01358,"M. Mengoni, S. Fabiani, P. Calabrese, M. Calabrese"
+2010,4,Noemi,a_00821,Per tutta la vita,s_01359,"D. Calvetti, M. Ciappelli"
+2010,5,Malika Ayane,a_00822,Ricomincio da qui,s_01360,"M. Ayane, Pacifico, F. Arnò"
+2010,6,Irene Fornaciari feat. Nomadi,a_00823,Il mondo piange,s_01361,"A. Fornaciari, D. Dattoli, I. Fornaciari"
+2010,7,Simone Cristicchi,a_00779,Meno male,s_01362,"S. Cristicchi, F. Di Gesù, E. Marcelli, A. Canini"
+2010,8,Irene Grandi,a_00709,La cometa di Halley,s_01363,"F. Bianconi, I. Grandi"
+2010,9,Arisa,a_00824,Malamorenò,s_01364,G. Anastasi
+2010,10,Povia,a_00777,La verità,s_01365,G. Povia
+2010,NF,Enrico Ruggeri,a_00566,La notte delle fate,s_01366,E. Ruggeri
+2010,NF,Fabrizio Moro,a_00805,Non è una canzone,s_01367,F. Moro
+2010,NF,Sonohra,a_00825,Baby,s_01368,"R. Tini, D. Fainello"
+2010,NF,Nino D'Angelo con Maria Nazionale,a_00826,Jammo jà,s_01369,N. D'Angelo
+2010,NF,Toto Cutugno,a_00480,Aeroplani,s_01370,"T. Cutugno, C. Romano, S. Iodice"
+2011,1,Roberto Vecchioni,a_00364,Chiamami ancora amore,s_01371,R. Vecchioni
+2011,2,Modà con Emma,a_00827,Arriverà,s_01372,"F. Silvestre, E. Zapparoli, E. Palmosi"
+2011,3,Al Bano,a_00273,Amanda è libera,s_01373,"F. Berlincioni, A. Carrisi, A. Paoletti"
+2011,4,Davide Van De Sfroos,a_00828,Yanez,s_01374,D. Bernasconi
+2011,5,Luca Madonia con Franco Battiato,a_00829,L'alieno,s_01375,L. Madonia
+2011,6,La Crus,a_00830,Io confesso,s_01376,"M. E. Giovanardi, M. Curallo"
+2011,7,Nathalie,a_00831,Vivo sospesa,s_01377,N. Giannitrapani
+2011,8,Luca Barbarossa e Raquel del Rosario,a_00832,Fino in fondo,s_01378,L. Barbarossa
+2011,9,Anna Tatangelo,a_00762,Bastardo,s_01379,"V. D'Agostino, A. Tatangelo, G. D'Alessio"
+2011,10,Giusy Ferreri,a_00833,Il mare immenso,s_01380,"Bungaro, G. Ferreri, M. Calò"
+2011,NF,Max Pezzali,a_00834,Il mio secondo tempo,s_01381,M. Pezzali
+2011,NF,Tricarico,a_00809,Tre colori,s_01382,F. Mesolella
+2011,NF,Anna Oxa,a_00452,La mia anima d'uomo,s_01383,"L. Imerico, A. Oxa, R. Pacco"
+2011,NF,Patty Pravo,a_00315,Il vento e le rose,s_01384,"D. Calvetti, M. Ciappelli"
+2012,1,Emma,a_00835,Non è l'inferno,s_01385,"F. Silvestre, L. Sala, E. Palmosi"
+2012,2,Arisa,a_00824,La notte,s_01386,G. Anastasi
+2012,3,Noemi,a_00821,Sono solo parole,s_01387,F. Moro
+2012,4,Gigi D'Alessio e Loredana Bertè,a_00836,Respirare,s_01388,"L. D'Alessio, V. D'Agostino"
+2012,5,Pierdavide Carone e Lucio Dalla,a_00837,Nanì,s_01389,"P. Carone, L. Dalla"
+2012,6,Dolcenera,a_00780,Ci vediamo a casa,s_01390,Dolcenera
+2012,7,Nina Zilli,a_00838,Per sempre,s_01391,"R. Casalino, N. Zilli"
+2012,8,Francesco Renga,a_00725,La tua bellezza,s_01392,"F. Renga, D. Mancino, D. Faini"
+2012,9,Samuele Bersani,a_00711,Un pallone,s_01393,S. Bersani
+2012,10,Eugenio Finardi,a_00572,E tu lo chiami Dio,s_01394,R. Di Lorenzo
+2012,NF,Matia Bazar,a_00450,Sei tu,s_01395,"P. Cassano, G. Golzi, F. Perversi"
+2012,NF,Chiara Civello,a_00839,Al posto del mondo,s_01396,"C. Civello, D. Tejera"
+2012,NF,Irene Fornaciari,a_00840,Grande mistero,s_01397,D. Van De Sfroos
+2012,NF,Marlene Kuntz,a_00841,Canzone per un figlio,s_01398,"C. Godano, R. Tesio, L. Bergia"
+2013,1,Marco Mengoni,a_00820,L'essenziale,s_01399,"R. Casalino, M. Mengoni, F. De Benedittis"
+2013,2,Elio e le Storie Tese,a_00662,La canzone mononota,s_01400,"S. Belisari, S. Conforti, D. L. Civaschi, N. Fasani"
+2013,3,Modà,a_00773,Se si potesse non morire,s_01401,F. Silvestre
+2013,4,Malika Ayane,a_00822,E se poi,s_01402,G. Sangiorgi
+2013,5,Raphael Gualazzi,a_00842,Sai (ci basta un sogno),s_01403,R. Gualazzi
+2013,6,Daniele Silvestri,a_00706,A bocca chiusa,s_01404,D. Silvestri
+2013,7,Max Gazzè,a_00710,Sotto casa,s_01405,"F. Gazzè, M. Gazzè, F. De Benedittis"
+2013,8,Chiara,a_00843,Il futuro che sarà,s_01406,"F. Bianconi, L. Chiaravalli, L. Gonzalez Alea"
+2013,9,Annalisa,a_00844,Scintille,s_01407,"D. Faini, A. Galbiati"
+2013,10,Maria Nazionale,a_00845,È colpa mia,s_01408,"G. Servillo, F. Mesolella"
+2013,11,Simone Cristicchi,a_00779,La prima volta (che sono morto),s_01409,"S. Cristicchi, L. Pari"
+2013,12,Marta sui Tubi,a_00846,Vorrei,s_01410,"G. Gulino, M. Boschi, C. Pipitone, P. Pischedda, I. Paolini"
+2013,13,Simona Molinari con Peter Cincotti,a_00847,La felicità,s_01411,"S. Molinari, M. Vultaggio, P. Cincotti, C. Avarello"
+2013,14,Almamegretta,a_00848,Mamma non lo sa,s_01412,"G. Della Volpe, P. Polcari, G. Tesone"
+2013,NF,Marco Mengoni,a_00820,Bellissimo,s_01413,"G. Nannini, Pacifico, D. Tagliapietra"
+2013,NF,Modà,a_00773,Come l'acqua dentro il mare,s_01414,F. Silvestre
+2013,NF,Elio e le Storie Tese,a_00662,Dannati forever,s_01415,"S. Belisari, S. Conforti, D. L. Civaschi, N. Fasani"
+2013,NF,Marta sui Tubi,a_00846,Dispari,s_01416,"G. Gulino, M. Boschi, C. Pipitone, P. Pischedda, I. Paolini"
+2013,NF,Simona Molinari con Peter Cincotti,a_00847,Dr. Jekyll Mr. Hyde,s_01417,"L. Luttazzi, A. Zeppieri"
+2013,NF,Max Gazzè,a_00710,I tuoi maledettissimi impegni,s_01418,"F. Gazzè, M. Gazzè, M. Buzzanca"
+2013,NF,Daniele Silvestri,a_00706,Il bisogno di te (ricatto d'onor),s_01419,D. Silvestri
+2013,NF,Chiara,a_00843,L'esperienza dell'amore,s_01420,"F. Zampaglione, D. Zampaglione"
+2013,NF,Simone Cristicchi,a_00779,Mi manchi,s_01421,"S. Cristicchi, F. Di Salvo, R. Pacco"
+2013,NF,Malika Ayane,a_00822,Niente,s_01422,G. Sangiorgi
+2013,NF,Annalisa,a_00844,Non so ballare,s_01423,E. Meta
+2013,NF,Almamegretta,a_00848,Onda che vai,s_01424,"F. Zampaglione, D. Zampaglione"
+2013,NF,Maria Nazionale,a_00845,Quando non parlo,s_01425,E. Gragnaniello
+2013,NF,Raphael Gualazzi,a_00842,Senza ritegno,s_01426,R. Gualazzi
+2014,1,Arisa,a_00824,Controvento,s_01427,G. Anastasi
+2014,2,Raphael Gualazzi & The Bloody Beetroots,a_00849,Liberi o no,s_01428,"R. Gualazzi, B. Cornelius Rifo"
+2014,3,Renzo Rubino,a_00850,Ora,s_01429,"R. Rubino, A. Rodini"
+2014,4,Francesco Renga,a_00725,Vivendo adesso,s_01430,E. Toffoli
+2014,5,Noemi,a_00821,Bagnati dal sole,s_01431,"Noemi, C. Ailin, R. Frenneaux"
+2014,6,Perturbazione,a_00851,L'unica,s_01432,"T. Cerasuolo, C. Lo Mele, A. Baracco, E. Diana, G. Giancursi, R. Lo Mele"
+2014,7,Cristiano De André,a_00733,Il cielo è vuoto,s_01433,"D. Mancino, D. Faini, C. De André"
+2014,8,Frankie hi-nrg mc,a_00808,Pedala,s_01434,"F. Di Gesù, C. Galbignani, L. Beccafichi"
+2014,9,Giusy Ferreri,a_00833,Ti porto a cena con me,s_01435,"R. Casalino, D. Faini"
+2014,10,Francesco Sarcina,a_00852,Nel tuo sorriso,s_01436,F. Sarcina
+2014,11,Giuliano Palma,a_00853,Così lontano,s_01437,"N. Zilli, M. Ciappelli, A. Flora"
+2014,12,Antonella Ruggiero,a_00697,Da lontano,s_01438,"A. Ruggiero, A. Graziano, R. Colombo, A. Rossi"
+2014,13,Ron,a_00593,Sing in the rain,s_01439,"Ron, M. Del Forno"
+2014,DQ,Riccardo Sinigallia,a_00854,Prima di andare via,s_01440,"F. Gatti, R. Sinigallia"
+2014,NF,Francesco Renga,a_00725,A un isolato da te,s_01441,R. Casalino
+2014,NF,Francesco Sarcina,a_00852,In questa città,s_01442,F. Sarcina
+2014,NF,Cristiano De André,a_00733,Invisibili,s_01443,"F. Ferraboschi, C. De André"
+2014,NF,Giusy Ferreri,a_00833,L'amore possiede il bene,s_01444,"R. Casalino, N. Verrienti"
+2014,NF,Perturbazione,a_00851,L'Italia vista dal bar,s_01445,"T. Cerasuolo, G. Giancursi, A. Baracco, E. Diana, C. Lo Mele, R. Lo Mele"
+2014,NF,Arisa,a_00824,Lentamente (Il primo che passa),s_01446,"C. Donà, R. Pippa, S. Lanza"
+2014,NF,Renzo Rubino,a_00850,Per sempre e poi basta,s_01447,"R. Rubino, A. Rodini"
+2014,NF,Antonella Ruggiero,a_00697,Quando balliamo,s_01448,"A. Ruggiero, S. Lenzi, R. Colombo"
+2014,NF,Raphael Gualazzi & The Bloody Beetroots,a_00849,Tanto ci sei,s_01449,"G. Sangiorgi, R. Gualazzi, B. Cornelius Rifo"
+2014,NF,Giuliano Palma,a_00853,Un bacio crudele,s_01450,"C. Valli, G. Palma, F. Merigo"
+2014,NF,Noemi,a_00821,Un uomo è un albero,s_01451,"Noemi, D. Mancino, D. Faini"
+2014,NF,Frankie hi-nrg mc,a_00808,Un uomo è vivo,s_01452,"F. Di Gesù, C. Galbignani, L. Beccafichi"
+2014,NF,Ron,a_00593,Un abbraccio unico,s_01453,Ron
+2014,NF,Riccardo Sinigallia,a_00854,Una rigenerazione,s_01454,"F. Gatti, R. Sinigallia"
+2015,1,Il Volo,a_00855,Grande amore,s_01455,"F. Boccia, C. Esposito"
+2015,2,Nek,a_00678,Fatti avanti amore,s_01456,"Nek, L. Chiaravalli, A. Bonomo, G. Fazio"
+2015,3,Malika Ayane,a_00822,Adesso e qui (nostalgico presente),s_01457,"M. Ayane, Pacifico, G. Caccamo, A. Flora"
+2015,4,Annalisa,a_00844,Una finestra tra le stelle,s_01458,F. Silvestre
+2015,5,Chiara,a_00843,Straordinario,s_01459,"E. Meta, G. Pollex"
+2015,6,Marco Masini,a_00611,Che giorno è,s_01460,"M. Masini, F. Camba, D. Coro"
+2015,7,Dear Jack,a_00856,Il mondo esplode tranne noi,s_01461,"P. Romitelli, D. Simonetta"
+2015,8,Gianluca Grignani,a_00708,Sogni infranti,s_01462,G. Grignani
+2015,9,Nina Zilli,a_00838,Sola,s_01463,N. Zilli
+2015,10,Lorenzo Fragola,a_00857,Siamo uguali,s_01464,"L. Fragola, Fedez, F. Cogliati"
+2015,11,Alex Britti,a_00717,Un attimo importante,s_01465,A. Britti
+2015,12,Irene Grandi,a_00709,Un vento senza nome,s_01466,"I. Grandi, S. Lanza"
+2015,13,Nesli,a_00858,Buona fortuna amore,s_01467,"Nesli, Brando"
+2015,14,Bianca Atzei,a_00859,Il solo al mondo,s_01468,F. Silvestre
+2015,15,Moreno,a_00860,Oggi ti parlo così,s_01469,"M. Donadoni, R. Casalino, M. Dagani, A. Erba, M. Zangirolami"
+2015,16,Grazia Di Michele e Mauro Coruzzi,a_00861,Io sono una finestra,s_01470,"G. Di Michele, R. Petrangeli"
+2015,NF,Raf,a_00588,Come una favola,s_01471,"R. Riefoli, S. Grandi, E. Cecere"
+2015,NF,Biggio e Mandelli,a_00862,Vita d'inferno,s_01472,"F. Biggio, M. Ferro, F. Mandelli"
+2015,NF,Anna Tatangelo,a_00762,Libera,s_01473,"F. Silvestre, E. Palmosi"
+2015,NF,Lara Fabian,a_00863,Voce,s_01474,"C. Cremonini, L. Fabian, F. Zanotti"
+2016,1,Stadio,a_00567,Un giorno mi dirai,s_01475,"S. Grandi, G. Curreri, L. Chiaravalli"
+2016,2,Francesca Michielin,a_00864,Nessun grado di separazione,s_01476,"F. Michielin, F. Abbate, Cheope, F. Gargiulo"
+2016,3,Giovanni Caccamo e Deborah Iurato,a_00865,Via da qui,s_01477,G. Sangiorgi
+2016,4,Enrico Ruggeri,a_00566,Il primo amore non si scorda mai,s_01478,E. Ruggeri
+2016,5,Lorenzo Fragola,a_00857,Infinite volte,s_01479,"L. Fragola, A. Filippelli, F. Ferraguzzo, R. L. Di Benedetto, R. Canale"
+2016,6,Patty Pravo,a_00315,Cieli immensi,s_01480,F. Zampaglione
+2016,7,Clementino,a_00866,Quando sono lontano,s_01481,"C. Maccaro, K. Scherer, V. Stein"
+2016,8,Noemi,a_00821,La borsa di una donna,s_01482,"M. Masini, M. Adami, A. Iammarino"
+2016,9,Rocco Hunt,a_00867,Wake Up,s_01483,"R. Pagliarulo, S. Benussi, V. Catanzaro"
+2016,10,Arisa,a_00824,Guardando il cielo,s_01484,G. Anastasi
+2016,11,Annalisa,a_00844,Il diluvio universale,s_01485,"D. Calvetti, A. Scarrone"
+2016,12,Elio e le Storie Tese,a_00662,Vincere l'odio,s_01486,"S. Belisari, S. Conforti, D. Civaschi, N. Fasani"
+2016,13,Valerio Scanu,a_00818,Finalmente piove,s_01487,F. Moro
+2016,14,Alessio Bernabei,a_00868,Noi siamo infinito,s_01488,"R. Casalino, D. Faini, I. Amatucci"
+2016,15,Dolcenera,a_00780,Ora o mai più (le cose cambiano),s_01489,"Dolcenera, Finaz"
+2016,16,Irene Fornaciari,a_00840,Blu,s_01490,"G. Dati, I. Fornaciari, M. Fontana, D. Calvetti"
+2016,NF,Zero Assoluto,a_00781,Di me e di te,s_01491,"T. De Gasperi, A. Filippelli, M. Maffucci, L. Vicini"
+2016,NF,Bluvertigo,a_00721,Semplicemente,s_01492,M. Castoldi
+2016,NF,Neffa,a_00745,Sogni e nostalgia,s_01493,G. Pellino
+2016,NF,Dear Jack,a_00856,Mezzo respiro,s_01494,"S. Paviani, R. Balbo, L. Riflessi, C. Corradini"
+2017,1,Francesco Gabbani,a_00869,Occidentali's Karma,s_01495,"F. Ilacqua, F. Gabbani, L. Chiaravalli, F. Gabbani"
+2017,2,Fiorella Mannoia,a_00515,Che sia benedetta,s_01496,"Amara, S. Mineo"
+2017,3,Ermal Meta,a_00870,Vietato morire,s_01497,E. Meta
+2017,4,Michele Bravi,a_00871,Il diario degli errori,s_01498,"Cheope, F. Abbate, G. Anastasi"
+2017,5,Paola Turci,a_00604,Fatti bella per te,s_01499,"G. Anania, L. Chiaravalli, D. Simonetta, P. Turci"
+2017,6,Sergio Sylvestre,a_00872,Con te,s_01500,"Giorgia, S. Sylvestre, S. Maiuolo"
+2017,7,Fabrizio Moro,a_00805,Portami via,s_01501,"F. Mobrici, R. Cardelli"
+2017,8,Elodie,a_00873,Tutta colpa mia,s_01502,"E. Marrone, O. Angiuli, G. Pollex, F. Cianciola"
+2017,9,Bianca Atzei,a_00859,Ora esisti solo tu,s_01503,F. Silvestre
+2017,10,Samuel,a_00874,Vedrai,s_01504,"Samuel, C. Rigano, R. Onori"
+2017,11,Michele Zarrillo,a_00510,Mani nelle mani,s_01505,"M. Zarrillo, G. Artegiani"
+2017,12,Lodovica Comello,a_00875,Il cielo non mi basta,s_01506,"A. Di Martino, F. Abbate, D. Faini, F. Ferraguzzo"
+2017,13,Marco Masini,a_00611,Spostato di un secondo,s_01507,"M. Masini, Zibba, D. Calvetti"
+2017,14,Chiara,a_00843,Nessun posto è casa mia,s_01508,"N. Verrienti, C. Verrienti"
+2017,15,Alessio Bernabei,a_00868,Nel mezzo di un applauso,s_01509,"R. Casalino, D. Faini, V. Casagrande"
+2017,16,Clementino,a_00866,Ragazzi fuori,s_01510,"C. Maccaro, F. Rizzo, P. M. Lombroni Capalbo, S. Tognini"
+2017,NF,Al Bano,a_00273,Di rose e di spine,s_01511,"M. Fabrizio, A. Carrisi, K. Astarita"
+2017,NF,Gigi D'Alessio,a_00712,La prima stella,s_01512,G. D'Alessio
+2017,NF,Ron,a_00593,L'ottava meraviglia,s_01513,"M. Del Forno, Ron, F. Caprara, E. Mangia"
+2017,NF,Giusy Ferreri,a_00833,Fa talmente male,s_01514,"R. Casalino, Takagi, Ketra, P. Catalano"
+2017,NF,Nesli & Alice Paba,a_00876,Do retta a te,s_01515,"Nesli, Brando"
+2017,NF,Raige e Giulia Luzi,a_00877,Togliamoci la voglia,s_01516,"L. Chiaravalli, A. Iammarino, A. Vella, Zibba"
+2018,6,Max Gazzè,a_00710,La leggenda di Cristalda e Pizzomunno,s_01517,"F. Gazzè, M. Gazzè, F. De Benedittis"
+2018,1,Ermal Meta e Fabrizio Moro,a_00878,Non mi avete fatto niente,s_01518,"E. Meta, F. Moro, A. Febo"
+2018,2,Lo Stato Sociale,a_00879,Una vita in vacanza,s_01519,"A. Cazzola, F. Draicchio, L. Guenzi, A. Guidetti, E. Roberto, M. Romagnoli"
+2018,3,Annalisa,a_00844,Il mondo prima di te,s_01520,"A. Scarrone, D. Simonetta, A. Raina"
+2018,4,Ron,a_00593,Almeno pensami,s_01521,L. Dalla
+2018,5,Ornella Vanoni con Bungaro e Pacifico,a_00880,Imparare ad amarsi,s_01522,"Bungaro, C. Chiodo, Pacifico, A. Fresa"
+2018,7,Luca Barbarossa,a_00508,Passame er sale,s_01523,L. Barbarossa
+2018,8,Diodato e Roy Paci,a_00881,Adesso,s_01524,A. Diodato
+2018,9,The Kolors,a_00882,"Frida (mai, mai, mai)",s_01525,"D. Petrella, D. Faini, A. Raina, Stash"
+2018,10,Giovanni Caccamo,a_00883,Eterno,s_01526,"G. Caccamo, Cheope"
+2018,11,Le Vibrazioni,a_00764,Così sbagliato,s_01527,"F. Sarcina, L. Chiaravalli, A. Bonomo, D. Simonetta"
+2018,12,Enzo Avitabile con Peppe Servillo,a_00884,Il coraggio di ogni giorno,s_01528,"V. Avitabile, Pacifico"
+2018,13,Renzo Rubino,a_00850,Custodire,s_01529,R. Rubino
+2018,14,Noemi,a_00821,Non smettere mai di cercarmi,s_01530,"M. Pelan, Noemi, D. Calvetti, F. De Martino"
+2018,15,Red Canzian,a_00885,Ognuno ha il suo racconto,s_01531,"M. Porru, R. Canzian"
+2018,16,Decibel,a_00488,Lettera dal Duca,s_01532,"E. Ruggeri, F. Muzio, S. Capeccia"
+2018,17,Nina Zilli,a_00838,Senza appartenere,s_01533,"G. Angi, A. Iammarino, N. Zilli"
+2018,18,Roby Facchinetti e Riccardo Fogli,a_00886,Il segreto del tempo,s_01534,"Pacifico, R. Facchinetti"
+2018,19,Mario Biondi,a_00887,Rivederti,s_01535,"M. Biondi, G. Furnari, D. Fisicaro"
+2018,20,Elio e le Storie Tese,a_00662,Arrivedorci,s_01536,"S. Belisari, S. Conforti, D. Civaschi, N. Fasani"
+2019,1,Mahmood,a_00888,Soldi,s_01537,"Mahmood, Dardust, Charlie Charles"
+2019,2,Ultimo,a_00889,I tuoi particolari,s_01538,N. Moriconi
+2019,3,Il Volo,a_00855,Musica che resta,s_01539,"G. Nannini, E. Munda, P. Romitelli, P. Mammaro, A. Carozza"
+2019,4,Loredana Bertè,a_00577,Cosa ti aspetti da me,s_01540,"G. Curreri, G. Pulli, P. Romitelli"
+2019,5,Simone Cristicchi,a_00779,Abbi cura di me,s_01541,"S. Cristicchi, N. Brunialti, G. Ortenzi"
+2019,6,Daniele Silvestri,a_00706,Argentovivo,s_01542,"D. Silvestri, T. Iurcich, F. Rondanini, M. Agnelli"
+2019,7,Irama,a_00890,La ragazza con il cuore di latta,s_01543,"Irama, G. Colonnelli, A. Debernardi, G. Nenna"
+2019,8,Arisa,a_00824,Mi sento bene,s_01544,"M. Buzzanca, L. Vizzini, R. Pippa, A. Flora"
+2019,9,Achille Lauro,a_00891,Rolls Royce,s_01545,"A. Lauro, D. Petrella, D. Dezi, D. Mungai, Boss Doms"
+2019,10,Enrico Nigiotti,a_00892,Nonno Hollywood,s_01546,E. Nigiotti
+2019,11,Boomdabash,a_00893,Per un milione,s_01547,"F. Abbate, R. Pagliarulo, A. Rapetti Mogol, A. Cisternino, F. Clemente, A. Merli"
+2019,12,Ghemon,a_00894,Rose viola,s_01548,"G. L. Picariello, S. Tognini"
+2019,13,Ex-Otago,a_00895,Solo una canzone,s_01549,"M. Carucci, S. Bertuccini, F. Bacci, O. Martellacci, R. Bouchabla"
+2019,14,Motta,a_00896,Dov'è l'Italia,s_01550,F. Motta
+2019,15,Francesco Renga,a_00725,Aspetto che torni,s_01551,"Bungaro, F. Renga, C. Chiodo, Rakele, G. Runco"
+2019,16,Paola Turci,a_00604,L'ultimo ostacolo,s_01552,"P. Turci, L. Chiaravalli, S. Marletta, E. Roberts"
+2019,17,The Zen Circus,a_00897,L'amore è una dittatura,s_01553,"A. Appino, G. P. Cuccuru, M. Schiavelli"
+2019,18,Federica Carta e Shade,a_00898,Senza farlo apposta,s_01554,"Shade, J. Ettorre, G. Roggia"
+2019,19,Nek,a_00678,Mi farò trovare pronto,s_01555,"F. Neviani, P. Antonacci, L. Chiaravalli"
+2019,20,Negrita,a_00737,I ragazzi stanno bene,s_01556,"P. Bruni, C. Petricich, E. Salvi, F. Barbacci, L. Cilembrini, G. Gagliano"
+2019,21,Patty Pravo con Briga,a_00899,Un po' come la vita,s_01557,"M. Rettani, D. Calvetti, Zibba, Briga, L. Leonori"
+2019,22,Anna Tatangelo,a_00762,Le nostre anime di notte,s_01558,L. Vizzini
+2019,23,Einar,a_00900,Parole nuove,s_01559,"A. Maiello, E. Palmosi, N. Marotta"
+2019,24,Nino D'Angelo e Livio Cori,a_00901,Un'altra luce,s_01560,"L. Cori, N. D'Angelo, F. Fogliano, M. Dagani, G. Fracchiolla"
+2020,1,Diodato,a_00902,Fai rumore,s_01561,"Diodato, E. Roberts"
+2020,2,Francesco Gabbani,a_00869,Viceversa,s_01562,"F. Gabbani, Pacifico"
+2020,3,Pinguini Tattici Nucleari,a_00903,Ringo Starr,s_01563,R. Zanotti
+2020,4,Le Vibrazioni,a_00764,Dov'è,s_01564,"R. Casalino, D. Simonetta, F. Sarcina"
+2020,5,Piero Pelù,a_00904,Gigante,s_01565,"P. Pelù, L. Chiaravalli"
+2020,6,Tosca,a_00679,Ho amato tutto,s_01566,P. Cantarelli
+2020,7,Elodie,a_00873,Andromeda,s_01567,"Mahmood, Dardust"
+2020,8,Achille Lauro,a_00891,Me ne frego,s_01568,"A. Lauro, D. Petrella, D. Dezi, D. Mungai, M. Ciceroni, E. Manozzi"
+2020,9,Irene Grandi,a_00709,Finalmente io,s_01569,"V. Rossi, R. Casini, A. Righi, G. Curreri"
+2020,10,Rancore,a_00905,Eden,s_01570,"Rancore, Dardust"
+2020,11,Raphael Gualazzi,a_00842,Carioca,s_01571,"R. Gualazzi, D. Petrella, D. Pavanello"
+2020,12,Levante,a_00906,Tikibombom,s_01572,Levante
+2020,13,Anastasio,a_00907,Rosso di rabbia,s_01573,"Anastasio, L. Serventi, M. Azara, S. Tartaglini"
+2020,14,Alberto Urso,a_00908,Il sole ad est,s_01574,"P. Romitelli, G. Pulli"
+2020,15,Marco Masini,a_00611,Il confronto,s_01575,"M. Masini, F. Camba, D. Coro"
+2020,16,Paolo Jannacci,a_00909,Voglio parlarti adesso,s_01576,"A. Bonomo, P. Jannacci, E. Bassi, M. Bassi"
+2020,17,Rita Pavone,a_00295,Niente (Resilienza 74),s_01577,G. Merk
+2020,18,Michele Zarrillo,a_00510,Nell'estasi o nel fango,s_01578,"V. Parisse, M. Zarrillo"
+2020,19,Enrico Nigiotti,a_00892,Baciami adesso,s_01579,E. Nigiotti
+2020,20,Giordana Angi,a_00910,Come mia madre,s_01580,"G. Angi, M. Finotti"
+2020,21,Elettra Lamborghini,a_00911,Musica (e il resto scompare),s_01581,"D. Petrella, M. Canova Iorfida"
+2020,22,Junior Cally,a_00912,No grazie,s_01582,"J. Cally, J. Ettorre, F. Mercuri, G. Cremona, E. Maimone, L. Grillotti"
+2020,23,Riki,a_00913,Lo sappiamo entrambi,s_01583,"Riki, R. Scirè"
+2020,DQ,Bugo e Morgan,a_00914,Sincero,s_01584,"Bugo, Morgan, A. Bonomo, S. Bertolotti"
+2021,1,Måneskin,a_00915,Zitti e buoni,s_01585,"D. David, T. Raggi, V. De Angelis, E. Torchio"
+2021,2,Francesca Michielin e Fedez,a_00916,Chiamami per nome,s_01586,"F. Michielin, Fedez, J. D'Amico, A. Mahmoud, A. Raina, D. Simonetta"
+2021,3,Ermal Meta,a_00870,Un milione di cose da dirti,s_01587,"E. Meta, R. Cardelli"
+2021,4,Colapesce Dimartino,a_00917,Musica leggerissima,s_01588,"Colapesce, Dimartino"
+2021,5,Irama,a_00890,La genesi del tuo colore,s_01589,"Irama, Dardust, G. Nenna"
+2021,6,Willie Peyote,a_00918,Mai dire mai (la locura),s_01590,"W. Peyote, C. Cavalieri D'Oro, D. Bestonzo, G. Petrelli"
+2021,7,Annalisa,a_00844,Dieci,s_01591,"Annalisa, D. Simonetta, P. Antonacci, J. D'Amico"
+2021,8,Madame,a_00919,Voce,s_01592,"Madame, Dardust, E. Botta"
+2021,9,Orietta Berti,a_00208,Quando ti sei innamorato,s_01593,"F. Boccia, C. Esposito, M. Rettani"
+2021,10,Arisa,a_00824,Potevi fare di più,s_01594,G. D'Alessio
+2021,11,La Rappresentante di Lista,a_00920,Amare,s_01595,"V. Lucchesi, D. Mangiaracina, Dardust, R. Cammarata"
+2021,12,Extraliscio con Davide Toffolo,a_00921,Bianca luce nera,s_01596,"M. Mariani, Pacifico, E. Sgarbi"
+2021,13,Lo Stato Sociale,a_00879,Combat pop,s_01597,"A. Cazzola, F. Draicchio, J. Ettorre, L. Guenzi, A. Guidetti, E. Roberto, M. Romagnoli"
+2021,14,Noemi,a_00821,Glicine,s_01598,"Tattroli, G. Lubrano, D. Faini, F. Fugazza"
+2021,15,Malika Ayane,a_00822,Ti piaci così,s_01599,"M. Ayane, Pacifico, A. Flora, R. Rampino"
+2021,16,Fulminacci,a_00922,Santa Marinella,s_01600,Fulminacci
+2021,17,Max Gazzè,a_00710,Il farmacista,s_01601,"F. Gazzè, M. Gazzè, F. De Benedittis"
+2021,18,Fasma,a_00923,Parlami,s_01602,"Fasma, L. Zammarano"
+2021,19,Gaia,a_00924,Cuore amaro,s_01603,"Gaia, J. Ettorre, G. Spedicato, D. Dezi"
+2021,20,Coma Cose,a_00925,Fiamme negli occhi,s_01604,"F. Zanardelli, F. Mesiano, F. Dalè, C. Frigerio"
+2021,21,Ghemon,a_00894,Momento perfetto,s_01605,"Ghemon, S. Privitera, G. Seccia, D. Raciti"
+2021,22,Francesco Renga,a_00725,Quando trovo te,s_01606,"F. Renga, R. Casalino, D. Faini"
+2021,23,Gio Evan,a_00926,Arnica,s_01607,"G. Evan, F. Catitti"
+2021,24,Bugo,a_00927,E invece sì,s_01608,"Bugo, A. Bonomo, S. Bertolotti"
+2021,25,Aiello,a_00928,Ora,s_01609,Aiello
+2021,26,Random,a_00929,Torno a te,s_01610,"Random, Zenit"
+2022,1,Mahmood e Blanco,a_00930,Brividi,s_01611,"A. Mahmoud, M. Zocca, R. Fabbriconi"
+2022,2,Elisa,a_00715,O forse sei tu,s_01612,"E. Toffoli, D. Petrella"
+2022,3,Gianni Morandi,a_00353,Apri tutte le porte,s_01613,"L. Jovanotti, R. Onori"
+2022,4,Irama,a_00890,Ovunque sarai,s_01614,"Irama, G. Nenna, Shablo, V. L. Faraone, G. Colonnelli"
+2022,5,Sangiovanni,a_00931,Farfalle,s_01615,"Sangiovanni, A. La Cava, S. Tognini"
+2022,6,Emma,a_00835,Ogni volta è così,s_01616,"D. Petrella, Emma, D. Faini"
+2022,7,La Rappresentante di Lista,a_00920,Ciao ciao,s_01617,"V. Lucchesi, D. Mangiaracina, R. Calabrese, R. Cammarata, C. Drago, S. Privitera"
+2022,8,Massimo Ranieri,a_00271,Lettera di là dal mare,s_01618,F. Ilacqua
+2022,9,Dargen D'Amico,a_00932,Dove si balla,s_01619,"D. D'Amico, E. Roberts, G. Fazio, A. Bonomo"
+2022,10,Michele Bravi,a_00871,Inverno dei fiori,s_01620,"A. A. Vella, M. Bravi, Cheope, F. Catitti, F. Abbate"
+2022,11,Matteo Romano,a_00933,Virale,s_01621,"M. Romano, A. La Cava, F. Rossi, D. Faini"
+2022,12,Fabrizio Moro,a_00805,Sei tu,s_01622,"F. Moro, R. Cardelli"
+2022,13,AKA 7even,a_00934,Perfetta così,s_01623,"AKA 7even, V. Colella, M. E. Kleinschmidt, G. Vizzi, R. L. Patriarca"
+2022,14,Achille Lauro con Harlem Gospel Choir,a_00935,Domenica,s_01624,"A. Lauro, S. P. Manzari, D. Petrella, M. Ciceroni, M. Cutolo, G. Calculli"
+2022,15,Noemi,a_00821,Ti amo non lo so dire,s_01625,"A. La Cava, Mahmood, D. Faini"
+2022,16,Ditonellapiaga e Rettore,a_00936,Chimica,s_01626,"Ditonellapiaga, Rettore, A. Casagni, B. Ventura, E. Castroni, V. Smordoni"
+2022,17,Rkomi,a_00937,Insuperabile,s_01627,"Rkomi, A. La Cava, F. Catitti"
+2022,18,Iva Zanicchi,a_00195,Voglio amarti,s_01628,"E. Di Stefano, V. Mercurio, I. Ianne, C. Valli"
+2022,19,Giovanni Truppi,a_00938,"Tuo padre, mia madre, Lucia",s_01629,"G. Truppi, N. Contessa, Pacifico, M. Buccelli, G. Pallotti"
+2022,20,Highsnob e Hu,a_00939,Abbi cura di te,s_01630,"Highsnob, Hu, A. Moroni, F. De Marco, F. Musumeci"
+2022,21,Yuman,a_00940,Ora e qui,s_01631,"T. Di Giulio, F. Cataldo, Yuman"
+2022,22,Le Vibrazioni,a_00764,Tantissimo,s_01632,"R. Casalino, F. Sarcina, N. Verrienti"
+2022,23,Giusy Ferreri,a_00833,Miele,s_01633,"D. Petrella, F. Abbate, F. Clemente, A. Merli"
+2022,24,Ana Mena,a_00941,Duecentomila ore,s_01634,"R. Hunt, F. Abbate, S. Tognini"
+2022,25,Tananai,a_00942,Sesso occasionale,s_01635,"Tananai, D. Simonetta, P. Antonacci, A. Raina"
+2023,1,Marco Mengoni,a_00820,Due vite,s_01636,"M. Mengoni, D. Petrella, D. Simonetta"
+2023,2,Lazza,a_00943,Cenere,s_01637,"Lazza, D. Petrella, Dardust"
+2023,3,Mr. Rain,a_00944,Supereroi,s_01638,"Mr. Rain, F. Abbate, L. Vizzini"
+2023,4,Ultimo,a_00889,Alba,s_01639,Ultimo
+2023,5,Tananai,a_00942,Tango,s_01640,"Tananai, P. Antonacci, A. Raina, D. Simonetta"
+2023,6,Giorgia,a_00646,Parole dette male,s_01641,"A. Bianco, F. Roccati, M. Dagani, M. M. G. Fracchiolla"
+2023,7,Madame,a_00919,Il bene nel male,s_01642,"Madame, N. Biasin, I. Sinigaglia"
+2023,8,Rosa Chemical,a_00945,Made in Italy,s_01643,"Rosa Chemical, P. Antonacci, O. Inglese, D. Simonetta"
+2023,9,Elodie,a_00873,Due,s_01644,"Elodie, F. Abbate, J. Ettorre, F. Catitti"
+2023,10,Colapesce Dimartino,a_00917,Splash,s_01645,"Colapesce, Dimartino"
+2023,11,Modà,a_00773,Lasciami,s_01646,"F. Silvestre, E. Palmosi"
+2023,12,Gianluca Grignani,a_00708,Quando ti manca il fiato,s_01647,"G. Grignani,d E. Melozzi"
+2023,13,Coma_Cose,a_00946,L'addio,s_01648,"F. Zanardelli, F. Mesiano, F. Dalè, C. Frigerio"
+2023,14,Ariete,a_00947,Mare di guai,s_01649,"Ariete, Calcutta, Dardust, V. Centrella"
+2023,15,LDA,a_00948,Se poi domani,s_01650,"LDA, F. D'Alessio, A. Caiazza"
+2023,16,Articolo 31,a_00949,Un bel viaggio,s_01651,"J-Ax, Grido, F. Abbate, DJ Jad, Wlady, A. Colangelo, D. Silvestri"
+2023,17,Paola & Chiara,a_00704,Furore,s_01652,"J. Ettorre, A. La Cava, P. Iezzi, C. Iezzi, F. Mercuri, G. Cremona, L. Grillotti,d E. Maimone"
+2023,18,Leo Gassmann,a_00950,Terzo cuore,s_01653,"R. Zanotti, L. Gassmann, G. Pesenti, M. Paganelli"
+2023,19,Mara Sattei,a_00951,Duemilaminuti,s_01654,"D. David, D. Mattei,d E. Brun"
+2023,20,Colla Zio,a_00952,Non mi va,s_01655,"T. Bernasconi, T. Manzoni, A. Arminio, A. Malatesta, F. Lamperti, G. Pesenti"
+2023,21,I Cugini di Campagna,a_00953,Lettera 22,s_01656,"V. Lucchesi, D. Mangiaracina, F. Gargiulo"
+2023,22,Gianmaria,a_00954,Mostro,s_01657,"Gianmaria, G. Manilardi, V. Petrozzino, A. Filippelli, V. Centrella"
+2023,23,Levante,a_00906,Vivo,s_01658,Levante
+2023,24,Olly,a_00955,Polvere,s_01659,"Olly, E. Lovito, J. Boverod"
+2023,25,Anna Oxa,a_00452,Sali (canto dell'anima),s_01660,"A. Oxa, F. Bianconi, Kaballà, F. Zanotti"
+2023,26,Will,a_00956,Stupido,s_01661,"Will, S. Cremonini, A. Pugliese"
+2023,27,Shari,a_00957,Egoista,s_01662,"Shari, M. Pisciottu, L. Fenudi, R. Puddu"
+2023,28,Sethu,a_00958,Cause perse,s_01663,"M. De Lauri, G. De Lauri"
+2024,1,Angelina Mango,a_00959,La noia,s_01664,"A. Mango, Madame, Dardust"
+2024,2,Geolier,a_00960,"I p' me, tu p' te",s_01665,"E. Palumbo, P. Antonacci, D. Simonetta, Michelangelo, D. Totaro, F. D'Alessio, G. Petito"
+2024,3,Annalisa,a_00844,Sinceramente,s_01666,"Annalisa, D. Simonetta, P. Antonacci, S. Tognini"
+2024,4,Ghali,a_00961,Casa mia,s_01667,"Ghali, D. Petrella, Michelangelo"
+2024,5,Irama,a_00890,Tu no,s_01668,"Irama, G. Nenna, G. Colonnelli, F. Monti,d E. Mattozzi"
+2024,6,Mahmood,a_00888,Tuta gold,s_01669,"Mahmood, J. Ettorre, F. Catitti"
+2024,7,Loredana Bertè,a_00577,Pazza,s_01670,"L. Chiaravalli, A. Bonomo, L. Bertè, A. Pugliese"
+2024,8,Il Volo,a_00855,Capolavoro,s_01671,"S. Marletta, E. Roberts, M. Tenisci"
+2024,9,Alessandra Amoroso,a_00962,Fino a qui,s_01672,"A. Amoroso, J. Ettorre, F. Abbate, F. Clemente, A. F. Merli, P. Pasini"
+2024,10,Alfa,a_00963,Vai!,s_01673,"Alfa, M. A. Jackson, I. Scott"
+2024,11,Gazzelle,a_00964,Tutto qui,s_01674,"Gazzelle, F. Nardelli"
+2024,12,Il Tre,a_00965,Fragili,s_01675,"G. L. Senia, I. Sinigaglia, F. Aprili, P. Zou, G. Di Mario"
+2024,13,Diodato,a_00902,Ti muovi,s_01676,Diodato
+2024,14,Emma,a_00835,Apnea,s_01677,"Emma, D. Petrella, P. Antonacci, J. Boverod"
+2024,15,Fiorella Mannoia,a_00515,Mariposa,s_01678,"F. Mannoia, C. Di Francesco, Cheope, F. Abbate, M. Cerri"
+2024,16,The Kolors,a_00882,Un ragazzo una ragazza,s_01679,"A. Fiordispino, D. Petrella, F. Catitti, A. Fiordispino"
+2024,17,Mr. Rain,a_00944,Due altalene,s_01680,"Mr. Rain, L. Vizzini"
+2024,18,Santi Francesi,a_00966,L'amore in bocca,s_01681,"A. De Santis, M. L. Francese, C. Del Bono, A. Filippelli, D. G. Bestonzo"
+2024,19,Negramaro,a_00776,Ricominciamo tutto,s_01682,G. Sangiorgi
+2024,20,Dargen D'Amico,a_00932,Onda alta,s_01683,"D. D'Amico, E. Roberts, S. Marletta, G. Fazio, Cheope"
+2024,21,Ricchi e Poveri,a_00313,Ma non tutta la vita,s_01684,"E. Roberts, Cheope, S. Marletta"
+2024,22,BigMama,a_00967,La rabbia non ti basta,s_01685,"BigMama, M. L. Lazzerini, Estremo,d E. Brun"
+2024,23,Rose Villain,a_00968,Click boom!,s_01686,"R. Luini, D. Petrella, A. Ferrara"
+2024,24,Clara,a_00969,Diamanti grezzi,s_01687,"C. Soccini, A. La Cava, F. Catitti"
+2024,25,Renga Nek,a_00970,Pazzo di te,s_01688,"F. Renga, Nek, D. Mancino, D. Faini"
+2024,26,Maninni,a_00971,Spettacolare,s_01689,"Maninni, R. W. Guglielmi, G. Pollex, M. F. Xefteris"
+2024,27,La Sad,a_00972,Autodistruttivo,s_01690,"M. Botticini, E. Fonte, F. E. Clemente, R. Zanotti, M. Paganelli"
+2024,28,Bnkr44,a_00973,Governo punk,s_01691,"D. Lombardi, D. Caponi, A. Locci, P. Serafini, M. Vittiglio, J. Ettorre, J. Adamo"
+2024,29,Sangiovanni,a_00931,Finiscimi,s_01692,"Sangiovanni, P. Miano, F. Campedelli, A. Ferrara, F. Vaccari"
+2024,30,Fred De Palma,a_00974,Il cielo non ci vuole,s_01693,"F. De Palma, J. Ettorre, J. Boverod"
+2025,1,Olly,a_00955,Balorda nostalgia,s_01694,"F. Olivieri, J. Boverod, P. Pasini"
+2025,2,Lucio Corsi[N 2],a_00975,Volevo essere un duro,s_01695,"L. Corsi, T. Ottomano"
+2025,3,Brunori Sas,a_00976,L'albero delle noci,s_01696,D. Brunori
+2025,4,Fedez,a_00977,Battito,s_01697,"Fedez, F. Abbate, A. La Cava, Cripo"
+2025,5,Simone Cristicchi,a_00779,Quando sarai piccola,s_01698,"S. Cristicchi, N. Brunialti, Amara"
+2025,6,Giorgia,a_00646,La cura per me,s_01699,"R. Fabbriconi, Giorgia, Michelangelo"
+2025,7,Achille Lauro,a_00891,Incoscienti giovani,s_01700,"A. Lauro, S. P. Manzari, P. Antonacci, D. Simonetta, M. Ciceroni, D. Nelli, G. Calculli"
+2025,8,Francesco Gabbani,a_00869,Viva la vita,s_01701,"F. Gabbani, Pacifico, C. Gabelloni, D. Simonetta, G. Zito"
+2025,9,Irama,a_00890,Lentamente,s_01702,"Irama, R. Fabbriconi, Michelangelo, G. Colonnelli"
+2025,10,Coma_Cose,a_00946,Cuoricini,s_01703,"F. Mesiano, F. Lama, A. Filippelli, G. Manilardi"
+2025,11,Bresh,a_00978,La tana del granchio,s_01704,"Bresh, L. Di Biasi, G. De Lauri, L. Ghiazzi"
+2025,12,Elodie,a_00873,Dimenticarsi alle 7,s_01705,"Elodie, D. Petrella, D. Simonetta"
+2025,13,Noemi,a_00821,Se t'innamori muori,s_01706,"Mahmood, R. Fabbriconi, Michelangelo"
+2025,14,The Kolors,a_00882,Tu con chi fai l'amore,s_01707,"A. Fiordispino, D. Petrella, E. D'Erme, S. Tognini"
+2025,15,Rocco Hunt,a_00867,Mille vote ancora,s_01708,"R. Pagliarulo, Kende, M. Salvaderi, L. Santarelli, D. Simonetta, P. Antonacci, S. Tognini"
+2025,16,Willie Peyote,a_00918,Grazie ma no grazie,s_01709,"W. Peyote, A. A. Vella, D. Bestonzo, L. Romeo"
+2025,17,Sarah Toscano,a_00979,Amarcord,s_01710,"S. Toscano, J. Ettorre, F. Abbate, F. Mercuri, G. Cremona, E. Maimone, L. Grillotti"
+2025,18,"Shablo con Guè, Joshua e Tormento",a_00980,La mia parola,s_01711,"Guè, Joshua, Tormento, E. Medici, Shablo, V. L. Faraone, R. Lamanna,d E. Conocchia"
+2025,19,Rose Villain,a_00968,Fuorilegge,s_01712,"R. Luini, A. Ferrara, F. Abbate, Cripo"
+2025,20,Joan Thiele,a_00981,Eco,s_01713,"A. J. Thiele, E. Triglia, F. Abbate, S. Benussi"
+2025,21,Francesca Michielin,a_00864,Fango in paradiso,s_01714,"F. Michielin, D. Simonetta, A. Raina"
+2025,22,Modà,a_00773,Non ti dimentico,s_01715,F. Silvestre
+2025,23,Massimo Ranieri,a_00271,Tra le mani un cuore,s_01716,"T. Ferro, F. Neviani, G. Anania, M. Venturini"
+2025,24,Serena Brancale,a_00982,Anema e core,s_01717,"S. Brancale, F. Abbate, J. Ettorre, M. Finotti, N. Lazzarin"
+2025,25,Tony Effe,a_00983,Damme 'na mano,s_01718,"N. Rapisarda, D. Petrella, D. V. Vettraino, L. V. Faraone"
+2025,26,Gaia,a_00924,Chiamo io chiami tu,s_01719,"G. Gozzi, D. Petrella, S. Tognini"
+2025,27,Clara,a_00969,Febbre,s_01720,"C. Soccini, J. Ettorre, F. Calearo, F. Abbate, D. Faini"
+2025,28,Rkomi,a_00937,Il ritmo delle cose,s_01721,"M. Martorana, J. Ettorre, M. Pierotti, F. Catitti, Shablo, L. V. Faraone"
+2025,29,Marcella Bella,a_00355,Pelle diamante,s_01722,"M. Bella, M. Rettani, S. Cirenga, A. Simoncini"
+2025,RT,Emis Killa,a_00984,Demoni,s_01723,"E. R. Giambelli, N. Lazzarin, M. Cerri, M. Cerri, F. Abbate"
