@@ -44,12 +44,24 @@ Possible values are:<br>
 
 ## <b>Notes</b>
 
+### <i> **Artist entities** </i>
+
 Until 1971, with the exception of 1956, each song competing at the Sanremo Music Festival was traditionally performed by two different artists.
 For this reason, the same song may appear multiple times in the dataset, each associated with a different artist.
 This behavior is intentional and historically accurate, and does not represent a data duplication error, as the `song_id` field can be used to identify and group identical songs across different performers.
 
 Artist entities are not split when performers officially appeared at the festival as a single artistic unit.
 Groups, collaborations, or combined credits are treated as one unique artist, exactly as they were presented on the official Sanremo stage (for example, "Nilla Pizzi e Duo Fasano" is considered a single artist entity).
+
+### <i> **Artist name variations** </i>
+
+Some artists have participated in different editions of the Sanremo Music Festival under different stage names.
+In these cases, the same artist_id has been assigned to all name variants in order to correctly represent the underlying artist identity across editions.
+
+For example:
+
+- "Ron" and "Rosalino Cellamare" share the same artist_id
+- "Marcella" and "Marcella Bella" share the same artist_id
 
 -------
 
